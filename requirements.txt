@@ -1,0 +1,6 @@
+# GUI dependencies (tkinter is built-in with Python)
+# Dependencies for media processing:
+Pillow>=10.0.0
+pillow-heif>=0.10.0
+# Video metadata requires ffprobe (part of ffmpeg)
+# Install ffmpeg from: https://ffmpeg.org/download.html
