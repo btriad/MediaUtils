@@ -1,0 +1,2457 @@
+{
+  "session_start": "2025-12-07T13:32:52.756948",
+  "session_end": "2025-12-07T13:33:47.607467",
+  "total_operations": 350,
+  "operations": [
+    {
+      "timestamp": "2025-12-07T13:33:18.204098",
+      "operation": "session_start",
+      "total_files": 82,
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.216099",
+      "operation": "progress",
+      "current": 1,
+      "total": 82,
+      "filename": "DSC_0125.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.218099",
+      "operation": "rename",
+      "old_name": "DSC_0125.NEF",
+      "new_name": " 2024.03.14-11.56.10.001..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.218099",
+      "operation": "progress",
+      "current": 2,
+      "total": 82,
+      "filename": "DSC_0127.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.220101",
+      "operation": "rename",
+      "old_name": "DSC_0127.NEF",
+      "new_name": " 2024.03.14-12.57.20.002..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.221101",
+      "operation": "progress",
+      "current": 3,
+      "total": 82,
+      "filename": "DSC_0130.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.223100",
+      "operation": "rename",
+      "old_name": "DSC_0130.NEF",
+      "new_name": " 2024.03.14-13.34.25.003..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.224100",
+      "operation": "progress",
+      "current": 4,
+      "total": 82,
+      "filename": "DSC_0131.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.225098",
+      "operation": "rename",
+      "old_name": "DSC_0131.NEF",
+      "new_name": " 2024.03.14-14.31.10.004..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.225098",
+      "operation": "progress",
+      "current": 5,
+      "total": 82,
+      "filename": "DSC_0133.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.226099",
+      "operation": "rename",
+      "old_name": "DSC_0133.NEF",
+      "new_name": " 2024.03.14-14.33.33.005..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.227099",
+      "operation": "progress",
+      "current": 6,
+      "total": 82,
+      "filename": "DSC_0134.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.228100",
+      "operation": "rename",
+      "old_name": "DSC_0134.NEF",
+      "new_name": " 2024.03.14-14.37.09.006..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.228100",
+      "operation": "progress",
+      "current": 7,
+      "total": 82,
+      "filename": "DSC_0135.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.230101",
+      "operation": "rename",
+      "old_name": "DSC_0135.NEF",
+      "new_name": " 2024.03.14-14.38.14.007..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.230101",
+      "operation": "progress",
+      "current": 8,
+      "total": 82,
+      "filename": "DSC_0137.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.232102",
+      "operation": "rename",
+      "old_name": "DSC_0137.NEF",
+      "new_name": " 2024.03.14-14.38.29.008..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.233099",
+      "operation": "progress",
+      "current": 9,
+      "total": 82,
+      "filename": "DSC_0139.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.234099",
+      "operation": "rename",
+      "old_name": "DSC_0139.NEF",
+      "new_name": " 2024.03.14-15.32.43.009..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.239098",
+      "operation": "progress",
+      "current": 10,
+      "total": 82,
+      "filename": "DSC_0140.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.241099",
+      "operation": "rename",
+      "old_name": "DSC_0140.NEF",
+      "new_name": " 2024.03.14-15.32.45.010..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.242098",
+      "operation": "progress",
+      "current": 11,
+      "total": 82,
+      "filename": "DSC_0142.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.243098",
+      "operation": "rename",
+      "old_name": "DSC_0142.NEF",
+      "new_name": " 2024.03.14-15.44.34.011..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.244099",
+      "operation": "progress",
+      "current": 12,
+      "total": 82,
+      "filename": "DSC_0144.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.245098",
+      "operation": "rename",
+      "old_name": "DSC_0144.NEF",
+      "new_name": " 2024.03.14-15.49.03.012..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.246098",
+      "operation": "progress",
+      "current": 13,
+      "total": 82,
+      "filename": "DSC_0147.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.247099",
+      "operation": "rename",
+      "old_name": "DSC_0147.NEF",
+      "new_name": " 2024.03.15-09.07.30.013..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.248099",
+      "operation": "progress",
+      "current": 14,
+      "total": 82,
+      "filename": "DSC_0148.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.249099",
+      "operation": "rename",
+      "old_name": "DSC_0148.NEF",
+      "new_name": " 2024.03.15-09.07.50.014..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.250100",
+      "operation": "progress",
+      "current": 15,
+      "total": 82,
+      "filename": "DSC_0149.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.251099",
+      "operation": "rename",
+      "old_name": "DSC_0149.NEF",
+      "new_name": " 2024.03.15-09.09.34.015..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.252099",
+      "operation": "progress",
+      "current": 16,
+      "total": 82,
+      "filename": "DSC_0150.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.253098",
+      "operation": "rename",
+      "old_name": "DSC_0150.NEF",
+      "new_name": " 2024.03.15-09.09.44.016..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.254098",
+      "operation": "progress",
+      "current": 17,
+      "total": 82,
+      "filename": "DSC_0151.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.255098",
+      "operation": "rename",
+      "old_name": "DSC_0151.NEF",
+      "new_name": " 2024.03.15-09.09.52.017..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.255098",
+      "operation": "progress",
+      "current": 18,
+      "total": 82,
+      "filename": "DSC_0152.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.256098",
+      "operation": "rename",
+      "old_name": "DSC_0152.NEF",
+      "new_name": " 2024.03.15-09.32.46.018..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.257098",
+      "operation": "progress",
+      "current": 19,
+      "total": 82,
+      "filename": "DSC_0154.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.258098",
+      "operation": "rename",
+      "old_name": "DSC_0154.NEF",
+      "new_name": " 2024.03.15-09.37.19.019..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.258098",
+      "operation": "progress",
+      "current": 20,
+      "total": 82,
+      "filename": "DSC_0155.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.259100",
+      "operation": "rename",
+      "old_name": "DSC_0155.NEF",
+      "new_name": " 2024.03.15-09.37.36.020..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.260098",
+      "operation": "progress",
+      "current": 21,
+      "total": 82,
+      "filename": "DSC_0157.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.262099",
+      "operation": "rename",
+      "old_name": "DSC_0157.NEF",
+      "new_name": " 2024.03.15-09.46.45.021..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.262099",
+      "operation": "progress",
+      "current": 22,
+      "total": 82,
+      "filename": "DSC_0158.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.263098",
+      "operation": "rename",
+      "old_name": "DSC_0158.NEF",
+      "new_name": " 2024.03.15-09.47.45.022..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.264098",
+      "operation": "progress",
+      "current": 23,
+      "total": 82,
+      "filename": "DSC_0159.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.265102",
+      "operation": "rename",
+      "old_name": "DSC_0159.NEF",
+      "new_name": " 2024.03.15-09.47.51.023..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.267099",
+      "operation": "progress",
+      "current": 24,
+      "total": 82,
+      "filename": "DSC_0160.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.268099",
+      "operation": "rename",
+      "old_name": "DSC_0160.NEF",
+      "new_name": " 2024.03.15-09.52.04.024..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.268099",
+      "operation": "progress",
+      "current": 25,
+      "total": 82,
+      "filename": "DSC_0162.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.269099",
+      "operation": "rename",
+      "old_name": "DSC_0162.NEF",
+      "new_name": " 2024.03.15-10.14.10.025..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.270098",
+      "operation": "progress",
+      "current": 26,
+      "total": 82,
+      "filename": "DSC_0163.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.271098",
+      "operation": "rename",
+      "old_name": "DSC_0163.NEF",
+      "new_name": " 2024.03.15-10.14.13.026..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.272099",
+      "operation": "progress",
+      "current": 27,
+      "total": 82,
+      "filename": "DSC_0164.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.273098",
+      "operation": "rename",
+      "old_name": "DSC_0164.NEF",
+      "new_name": " 2024.03.15-10.15.43.027..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.273098",
+      "operation": "progress",
+      "current": 28,
+      "total": 82,
+      "filename": "DSC_0165.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.274099",
+      "operation": "rename",
+      "old_name": "DSC_0165.NEF",
+      "new_name": " 2024.03.15-10.16.13.028..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.274099",
+      "operation": "progress",
+      "current": 29,
+      "total": 82,
+      "filename": "DSC_0166.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.276098",
+      "operation": "rename",
+      "old_name": "DSC_0166.NEF",
+      "new_name": " 2024.03.15-10.16.41.029..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.276098",
+      "operation": "progress",
+      "current": 30,
+      "total": 82,
+      "filename": "DSC_0167.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.277099",
+      "operation": "rename",
+      "old_name": "DSC_0167.NEF",
+      "new_name": " 2024.03.15-10.16.44.030..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.278098",
+      "operation": "progress",
+      "current": 31,
+      "total": 82,
+      "filename": "DSC_0168.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.279098",
+      "operation": "rename",
+      "old_name": "DSC_0168.NEF",
+      "new_name": " 2024.03.15-10.17.08.031..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.279098",
+      "operation": "progress",
+      "current": 32,
+      "total": 82,
+      "filename": "DSC_0169.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.281098",
+      "operation": "rename",
+      "old_name": "DSC_0169.NEF",
+      "new_name": " 2024.03.15-10.17.10.032..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.281098",
+      "operation": "progress",
+      "current": 33,
+      "total": 82,
+      "filename": "DSC_0170.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.283101",
+      "operation": "rename",
+      "old_name": "DSC_0170.NEF",
+      "new_name": " 2024.03.15-10.17.13.033..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.284098",
+      "operation": "progress",
+      "current": 34,
+      "total": 82,
+      "filename": "DSC_0171.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.285098",
+      "operation": "rename",
+      "old_name": "DSC_0171.NEF",
+      "new_name": " 2024.03.15-10.17.17.034..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.286098",
+      "operation": "progress",
+      "current": 35,
+      "total": 82,
+      "filename": "DSC_0172.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.287099",
+      "operation": "rename",
+      "old_name": "DSC_0172.NEF",
+      "new_name": " 2024.03.15-10.17.18.035..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.288098",
+      "operation": "progress",
+      "current": 36,
+      "total": 82,
+      "filename": "DSC_0173.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.289102",
+      "operation": "rename",
+      "old_name": "DSC_0173.NEF",
+      "new_name": " 2024.03.15-10.17.21.036..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.289102",
+      "operation": "progress",
+      "current": 37,
+      "total": 82,
+      "filename": "DSC_0174.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.290102",
+      "operation": "rename",
+      "old_name": "DSC_0174.NEF",
+      "new_name": " 2024.03.15-10.17.39.037..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.291103",
+      "operation": "progress",
+      "current": 38,
+      "total": 82,
+      "filename": "DSC_0175.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.292103",
+      "operation": "rename",
+      "old_name": "DSC_0175.NEF",
+      "new_name": " 2024.03.15-10.18.17.038..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.293102",
+      "operation": "progress",
+      "current": 39,
+      "total": 82,
+      "filename": "DSC_0176.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.293102",
+      "operation": "rename",
+      "old_name": "DSC_0176.NEF",
+      "new_name": " 2024.03.15-10.18.31.039..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.294103",
+      "operation": "progress",
+      "current": 40,
+      "total": 82,
+      "filename": "DSC_0177.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.295102",
+      "operation": "rename",
+      "old_name": "DSC_0177.NEF",
+      "new_name": " 2024.03.15-10.19.45.040..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.296109",
+      "operation": "progress",
+      "current": 41,
+      "total": 82,
+      "filename": "DSC_0178.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.297104",
+      "operation": "rename",
+      "old_name": "DSC_0178.NEF",
+      "new_name": " 2024.03.15-10.19.50.041..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.298104",
+      "operation": "progress",
+      "current": 42,
+      "total": 82,
+      "filename": "DSC_0179.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.300104",
+      "operation": "rename",
+      "old_name": "DSC_0179.NEF",
+      "new_name": " 2024.03.15-10.20.24.042..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.300104",
+      "operation": "progress",
+      "current": 43,
+      "total": 82,
+      "filename": "DSC_0180.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.301103",
+      "operation": "rename",
+      "old_name": "DSC_0180.NEF",
+      "new_name": " 2024.03.15-10.29.08.043..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.302103",
+      "operation": "progress",
+      "current": 44,
+      "total": 82,
+      "filename": "DSC_0181.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.303103",
+      "operation": "rename",
+      "old_name": "DSC_0181.NEF",
+      "new_name": " 2024.03.15-10.30.09.044..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.303103",
+      "operation": "progress",
+      "current": 45,
+      "total": 82,
+      "filename": "DSC_0182.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.304211",
+      "operation": "rename",
+      "old_name": "DSC_0182.NEF",
+      "new_name": " 2024.03.15-10.30.15.045..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.305172",
+      "operation": "progress",
+      "current": 46,
+      "total": 82,
+      "filename": "DSC_0183.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.306171",
+      "operation": "rename",
+      "old_name": "DSC_0183.NEF",
+      "new_name": " 2024.03.15-10.30.18.046..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.306171",
+      "operation": "progress",
+      "current": 47,
+      "total": 82,
+      "filename": "DSC_0184.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.307172",
+      "operation": "rename",
+      "old_name": "DSC_0184.NEF",
+      "new_name": " 2024.03.15-10.31.16.047..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.308172",
+      "operation": "progress",
+      "current": 48,
+      "total": 82,
+      "filename": "DSC_0185.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.309172",
+      "operation": "rename",
+      "old_name": "DSC_0185.NEF",
+      "new_name": " 2024.03.15-10.31.32.048..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.310172",
+      "operation": "progress",
+      "current": 49,
+      "total": 82,
+      "filename": "DSC_0186.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.311173",
+      "operation": "rename",
+      "old_name": "DSC_0186.NEF",
+      "new_name": " 2024.03.15-10.33.40.049..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.312172",
+      "operation": "progress",
+      "current": 50,
+      "total": 82,
+      "filename": "DSC_0187.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.313173",
+      "operation": "rename",
+      "old_name": "DSC_0187.NEF",
+      "new_name": " 2024.03.15-10.33.48.050..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.314173",
+      "operation": "progress",
+      "current": 51,
+      "total": 82,
+      "filename": "DSC_0188.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.315173",
+      "operation": "rename",
+      "old_name": "DSC_0188.NEF",
+      "new_name": " 2024.03.15-10.33.58.051..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.316172",
+      "operation": "progress",
+      "current": 52,
+      "total": 82,
+      "filename": "DSC_0189.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.317171",
+      "operation": "rename",
+      "old_name": "DSC_0189.NEF",
+      "new_name": " 2024.03.15-10.34.13.052..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.319193",
+      "operation": "progress",
+      "current": 53,
+      "total": 82,
+      "filename": "DSC_0190.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.320172",
+      "operation": "rename",
+      "old_name": "DSC_0190.NEF",
+      "new_name": " 2024.03.15-10.34.24.053..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.321172",
+      "operation": "progress",
+      "current": 54,
+      "total": 82,
+      "filename": "DSC_0191.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.322172",
+      "operation": "rename",
+      "old_name": "DSC_0191.NEF",
+      "new_name": " 2024.03.15-10.42.23.054..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.323171",
+      "operation": "progress",
+      "current": 55,
+      "total": 82,
+      "filename": "DSC_0192.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.324172",
+      "operation": "rename",
+      "old_name": "DSC_0192.NEF",
+      "new_name": " 2024.03.15-10.42.26.055..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.324172",
+      "operation": "progress",
+      "current": 56,
+      "total": 82,
+      "filename": "DSC_0193.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.325171",
+      "operation": "rename",
+      "old_name": "DSC_0193.NEF",
+      "new_name": " 2024.03.15-10.42.28.056..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.326171",
+      "operation": "progress",
+      "current": 57,
+      "total": 82,
+      "filename": "DSC_0196.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.327171",
+      "operation": "rename",
+      "old_name": "DSC_0196.NEF",
+      "new_name": " 2024.03.15-10.44.00.057..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.328172",
+      "operation": "progress",
+      "current": 58,
+      "total": 82,
+      "filename": "DSC_0197.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.329171",
+      "operation": "rename",
+      "old_name": "DSC_0197.NEF",
+      "new_name": " 2024.03.15-10.44.28.058..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.329171",
+      "operation": "progress",
+      "current": 59,
+      "total": 82,
+      "filename": "DSC_0202.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.331172",
+      "operation": "rename",
+      "old_name": "DSC_0202.NEF",
+      "new_name": " 2024.03.15-10.46.26.059..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.331172",
+      "operation": "progress",
+      "current": 60,
+      "total": 82,
+      "filename": "DSC_0205.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.333174",
+      "operation": "rename",
+      "old_name": "DSC_0205.NEF",
+      "new_name": " 2024.03.15-10.50.23.060..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.335172",
+      "operation": "progress",
+      "current": 61,
+      "total": 82,
+      "filename": "DSC_0207.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.336171",
+      "operation": "rename",
+      "old_name": "DSC_0207.NEF",
+      "new_name": " 2024.03.15-10.55.12.061..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.336171",
+      "operation": "progress",
+      "current": 62,
+      "total": 82,
+      "filename": "DSC_0208.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.338171",
+      "operation": "rename",
+      "old_name": "DSC_0208.NEF",
+      "new_name": " 2024.03.15-10.55.18.062..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.338171",
+      "operation": "progress",
+      "current": 63,
+      "total": 82,
+      "filename": "DSC_0210.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.339171",
+      "operation": "rename",
+      "old_name": "DSC_0210.NEF",
+      "new_name": " 2024.03.15-10.58.02.063..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.341212",
+      "operation": "progress",
+      "current": 64,
+      "total": 82,
+      "filename": "DSC_0211.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.342172",
+      "operation": "rename",
+      "old_name": "DSC_0211.NEF",
+      "new_name": " 2024.03.15-11.03.19.064..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.343172",
+      "operation": "progress",
+      "current": 65,
+      "total": 82,
+      "filename": "DSC_0212.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.343172",
+      "operation": "rename",
+      "old_name": "DSC_0212.NEF",
+      "new_name": " 2024.03.15-11.03.20.065..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.344171",
+      "operation": "progress",
+      "current": 66,
+      "total": 82,
+      "filename": "DSC_0213.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.345174",
+      "operation": "rename",
+      "old_name": "DSC_0213.NEF",
+      "new_name": " 2024.03.15-11.03.21.066..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.346171",
+      "operation": "progress",
+      "current": 67,
+      "total": 82,
+      "filename": "DSC_0214.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.347173",
+      "operation": "rename",
+      "old_name": "DSC_0214.NEF",
+      "new_name": " 2024.03.15-11.03.22.067..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.349172",
+      "operation": "progress",
+      "current": 68,
+      "total": 82,
+      "filename": "DSC_0215.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.351171",
+      "operation": "rename",
+      "old_name": "DSC_0215.NEF",
+      "new_name": " 2024.03.15-11.03.39.068..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.351171",
+      "operation": "progress",
+      "current": 69,
+      "total": 82,
+      "filename": "DSC_0216.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.353176",
+      "operation": "rename",
+      "old_name": "DSC_0216.NEF",
+      "new_name": " 2024.03.15-11.03.41.069..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.353176",
+      "operation": "progress",
+      "current": 70,
+      "total": 82,
+      "filename": "DSC_0217.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.354172",
+      "operation": "rename",
+      "old_name": "DSC_0217.NEF",
+      "new_name": " 2024.03.15-11.03.43.070..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.356196",
+      "operation": "progress",
+      "current": 71,
+      "total": 82,
+      "filename": "DSC_0218.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.357171",
+      "operation": "rename",
+      "old_name": "DSC_0218.NEF",
+      "new_name": " 2024.03.15-11.03.45.071..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.358172",
+      "operation": "progress",
+      "current": 72,
+      "total": 82,
+      "filename": "DSC_0219.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.359171",
+      "operation": "rename",
+      "old_name": "DSC_0219.NEF",
+      "new_name": " 2024.03.15-11.03.47.072..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.359171",
+      "operation": "progress",
+      "current": 73,
+      "total": 82,
+      "filename": "DSC_0220.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.360171",
+      "operation": "rename",
+      "old_name": "DSC_0220.NEF",
+      "new_name": " 2024.03.15-11.03.49.073..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.361172",
+      "operation": "progress",
+      "current": 74,
+      "total": 82,
+      "filename": "DSC_0221.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.362171",
+      "operation": "rename",
+      "old_name": "DSC_0221.NEF",
+      "new_name": " 2024.03.15-11.03.50.074..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.364173",
+      "operation": "progress",
+      "current": 75,
+      "total": 82,
+      "filename": "DSC_0222.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.366171",
+      "operation": "rename",
+      "old_name": "DSC_0222.NEF",
+      "new_name": " 2024.03.15-11.03.52.075..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.367172",
+      "operation": "progress",
+      "current": 76,
+      "total": 82,
+      "filename": "DSC_0223.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.368171",
+      "operation": "rename",
+      "old_name": "DSC_0223.NEF",
+      "new_name": " 2024.03.15-11.16.41.076..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.368171",
+      "operation": "progress",
+      "current": 77,
+      "total": 82,
+      "filename": "DSC_0224.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.369203",
+      "operation": "rename",
+      "old_name": "DSC_0224.NEF",
+      "new_name": " 2024.03.15-11.17.42.077..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.371205",
+      "operation": "progress",
+      "current": 78,
+      "total": 82,
+      "filename": "DSC_0225.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.382935",
+      "operation": "rename",
+      "old_name": "DSC_0225.NEF",
+      "new_name": " 2024.03.15-11.17.46.078..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.383934",
+      "operation": "progress",
+      "current": 79,
+      "total": 82,
+      "filename": "DSC_0226.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.384934",
+      "operation": "rename",
+      "old_name": "DSC_0226.NEF",
+      "new_name": " 2024.03.15-11.58.51.079..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.385934",
+      "operation": "progress",
+      "current": 80,
+      "total": 82,
+      "filename": "DSC_0227.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.387934",
+      "operation": "rename",
+      "old_name": "DSC_0227.NEF",
+      "new_name": " 2024.03.15-11.59.06.080..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.387934",
+      "operation": "progress",
+      "current": 81,
+      "total": 82,
+      "filename": "DSC_0228.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.388938",
+      "operation": "rename",
+      "old_name": "DSC_0228.NEF",
+      "new_name": " 2024.03.15-12.24.06.081..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.389938",
+      "operation": "progress",
+      "current": 82,
+      "total": 82,
+      "filename": "DSC_0229.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.390937",
+      "operation": "rename",
+      "old_name": "DSC_0229.NEF",
+      "new_name": " 2024.03.15-12.24.11.082..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul1"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:18.390937",
+      "operation": "session_complete",
+      "processed_count": 82,
+      "error_count": 0,
+      "skipped_count": 0,
+      "total_files": 82
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.845950",
+      "operation": "session_start",
+      "total_files": 91,
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.857949",
+      "operation": "progress",
+      "current": 1,
+      "total": 91,
+      "filename": "DSC_0231.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.859951",
+      "operation": "rename",
+      "old_name": "DSC_0231.NEF",
+      "new_name": " 2024.03.15-12.41.57.001..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.860950",
+      "operation": "progress",
+      "current": 2,
+      "total": 91,
+      "filename": "DSC_0232.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.861951",
+      "operation": "rename",
+      "old_name": "DSC_0232.NEF",
+      "new_name": " 2024.03.15-12.43.11.002..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.863950",
+      "operation": "progress",
+      "current": 3,
+      "total": 91,
+      "filename": "DSC_0236.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.864951",
+      "operation": "rename",
+      "old_name": "DSC_0236.NEF",
+      "new_name": " 2024.03.15-12.45.57.003..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.865951",
+      "operation": "progress",
+      "current": 4,
+      "total": 91,
+      "filename": "DSC_0237.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.866954",
+      "operation": "rename",
+      "old_name": "DSC_0237.NEF",
+      "new_name": " 2024.03.15-12.47.06.004..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.867950",
+      "operation": "progress",
+      "current": 5,
+      "total": 91,
+      "filename": "DSC_0240.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.868950",
+      "operation": "rename",
+      "old_name": "DSC_0240.NEF",
+      "new_name": " 2024.03.15-12.55.37.005..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.869951",
+      "operation": "progress",
+      "current": 6,
+      "total": 91,
+      "filename": "DSC_0241.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.870951",
+      "operation": "rename",
+      "old_name": "DSC_0241.NEF",
+      "new_name": " 2024.03.15-12.55.42.006..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.871950",
+      "operation": "progress",
+      "current": 7,
+      "total": 91,
+      "filename": "DSC_0242.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.872950",
+      "operation": "rename",
+      "old_name": "DSC_0242.NEF",
+      "new_name": " 2024.03.15-12.58.20.007..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.872950",
+      "operation": "progress",
+      "current": 8,
+      "total": 91,
+      "filename": "DSC_0243.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.873952",
+      "operation": "rename",
+      "old_name": "DSC_0243.NEF",
+      "new_name": " 2024.03.15-12.58.28.008..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.874951",
+      "operation": "progress",
+      "current": 9,
+      "total": 91,
+      "filename": "DSC_0244.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.875951",
+      "operation": "rename",
+      "old_name": "DSC_0244.NEF",
+      "new_name": " 2024.03.15-12.58.36.009..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.883254",
+      "operation": "progress",
+      "current": 10,
+      "total": 91,
+      "filename": "DSC_0245.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.885232",
+      "operation": "rename",
+      "old_name": "DSC_0245.NEF",
+      "new_name": " 2024.03.15-12.58.54.010..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.885232",
+      "operation": "progress",
+      "current": 11,
+      "total": 91,
+      "filename": "DSC_0246.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.886232",
+      "operation": "rename",
+      "old_name": "DSC_0246.NEF",
+      "new_name": " 2024.03.15-12.59.33.011..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.887231",
+      "operation": "progress",
+      "current": 12,
+      "total": 91,
+      "filename": "DSC_0249.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.888232",
+      "operation": "rename",
+      "old_name": "DSC_0249.NEF",
+      "new_name": " 2024.03.15-13.00.32.012..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.889231",
+      "operation": "progress",
+      "current": 13,
+      "total": 91,
+      "filename": "DSC_0250.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.891234",
+      "operation": "rename",
+      "old_name": "DSC_0250.NEF",
+      "new_name": " 2024.03.15-13.00.37.013..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.892241",
+      "operation": "progress",
+      "current": 14,
+      "total": 91,
+      "filename": "DSC_0252.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.893238",
+      "operation": "rename",
+      "old_name": "DSC_0252.NEF",
+      "new_name": " 2024.03.15-13.01.17.014..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.893238",
+      "operation": "progress",
+      "current": 15,
+      "total": 91,
+      "filename": "DSC_0255.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.894444",
+      "operation": "rename",
+      "old_name": "DSC_0255.NEF",
+      "new_name": " 2024.03.15-13.02.06.015..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.897022",
+      "operation": "progress",
+      "current": 16,
+      "total": 91,
+      "filename": "DSC_0256.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.899095",
+      "operation": "rename",
+      "old_name": "DSC_0256.NEF",
+      "new_name": " 2024.03.15-13.04.38.016..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.900476",
+      "operation": "progress",
+      "current": 17,
+      "total": 91,
+      "filename": "DSC_0257.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.900476",
+      "operation": "rename",
+      "old_name": "DSC_0257.NEF",
+      "new_name": " 2024.03.15-13.05.32.017..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.902040",
+      "operation": "progress",
+      "current": 18,
+      "total": 91,
+      "filename": "DSC_0258.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.903048",
+      "operation": "rename",
+      "old_name": "DSC_0258.NEF",
+      "new_name": " 2024.03.15-13.05.37.018..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.904132",
+      "operation": "progress",
+      "current": 19,
+      "total": 91,
+      "filename": "DSC_0259.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.905131",
+      "operation": "rename",
+      "old_name": "DSC_0259.NEF",
+      "new_name": " 2024.03.15-13.44.31.019..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.905131",
+      "operation": "progress",
+      "current": 20,
+      "total": 91,
+      "filename": "DSC_0260.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.913274",
+      "operation": "rename",
+      "old_name": "DSC_0260.NEF",
+      "new_name": " 2024.03.15-13.44.34.020..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.915277",
+      "operation": "progress",
+      "current": 21,
+      "total": 91,
+      "filename": "DSC_0261.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.916294",
+      "operation": "rename",
+      "old_name": "DSC_0261.NEF",
+      "new_name": " 2024.03.15-14.03.07.021..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.917269",
+      "operation": "progress",
+      "current": 22,
+      "total": 91,
+      "filename": "DSC_0262.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.918271",
+      "operation": "rename",
+      "old_name": "DSC_0262.NEF",
+      "new_name": " 2024.03.15-14.03.11.022..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.919271",
+      "operation": "progress",
+      "current": 23,
+      "total": 91,
+      "filename": "DSC_0263.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.920271",
+      "operation": "rename",
+      "old_name": "DSC_0263.NEF",
+      "new_name": " 2024.03.15-14.03.34.023..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.920271",
+      "operation": "progress",
+      "current": 24,
+      "total": 91,
+      "filename": "DSC_0264.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.921271",
+      "operation": "rename",
+      "old_name": "DSC_0264.NEF",
+      "new_name": " 2024.03.15-14.03.37.024..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.922270",
+      "operation": "progress",
+      "current": 25,
+      "total": 91,
+      "filename": "DSC_0265.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.923271",
+      "operation": "rename",
+      "old_name": "DSC_0265.NEF",
+      "new_name": " 2024.03.15-15.16.39.025..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.924270",
+      "operation": "progress",
+      "current": 26,
+      "total": 91,
+      "filename": "DSC_0266.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.925271",
+      "operation": "rename",
+      "old_name": "DSC_0266.NEF",
+      "new_name": " 2024.03.15-15.16.42.026..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.926271",
+      "operation": "progress",
+      "current": 27,
+      "total": 91,
+      "filename": "DSC_0267.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.927270",
+      "operation": "rename",
+      "old_name": "DSC_0267.NEF",
+      "new_name": " 2024.03.15-15.24.55.027..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.928270",
+      "operation": "progress",
+      "current": 28,
+      "total": 91,
+      "filename": "DSC_0268.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.929271",
+      "operation": "rename",
+      "old_name": "DSC_0268.NEF",
+      "new_name": " 2024.03.15-15.27.50.028..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.930271",
+      "operation": "progress",
+      "current": 29,
+      "total": 91,
+      "filename": "DSC_0269.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.931271",
+      "operation": "rename",
+      "old_name": "DSC_0269.NEF",
+      "new_name": " 2024.03.15-15.27.52.029..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.932270",
+      "operation": "progress",
+      "current": 30,
+      "total": 91,
+      "filename": "DSC_0271.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.933272",
+      "operation": "rename",
+      "old_name": "DSC_0271.NEF",
+      "new_name": " 2024.03.15-16.16.25.030..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.934270",
+      "operation": "progress",
+      "current": 31,
+      "total": 91,
+      "filename": "DSC_0272.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.935271",
+      "operation": "rename",
+      "old_name": "DSC_0272.NEF",
+      "new_name": " 2024.03.15-16.38.07.031..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.935271",
+      "operation": "progress",
+      "current": 32,
+      "total": 91,
+      "filename": "DSC_0274.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.936271",
+      "operation": "rename",
+      "old_name": "DSC_0274.NEF",
+      "new_name": " 2024.03.15-16.38.18.032..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.937270",
+      "operation": "progress",
+      "current": 33,
+      "total": 91,
+      "filename": "DSC_0276.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.938270",
+      "operation": "rename",
+      "old_name": "DSC_0276.NEF",
+      "new_name": " 2024.03.15-16.53.18.033..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.938270",
+      "operation": "progress",
+      "current": 34,
+      "total": 91,
+      "filename": "DSC_0277.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.939271",
+      "operation": "rename",
+      "old_name": "DSC_0277.NEF",
+      "new_name": " 2024.03.15-16.53.30.034..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.941270",
+      "operation": "progress",
+      "current": 35,
+      "total": 91,
+      "filename": "DSC_0278.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.942270",
+      "operation": "rename",
+      "old_name": "DSC_0278.NEF",
+      "new_name": " 2024.03.15-16.54.39.035..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.943270",
+      "operation": "progress",
+      "current": 36,
+      "total": 91,
+      "filename": "DSC_0279.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.944270",
+      "operation": "rename",
+      "old_name": "DSC_0279.NEF",
+      "new_name": " 2024.03.15-17.09.49.036..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.944270",
+      "operation": "progress",
+      "current": 37,
+      "total": 91,
+      "filename": "DSC_0280.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.945276",
+      "operation": "rename",
+      "old_name": "DSC_0280.NEF",
+      "new_name": " 2024.03.15-17.09.55.037..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.946493",
+      "operation": "progress",
+      "current": 38,
+      "total": 91,
+      "filename": "DSC_0281.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.948497",
+      "operation": "rename",
+      "old_name": "DSC_0281.NEF",
+      "new_name": " 2024.03.15-17.14.46.038..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.949499",
+      "operation": "progress",
+      "current": 39,
+      "total": 91,
+      "filename": "DSC_0283.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.950498",
+      "operation": "rename",
+      "old_name": "DSC_0283.NEF",
+      "new_name": " 2024.03.15-17.14.49.039..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.950498",
+      "operation": "progress",
+      "current": 40,
+      "total": 91,
+      "filename": "DSC_0284.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.951500",
+      "operation": "rename",
+      "old_name": "DSC_0284.NEF",
+      "new_name": " 2024.03.15-17.14.51.040..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.952498",
+      "operation": "progress",
+      "current": 41,
+      "total": 91,
+      "filename": "DSC_0285.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.953498",
+      "operation": "rename",
+      "old_name": "DSC_0285.NEF",
+      "new_name": " 2024.03.15-17.14.52.041..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.954498",
+      "operation": "progress",
+      "current": 42,
+      "total": 91,
+      "filename": "DSC_0286.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.955498",
+      "operation": "rename",
+      "old_name": "DSC_0286.NEF",
+      "new_name": " 2024.03.15-17.16.02.042..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.956499",
+      "operation": "progress",
+      "current": 43,
+      "total": 91,
+      "filename": "DSC_0287.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.957498",
+      "operation": "rename",
+      "old_name": "DSC_0287.NEF",
+      "new_name": " 2024.03.15-17.31.38.043..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.957498",
+      "operation": "progress",
+      "current": 44,
+      "total": 91,
+      "filename": "DSC_0291.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.958499",
+      "operation": "rename",
+      "old_name": "DSC_0291.NEF",
+      "new_name": " 2024.03.15-17.47.54.044..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.959498",
+      "operation": "progress",
+      "current": 45,
+      "total": 91,
+      "filename": "DSC_0292.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.960498",
+      "operation": "rename",
+      "old_name": "DSC_0292.NEF",
+      "new_name": " 2024.03.15-17.54.10.045..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.961498",
+      "operation": "progress",
+      "current": 46,
+      "total": 91,
+      "filename": "DSC_0293.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.962498",
+      "operation": "rename",
+      "old_name": "DSC_0293.NEF",
+      "new_name": " 2024.03.15-17.54.12.046..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.962498",
+      "operation": "progress",
+      "current": 47,
+      "total": 91,
+      "filename": "DSC_0294.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.964499",
+      "operation": "rename",
+      "old_name": "DSC_0294.NEF",
+      "new_name": " 2024.03.15-17.54.13.047..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.965498",
+      "operation": "progress",
+      "current": 48,
+      "total": 91,
+      "filename": "DSC_0295.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.966499",
+      "operation": "rename",
+      "old_name": "DSC_0295.NEF",
+      "new_name": " 2024.03.15-17.54.14.048..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.966499",
+      "operation": "progress",
+      "current": 49,
+      "total": 91,
+      "filename": "DSC_0296.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.967560",
+      "operation": "rename",
+      "old_name": "DSC_0296.NEF",
+      "new_name": " 2024.03.15-17.54.17.049..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.968497",
+      "operation": "progress",
+      "current": 50,
+      "total": 91,
+      "filename": "DSC_0297.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.969497",
+      "operation": "rename",
+      "old_name": "DSC_0297.NEF",
+      "new_name": " 2024.03.15-17.54.34.050..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.970498",
+      "operation": "progress",
+      "current": 51,
+      "total": 91,
+      "filename": "DSC_0298.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.971498",
+      "operation": "rename",
+      "old_name": "DSC_0298.NEF",
+      "new_name": " 2024.03.15-17.55.25.051..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.972498",
+      "operation": "progress",
+      "current": 52,
+      "total": 91,
+      "filename": "DSC_0300.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.973498",
+      "operation": "rename",
+      "old_name": "DSC_0300.NEF",
+      "new_name": " 2024.03.15-18.11.57.052..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.973498",
+      "operation": "progress",
+      "current": 53,
+      "total": 91,
+      "filename": "DSC_0302.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.974528",
+      "operation": "rename",
+      "old_name": "DSC_0302.NEF",
+      "new_name": " 2024.03.15-18.12.01.053..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.975498",
+      "operation": "progress",
+      "current": 54,
+      "total": 91,
+      "filename": "DSC_0303.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.976498",
+      "operation": "rename",
+      "old_name": "DSC_0303.NEF",
+      "new_name": " 2024.03.15-18.12.29.054..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.977520",
+      "operation": "progress",
+      "current": 55,
+      "total": 91,
+      "filename": "DSC_0304.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.978498",
+      "operation": "rename",
+      "old_name": "DSC_0304.NEF",
+      "new_name": " 2024.03.15-18.12.32.055..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.978498",
+      "operation": "progress",
+      "current": 56,
+      "total": 91,
+      "filename": "DSC_0305.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.979520",
+      "operation": "rename",
+      "old_name": "DSC_0305.NEF",
+      "new_name": " 2024.03.15-18.14.08.056..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.980499",
+      "operation": "progress",
+      "current": 57,
+      "total": 91,
+      "filename": "DSC_0306.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.982498",
+      "operation": "rename",
+      "old_name": "DSC_0306.NEF",
+      "new_name": " 2024.03.15-18.15.48.057..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.982498",
+      "operation": "progress",
+      "current": 58,
+      "total": 91,
+      "filename": "DSC_0307.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.983498",
+      "operation": "rename",
+      "old_name": "DSC_0307.NEF",
+      "new_name": " 2024.03.15-18.35.50.058..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.984497",
+      "operation": "progress",
+      "current": 59,
+      "total": 91,
+      "filename": "DSC_0308.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.985498",
+      "operation": "rename",
+      "old_name": "DSC_0308.NEF",
+      "new_name": " 2024.03.15-18.35.53.059..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.986497",
+      "operation": "progress",
+      "current": 60,
+      "total": 91,
+      "filename": "DSC_0309.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.987497",
+      "operation": "rename",
+      "old_name": "DSC_0309.NEF",
+      "new_name": " 2024.03.15-18.39.43.060..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.988497",
+      "operation": "progress",
+      "current": 61,
+      "total": 91,
+      "filename": "DSC_0312.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.989498",
+      "operation": "rename",
+      "old_name": "DSC_0312.NEF",
+      "new_name": " 2024.03.17-09.03.39.061..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.990498",
+      "operation": "progress",
+      "current": 62,
+      "total": 91,
+      "filename": "DSC_0313.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.991503",
+      "operation": "rename",
+      "old_name": "DSC_0313.NEF",
+      "new_name": " 2024.03.17-09.03.42.062..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.991503",
+      "operation": "progress",
+      "current": 63,
+      "total": 91,
+      "filename": "DSC_0314.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.992503",
+      "operation": "rename",
+      "old_name": "DSC_0314.NEF",
+      "new_name": " 2024.03.17-09.04.20.063..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.993503",
+      "operation": "progress",
+      "current": 64,
+      "total": 91,
+      "filename": "DSC_0315.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.994502",
+      "operation": "rename",
+      "old_name": "DSC_0315.NEF",
+      "new_name": " 2024.03.17-09.04.29.064..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.995503",
+      "operation": "progress",
+      "current": 65,
+      "total": 91,
+      "filename": "DSC_0316.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.996504",
+      "operation": "rename",
+      "old_name": "DSC_0316.NEF",
+      "new_name": " 2024.03.17-09.04.41.065..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.997503",
+      "operation": "progress",
+      "current": 66,
+      "total": 91,
+      "filename": "DSC_0317.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.998503",
+      "operation": "rename",
+      "old_name": "DSC_0317.NEF",
+      "new_name": " 2024.03.17-09.04.43.066..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:36.999503",
+      "operation": "progress",
+      "current": 67,
+      "total": 91,
+      "filename": "DSC_0318.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.000503",
+      "operation": "rename",
+      "old_name": "DSC_0318.NEF",
+      "new_name": " 2024.03.17-09.10.51.067..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.001503",
+      "operation": "progress",
+      "current": 68,
+      "total": 91,
+      "filename": "DSC_0319.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.002502",
+      "operation": "rename",
+      "old_name": "DSC_0319.NEF",
+      "new_name": " 2024.03.17-09.10.53.068..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.002502",
+      "operation": "progress",
+      "current": 69,
+      "total": 91,
+      "filename": "DSC_0320.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.003539",
+      "operation": "rename",
+      "old_name": "DSC_0320.NEF",
+      "new_name": " 2024.03.17-09.11.00.069..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.004504",
+      "operation": "progress",
+      "current": 70,
+      "total": 91,
+      "filename": "DSC_0321.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.004504",
+      "operation": "rename",
+      "old_name": "DSC_0321.NEF",
+      "new_name": " 2024.03.17-09.16.22.070..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.006009",
+      "operation": "progress",
+      "current": 71,
+      "total": 91,
+      "filename": "DSC_0324.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.007014",
+      "operation": "rename",
+      "old_name": "DSC_0324.NEF",
+      "new_name": " 2024.03.17-09.25.18.071..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.008014",
+      "operation": "progress",
+      "current": 72,
+      "total": 91,
+      "filename": "DSC_0328.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.009015",
+      "operation": "rename",
+      "old_name": "DSC_0328.NEF",
+      "new_name": " 2024.03.17-09.26.02.072..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.009015",
+      "operation": "progress",
+      "current": 73,
+      "total": 91,
+      "filename": "DSC_0329.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.010015",
+      "operation": "rename",
+      "old_name": "DSC_0329.NEF",
+      "new_name": " 2024.03.17-09.26.04.073..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.011014",
+      "operation": "progress",
+      "current": 74,
+      "total": 91,
+      "filename": "DSC_0334.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.013014",
+      "operation": "rename",
+      "old_name": "DSC_0334.NEF",
+      "new_name": " 2024.03.17-09.29.04.074..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.014015",
+      "operation": "progress",
+      "current": 75,
+      "total": 91,
+      "filename": "DSC_0335.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.015014",
+      "operation": "rename",
+      "old_name": "DSC_0335.NEF",
+      "new_name": " 2024.03.17-09.29.36.075..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.016013",
+      "operation": "progress",
+      "current": 76,
+      "total": 91,
+      "filename": "DSC_0336.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.017013",
+      "operation": "rename",
+      "old_name": "DSC_0336.NEF",
+      "new_name": " 2024.03.17-09.30.18.076..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.017013",
+      "operation": "progress",
+      "current": 77,
+      "total": 91,
+      "filename": "DSC_0337.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.019014",
+      "operation": "rename",
+      "old_name": "DSC_0337.NEF",
+      "new_name": " 2024.03.17-09.30.27.077..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.019014",
+      "operation": "progress",
+      "current": 78,
+      "total": 91,
+      "filename": "DSC_0339.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.020021",
+      "operation": "rename",
+      "old_name": "DSC_0339.NEF",
+      "new_name": " 2024.03.17-09.30.34.078..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.021013",
+      "operation": "progress",
+      "current": 79,
+      "total": 91,
+      "filename": "DSC_0340.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.022014",
+      "operation": "rename",
+      "old_name": "DSC_0340.NEF",
+      "new_name": " 2024.03.17-09.51.16.079..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.023014",
+      "operation": "progress",
+      "current": 80,
+      "total": 91,
+      "filename": "DSC_0341.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.024014",
+      "operation": "rename",
+      "old_name": "DSC_0341.NEF",
+      "new_name": " 2024.03.17-09.51.17.080..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.024014",
+      "operation": "progress",
+      "current": 81,
+      "total": 91,
+      "filename": "DSC_0342.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.025014",
+      "operation": "rename",
+      "old_name": "DSC_0342.NEF",
+      "new_name": " 2024.03.17-09.51.20.081..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.026015",
+      "operation": "progress",
+      "current": 82,
+      "total": 91,
+      "filename": "DSC_0343.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.027016",
+      "operation": "rename",
+      "old_name": "DSC_0343.NEF",
+      "new_name": " 2024.03.17-09.51.40.082..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.027016",
+      "operation": "progress",
+      "current": 83,
+      "total": 91,
+      "filename": "DSC_0345.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.029015",
+      "operation": "rename",
+      "old_name": "DSC_0345.NEF",
+      "new_name": " 2024.03.17-09.52.07.083..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.029015",
+      "operation": "progress",
+      "current": 84,
+      "total": 91,
+      "filename": "DSC_0346.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.031016",
+      "operation": "rename",
+      "old_name": "DSC_0346.NEF",
+      "new_name": " 2024.03.17-09.53.22.084..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.032014",
+      "operation": "progress",
+      "current": 85,
+      "total": 91,
+      "filename": "DSC_0347.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.033014",
+      "operation": "rename",
+      "old_name": "DSC_0347.NEF",
+      "new_name": " 2024.03.17-11.09.00.085..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.034014",
+      "operation": "progress",
+      "current": 86,
+      "total": 91,
+      "filename": "DSC_0348.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.035014",
+      "operation": "rename",
+      "old_name": "DSC_0348.NEF",
+      "new_name": " 2024.03.17-11.18.39.086..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.036014",
+      "operation": "progress",
+      "current": 87,
+      "total": 91,
+      "filename": "DSC_0350.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.037014",
+      "operation": "rename",
+      "old_name": "DSC_0350.NEF",
+      "new_name": " 2024.03.17-11.22.50.087..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.037014",
+      "operation": "progress",
+      "current": 88,
+      "total": 91,
+      "filename": "DSC_0353.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.038046",
+      "operation": "rename",
+      "old_name": "DSC_0353.NEF",
+      "new_name": " 2024.03.17-11.31.21.088..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.039015",
+      "operation": "progress",
+      "current": 89,
+      "total": 91,
+      "filename": "DSC_0356.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.040014",
+      "operation": "rename",
+      "old_name": "DSC_0356.NEF",
+      "new_name": " 2024.03.17-17.13.52.089..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.041014",
+      "operation": "progress",
+      "current": 90,
+      "total": 91,
+      "filename": "DSC_0357.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.042016",
+      "operation": "rename",
+      "old_name": "DSC_0357.NEF",
+      "new_name": " 2024.03.17-17.19.37.090..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.042016",
+      "operation": "progress",
+      "current": 91,
+      "total": 91,
+      "filename": "DSC_0359.NEF"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.043015",
+      "operation": "rename",
+      "old_name": "DSC_0359.NEF",
+      "new_name": " 2024.03.17-17.24.13.091..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2025-12-07T13:33:37.044014",
+      "operation": "session_complete",
+      "processed_count": 91,
+      "error_count": 0,
+      "skipped_count": 0,
+      "total_files": 91
+    }
+  ]
+}

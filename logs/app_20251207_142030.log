@@ -1,0 +1,324 @@
+2025-12-07 14:20:30 - media_renamer_app - INFO - Application logging initialized - Log file: C:\Kiro\MediaUtils\logs\app_20251207_142030.log
+2025-12-07 14:20:30 - media_renamer_app - INFO - Session logging initialized - Session file: C:\Kiro\MediaUtils\logs\session_20251207_142030.log
+2025-12-07 14:20:30 - media_renamer_app - INFO - Application starting - Media File Renamer v2.0.0
+2025-12-07 14:20:30 - media_renamer_app - INFO - City cache loaded with 80 entries
+2025-12-07 14:20:30 - media_renamer_app - INFO - All application systems initialized successfully
+2025-12-07 14:20:30 - media_renamer_app - INFO - GUI application starting up with integrated systems
+2025-12-07 14:20:30 - media_renamer_app - INFO - MediaProcessor initialized with caching and error recovery
+2025-12-07 14:20:30 - media_renamer_app - INFO - FileOperations initialized with 25 supported extensions
+2025-12-07 14:20:30 - media_renamer_app - INFO - GUI window initialized with geometry: 1x1+153+180
+2025-12-07 14:20:30 - media_renamer_app - INFO - GUI application initialization completed
+2025-12-07 14:20:30 - media_renamer_app - INFO - Starting GUI application...
+2025-12-07 14:20:59 - media_renamer_app - INFO - User initiated file discovery for folder: D:\Photos\Nef\2024
+2025-12-07 14:20:59 - media_renamer_app - INFO - Starting file discovery and metadata extraction
+2025-12-07 14:20:59 - media_renamer_app - INFO - Starting file discovery in folder: D:\Photos\Nef\2024
+2025-12-07 14:20:59 - media_renamer_app - INFO - Found 87 total files in D:\Photos\Nef\2024
+2025-12-07 14:20:59 - media_renamer_app - INFO - Discovered 87 supported media files
+2025-12-07 14:20:59 - media_renamer_app - INFO - Discovered 87 files in D:\Photos\Nef\2024
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-10.43.41.001.NEF: 2024-02-18 10:43:41
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-10.43.54.002.NEF: 2024-02-18 10:43:54
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-12.52.18.003.NEF: 2024-02-18 12:52:18
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-12.52.29.004.NEF: 2024-02-18 12:52:29
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-12.52.40.005.NEF: 2024-02-18 12:52:40
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-12.52.53.006.NEF: 2024-02-18 12:52:53
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-12.52.56.007.NEF: 2024-02-18 12:52:56
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-12.52.59.008.NEF: 2024-02-18 12:52:59
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-12.53.15.009.NEF: 2024-02-18 12:53:15
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-12.53.41.010.NEF: 2024-02-18 12:53:41
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-12.54.05.011.NEF: 2024-02-18 12:54:05
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-12.54.18.012.NEF: 2024-02-18 12:54:18
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-12.54.56.013.NEF: 2024-02-18 12:54:56
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-12.55.09.014.NEF: 2024-02-18 12:55:09
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-12.55.13.015.NEF: 2024-02-18 12:55:13
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-12.55.18.016.NEF: 2024-02-18 12:55:18
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-12.55.22.017.NEF: 2024-02-18 12:55:22
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-12.56.56.018.NEF: 2024-02-18 12:56:56
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-12.57.04.019.NEF: 2024-02-18 12:57:04
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.01.40.020.NEF: 2024-02-18 13:01:40
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.01.43.021.NEF: 2024-02-18 13:01:43
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.01.57.022.NEF: 2024-02-18 13:01:57
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.08.30.023.NEF: 2024-02-18 13:08:30
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.08.49.024.NEF: 2024-02-18 13:08:49
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.08.54.025.NEF: 2024-02-18 13:08:54
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.11.54.026.NEF: 2024-02-18 13:11:54
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.12.10.027.NEF: 2024-02-18 13:12:10
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.12.20.028.NEF: 2024-02-18 13:12:20
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.13.22.029.NEF: 2024-02-18 13:13:22
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.13.41.030.NEF: 2024-02-18 13:13:41
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.13.46.031.NEF: 2024-02-18 13:13:46
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.14.11.032.NEF: 2024-02-18 13:14:11
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.14.50.033.NEF: 2024-02-18 13:14:50
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.15.02.034.NEF: 2024-02-18 13:15:02
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.16.02.035.NEF: 2024-02-18 13:16:02
+2025-12-07 14:20:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.16.30.036.NEF: 2024-02-18 13:16:30
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.17.24.037.NEF: 2024-02-18 13:17:24
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.19.09.038.NEF: 2024-02-18 13:19:09
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.46.37.039.NEF: 2024-02-18 13:46:37
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.47.04.040.NEF: 2024-02-18 13:47:04
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.47.08.041.NEF: 2024-02-18 13:47:08
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.47.14.042.NEF: 2024-02-18 13:47:14
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.47.21.043.NEF: 2024-02-18 13:47:21
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.47.28.044.NEF: 2024-02-18 13:47:28
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.48.37.045.NEF: 2024-02-18 13:48:37
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.48.52.046.NEF: 2024-02-18 13:48:52
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.49.42.047.NEF: 2024-02-18 13:49:42
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-14.55.19.048.NEF: 2024-02-18 14:55:19
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-14.55.57.049.NEF: 2024-02-18 14:55:57
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-14.56.06.050.NEF: 2024-02-18 14:56:06
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-14.56.12.051.NEF: 2024-02-18 14:56:12
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-15.54.57.052.NEF: 2024-02-18 15:54:57
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-15.55.02.053.NEF: 2024-02-18 15:55:02
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-16.01.43.054.NEF: 2024-02-18 16:01:43
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-16.01.56.055.NEF: 2024-02-18 16:01:56
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-16.02.02.056.NEF: 2024-02-18 16:02:02
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-18.16.38.057.NEF: 2024-02-18 18:16:38
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-18.16.47.058.NEF: 2024-02-18 18:16:47
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-18.16.54.059.NEF: 2024-02-18 18:16:54
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-18.17.34.060.NEF: 2024-02-18 18:17:34
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-18.17.45.061.NEF: 2024-02-18 18:17:45
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\DSC_0091.NEF: 2024-03-02 12:47:19
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\DSC_0092.NEF: 2024-03-02 12:47:30
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\DSC_0093.NEF: 2024-03-02 12:47:34
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\DSC_0094.NEF: 2024-03-02 12:47:36
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\DSC_0095.NEF: 2024-03-02 12:47:38
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\DSC_0096.NEF: 2024-03-02 13:24:42
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\DSC_0097.NEF: 2024-03-02 13:25:02
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\DSC_0098.NEF: 2024-03-02 13:25:12
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\DSC_0099.NEF: 2024-03-02 13:25:45
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\DSC_0100.NEF: 2024-03-02 13:25:49
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\DSC_0101.NEF: 2024-03-02 13:26:14
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\DSC_0102.NEF: 2024-03-02 13:27:02
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\DSC_0103.NEF: 2024-03-02 13:27:04
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\DSC_0105.NEF: 2024-03-02 15:05:08
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\DSC_0106.NEF: 2024-03-02 15:19:39
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\DSC_0112.NEF: 2024-03-02 15:57:20
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\DSC_0113.NEF: 2024-03-02 15:57:33
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\DSC_0114.NEF: 2024-03-02 15:57:57
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\DSC_0115.NEF: 2024-03-02 15:58:31
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\DSC_0117.NEF: 2024-03-02 15:58:51
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\DSC_0119.NEF: 2024-03-02 15:59:04
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\DSC_0120.NEF: 2024-03-02 17:09:24
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\DSC_0121.NEF: 2024-03-02 17:09:34
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\DSC_0122.NEF: 2024-03-02 17:09:41
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\DSC_0123.NEF: 2024-03-02 17:55:46
+2025-12-07 14:21:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\DSC_0124.NEF: 2024-03-02 17:55:52
+2025-12-07 14:21:00 - media_renamer_app - INFO - File discovery completed: 87 files processed, 0 without metadata
+2025-12-07 14:21:43 - media_renamer_app - INFO - User initiated file processing
+2025-12-07 14:21:43 - media_renamer_app - INFO - Processing 26 selected files
+2025-12-07 14:21:45 - media_renamer_app - INFO - User confirmed file processing, starting operation
+2025-12-07 14:21:45 - media_renamer_app - INFO - Starting file processing: 26 files selected
+2025-12-07 14:21:45 - media_renamer_app - INFO - Starting file processing: 26 files selected for renaming
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: session_start - {'total_files': 26, 'folder_path': 'D:\\Photos\\Nef\\2024'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: progress - {'current': 1, 'total': 26, 'filename': 'DSC_0091.NEF'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - File renamed successfully: DSC_0091.NEF ->  2024.03.02-12.47.19.062..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully renamed: DSC_0091.NEF ->  2024.03.02-12.47.19.062..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0091.NEF', 'new_name': ' 2024.03.02-12.47.19.062..NEF', 'folder_path': 'D:\\Photos\\Nef\\2024'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: progress - {'current': 2, 'total': 26, 'filename': 'DSC_0092.NEF'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - File renamed successfully: DSC_0092.NEF ->  2024.03.02-12.47.30.063..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully renamed: DSC_0092.NEF ->  2024.03.02-12.47.30.063..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0092.NEF', 'new_name': ' 2024.03.02-12.47.30.063..NEF', 'folder_path': 'D:\\Photos\\Nef\\2024'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: progress - {'current': 3, 'total': 26, 'filename': 'DSC_0093.NEF'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - File renamed successfully: DSC_0093.NEF ->  2024.03.02-12.47.34.064..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully renamed: DSC_0093.NEF ->  2024.03.02-12.47.34.064..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0093.NEF', 'new_name': ' 2024.03.02-12.47.34.064..NEF', 'folder_path': 'D:\\Photos\\Nef\\2024'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: progress - {'current': 4, 'total': 26, 'filename': 'DSC_0094.NEF'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - File renamed successfully: DSC_0094.NEF ->  2024.03.02-12.47.36.065..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully renamed: DSC_0094.NEF ->  2024.03.02-12.47.36.065..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0094.NEF', 'new_name': ' 2024.03.02-12.47.36.065..NEF', 'folder_path': 'D:\\Photos\\Nef\\2024'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: progress - {'current': 5, 'total': 26, 'filename': 'DSC_0095.NEF'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - File renamed successfully: DSC_0095.NEF ->  2024.03.02-12.47.38.066..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully renamed: DSC_0095.NEF ->  2024.03.02-12.47.38.066..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0095.NEF', 'new_name': ' 2024.03.02-12.47.38.066..NEF', 'folder_path': 'D:\\Photos\\Nef\\2024'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: progress - {'current': 6, 'total': 26, 'filename': 'DSC_0096.NEF'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - File renamed successfully: DSC_0096.NEF ->  2024.03.02-13.24.42.067..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully renamed: DSC_0096.NEF ->  2024.03.02-13.24.42.067..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0096.NEF', 'new_name': ' 2024.03.02-13.24.42.067..NEF', 'folder_path': 'D:\\Photos\\Nef\\2024'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: progress - {'current': 7, 'total': 26, 'filename': 'DSC_0097.NEF'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - File renamed successfully: DSC_0097.NEF ->  2024.03.02-13.25.02.068..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully renamed: DSC_0097.NEF ->  2024.03.02-13.25.02.068..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0097.NEF', 'new_name': ' 2024.03.02-13.25.02.068..NEF', 'folder_path': 'D:\\Photos\\Nef\\2024'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: progress - {'current': 8, 'total': 26, 'filename': 'DSC_0098.NEF'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - File renamed successfully: DSC_0098.NEF ->  2024.03.02-13.25.12.069..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully renamed: DSC_0098.NEF ->  2024.03.02-13.25.12.069..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0098.NEF', 'new_name': ' 2024.03.02-13.25.12.069..NEF', 'folder_path': 'D:\\Photos\\Nef\\2024'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: progress - {'current': 9, 'total': 26, 'filename': 'DSC_0099.NEF'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - File renamed successfully: DSC_0099.NEF ->  2024.03.02-13.25.45.070..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully renamed: DSC_0099.NEF ->  2024.03.02-13.25.45.070..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0099.NEF', 'new_name': ' 2024.03.02-13.25.45.070..NEF', 'folder_path': 'D:\\Photos\\Nef\\2024'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: progress - {'current': 10, 'total': 26, 'filename': 'DSC_0100.NEF'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - File renamed successfully: DSC_0100.NEF ->  2024.03.02-13.25.49.071..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully renamed: DSC_0100.NEF ->  2024.03.02-13.25.49.071..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0100.NEF', 'new_name': ' 2024.03.02-13.25.49.071..NEF', 'folder_path': 'D:\\Photos\\Nef\\2024'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: progress - {'current': 11, 'total': 26, 'filename': 'DSC_0101.NEF'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - File renamed successfully: DSC_0101.NEF ->  2024.03.02-13.26.14.072..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully renamed: DSC_0101.NEF ->  2024.03.02-13.26.14.072..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0101.NEF', 'new_name': ' 2024.03.02-13.26.14.072..NEF', 'folder_path': 'D:\\Photos\\Nef\\2024'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: progress - {'current': 12, 'total': 26, 'filename': 'DSC_0102.NEF'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - File renamed successfully: DSC_0102.NEF ->  2024.03.02-13.27.02.073..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully renamed: DSC_0102.NEF ->  2024.03.02-13.27.02.073..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0102.NEF', 'new_name': ' 2024.03.02-13.27.02.073..NEF', 'folder_path': 'D:\\Photos\\Nef\\2024'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: progress - {'current': 13, 'total': 26, 'filename': 'DSC_0103.NEF'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - File renamed successfully: DSC_0103.NEF ->  2024.03.02-13.27.04.074..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully renamed: DSC_0103.NEF ->  2024.03.02-13.27.04.074..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0103.NEF', 'new_name': ' 2024.03.02-13.27.04.074..NEF', 'folder_path': 'D:\\Photos\\Nef\\2024'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: progress - {'current': 14, 'total': 26, 'filename': 'DSC_0105.NEF'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - File renamed successfully: DSC_0105.NEF ->  2024.03.02-15.05.08.075..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully renamed: DSC_0105.NEF ->  2024.03.02-15.05.08.075..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0105.NEF', 'new_name': ' 2024.03.02-15.05.08.075..NEF', 'folder_path': 'D:\\Photos\\Nef\\2024'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: progress - {'current': 15, 'total': 26, 'filename': 'DSC_0106.NEF'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - File renamed successfully: DSC_0106.NEF ->  2024.03.02-15.19.39.076..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully renamed: DSC_0106.NEF ->  2024.03.02-15.19.39.076..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0106.NEF', 'new_name': ' 2024.03.02-15.19.39.076..NEF', 'folder_path': 'D:\\Photos\\Nef\\2024'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: progress - {'current': 16, 'total': 26, 'filename': 'DSC_0112.NEF'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - File renamed successfully: DSC_0112.NEF ->  2024.03.02-15.57.20.077..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully renamed: DSC_0112.NEF ->  2024.03.02-15.57.20.077..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0112.NEF', 'new_name': ' 2024.03.02-15.57.20.077..NEF', 'folder_path': 'D:\\Photos\\Nef\\2024'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: progress - {'current': 17, 'total': 26, 'filename': 'DSC_0113.NEF'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - File renamed successfully: DSC_0113.NEF ->  2024.03.02-15.57.33.078..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully renamed: DSC_0113.NEF ->  2024.03.02-15.57.33.078..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0113.NEF', 'new_name': ' 2024.03.02-15.57.33.078..NEF', 'folder_path': 'D:\\Photos\\Nef\\2024'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: progress - {'current': 18, 'total': 26, 'filename': 'DSC_0114.NEF'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - File renamed successfully: DSC_0114.NEF ->  2024.03.02-15.57.57.079..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully renamed: DSC_0114.NEF ->  2024.03.02-15.57.57.079..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0114.NEF', 'new_name': ' 2024.03.02-15.57.57.079..NEF', 'folder_path': 'D:\\Photos\\Nef\\2024'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: progress - {'current': 19, 'total': 26, 'filename': 'DSC_0115.NEF'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - File renamed successfully: DSC_0115.NEF ->  2024.03.02-15.58.31.080..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully renamed: DSC_0115.NEF ->  2024.03.02-15.58.31.080..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0115.NEF', 'new_name': ' 2024.03.02-15.58.31.080..NEF', 'folder_path': 'D:\\Photos\\Nef\\2024'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: progress - {'current': 20, 'total': 26, 'filename': 'DSC_0117.NEF'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - File renamed successfully: DSC_0117.NEF ->  2024.03.02-15.58.51.081..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully renamed: DSC_0117.NEF ->  2024.03.02-15.58.51.081..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0117.NEF', 'new_name': ' 2024.03.02-15.58.51.081..NEF', 'folder_path': 'D:\\Photos\\Nef\\2024'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: progress - {'current': 21, 'total': 26, 'filename': 'DSC_0119.NEF'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - File renamed successfully: DSC_0119.NEF ->  2024.03.02-15.59.04.082..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully renamed: DSC_0119.NEF ->  2024.03.02-15.59.04.082..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0119.NEF', 'new_name': ' 2024.03.02-15.59.04.082..NEF', 'folder_path': 'D:\\Photos\\Nef\\2024'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: progress - {'current': 22, 'total': 26, 'filename': 'DSC_0120.NEF'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - File renamed successfully: DSC_0120.NEF ->  2024.03.02-17.09.24.083..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully renamed: DSC_0120.NEF ->  2024.03.02-17.09.24.083..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0120.NEF', 'new_name': ' 2024.03.02-17.09.24.083..NEF', 'folder_path': 'D:\\Photos\\Nef\\2024'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: progress - {'current': 23, 'total': 26, 'filename': 'DSC_0121.NEF'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - File renamed successfully: DSC_0121.NEF ->  2024.03.02-17.09.34.084..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully renamed: DSC_0121.NEF ->  2024.03.02-17.09.34.084..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0121.NEF', 'new_name': ' 2024.03.02-17.09.34.084..NEF', 'folder_path': 'D:\\Photos\\Nef\\2024'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: progress - {'current': 24, 'total': 26, 'filename': 'DSC_0122.NEF'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - File renamed successfully: DSC_0122.NEF ->  2024.03.02-17.09.41.085..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully renamed: DSC_0122.NEF ->  2024.03.02-17.09.41.085..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0122.NEF', 'new_name': ' 2024.03.02-17.09.41.085..NEF', 'folder_path': 'D:\\Photos\\Nef\\2024'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: progress - {'current': 25, 'total': 26, 'filename': 'DSC_0123.NEF'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - File renamed successfully: DSC_0123.NEF ->  2024.03.02-17.55.46.086..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully renamed: DSC_0123.NEF ->  2024.03.02-17.55.46.086..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0123.NEF', 'new_name': ' 2024.03.02-17.55.46.086..NEF', 'folder_path': 'D:\\Photos\\Nef\\2024'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: progress - {'current': 26, 'total': 26, 'filename': 'DSC_0124.NEF'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - File renamed successfully: DSC_0124.NEF ->  2024.03.02-17.55.52.087..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully renamed: DSC_0124.NEF ->  2024.03.02-17.55.52.087..NEF
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0124.NEF', 'new_name': ' 2024.03.02-17.55.52.087..NEF', 'folder_path': 'D:\\Photos\\Nef\\2024'}
+2025-12-07 14:21:45 - media_renamer_app - INFO - Operation completed: session_complete - {'processed_count': 26, 'error_count': 0, 'skipped_count': 0, 'total_files': 26}
+2025-12-07 14:21:45 - media_renamer_app - INFO - File processing completed: 26 processed, 0 errors, 0 skipped
+2025-12-07 14:21:45 - media_renamer_app - INFO - Session log saved: C:\Kiro\MediaUtils\logs\session_20251207_142030.json
+2025-12-07 14:21:45 - media_renamer_app - INFO - File processing completed: 26 processed, 0 skipped, 0 errors
+2025-12-07 14:21:45 - media_renamer_app - INFO - User initiated file discovery for folder: D:\Photos\Nef\2024
+2025-12-07 14:21:45 - media_renamer_app - INFO - Starting file discovery and metadata extraction
+2025-12-07 14:21:45 - media_renamer_app - INFO - Starting file discovery in folder: D:\Photos\Nef\2024
+2025-12-07 14:21:45 - media_renamer_app - INFO - Found 87 total files in D:\Photos\Nef\2024
+2025-12-07 14:21:45 - media_renamer_app - INFO - Discovered 87 supported media files
+2025-12-07 14:21:45 - media_renamer_app - INFO - Discovered 87 files in D:\Photos\Nef\2024
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\ 2024.03.02-12.47.19.062..NEF: 2024-03-02 12:47:19
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\ 2024.03.02-12.47.30.063..NEF: 2024-03-02 12:47:30
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\ 2024.03.02-12.47.34.064..NEF: 2024-03-02 12:47:34
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\ 2024.03.02-12.47.36.065..NEF: 2024-03-02 12:47:36
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\ 2024.03.02-12.47.38.066..NEF: 2024-03-02 12:47:38
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\ 2024.03.02-13.24.42.067..NEF: 2024-03-02 13:24:42
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\ 2024.03.02-13.25.02.068..NEF: 2024-03-02 13:25:02
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\ 2024.03.02-13.25.12.069..NEF: 2024-03-02 13:25:12
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\ 2024.03.02-13.25.45.070..NEF: 2024-03-02 13:25:45
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\ 2024.03.02-13.25.49.071..NEF: 2024-03-02 13:25:49
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\ 2024.03.02-13.26.14.072..NEF: 2024-03-02 13:26:14
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\ 2024.03.02-13.27.02.073..NEF: 2024-03-02 13:27:02
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\ 2024.03.02-13.27.04.074..NEF: 2024-03-02 13:27:04
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\ 2024.03.02-15.05.08.075..NEF: 2024-03-02 15:05:08
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\ 2024.03.02-15.19.39.076..NEF: 2024-03-02 15:19:39
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\ 2024.03.02-15.57.20.077..NEF: 2024-03-02 15:57:20
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\ 2024.03.02-15.57.33.078..NEF: 2024-03-02 15:57:33
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\ 2024.03.02-15.57.57.079..NEF: 2024-03-02 15:57:57
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\ 2024.03.02-15.58.31.080..NEF: 2024-03-02 15:58:31
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\ 2024.03.02-15.58.51.081..NEF: 2024-03-02 15:58:51
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\ 2024.03.02-15.59.04.082..NEF: 2024-03-02 15:59:04
+2025-12-07 14:21:45 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\ 2024.03.02-17.09.24.083..NEF: 2024-03-02 17:09:24
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\ 2024.03.02-17.09.34.084..NEF: 2024-03-02 17:09:34
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\ 2024.03.02-17.09.41.085..NEF: 2024-03-02 17:09:41
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\ 2024.03.02-17.55.46.086..NEF: 2024-03-02 17:55:46
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\ 2024.03.02-17.55.52.087..NEF: 2024-03-02 17:55:52
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-10.43.41.001.NEF: 2024-02-18 10:43:41
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-10.43.54.002.NEF: 2024-02-18 10:43:54
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-12.52.18.003.NEF: 2024-02-18 12:52:18
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-12.52.29.004.NEF: 2024-02-18 12:52:29
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-12.52.40.005.NEF: 2024-02-18 12:52:40
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-12.52.53.006.NEF: 2024-02-18 12:52:53
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-12.52.56.007.NEF: 2024-02-18 12:52:56
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-12.52.59.008.NEF: 2024-02-18 12:52:59
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-12.53.15.009.NEF: 2024-02-18 12:53:15
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-12.53.41.010.NEF: 2024-02-18 12:53:41
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-12.54.05.011.NEF: 2024-02-18 12:54:05
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-12.54.18.012.NEF: 2024-02-18 12:54:18
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-12.54.56.013.NEF: 2024-02-18 12:54:56
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-12.55.09.014.NEF: 2024-02-18 12:55:09
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-12.55.13.015.NEF: 2024-02-18 12:55:13
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-12.55.18.016.NEF: 2024-02-18 12:55:18
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-12.55.22.017.NEF: 2024-02-18 12:55:22
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-12.56.56.018.NEF: 2024-02-18 12:56:56
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-12.57.04.019.NEF: 2024-02-18 12:57:04
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.01.40.020.NEF: 2024-02-18 13:01:40
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.01.43.021.NEF: 2024-02-18 13:01:43
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.01.57.022.NEF: 2024-02-18 13:01:57
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.08.30.023.NEF: 2024-02-18 13:08:30
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.08.49.024.NEF: 2024-02-18 13:08:49
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.08.54.025.NEF: 2024-02-18 13:08:54
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.11.54.026.NEF: 2024-02-18 13:11:54
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.12.10.027.NEF: 2024-02-18 13:12:10
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.12.20.028.NEF: 2024-02-18 13:12:20
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.13.22.029.NEF: 2024-02-18 13:13:22
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.13.41.030.NEF: 2024-02-18 13:13:41
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.13.46.031.NEF: 2024-02-18 13:13:46
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.14.11.032.NEF: 2024-02-18 13:14:11
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.14.50.033.NEF: 2024-02-18 13:14:50
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.15.02.034.NEF: 2024-02-18 13:15:02
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.16.02.035.NEF: 2024-02-18 13:16:02
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.16.30.036.NEF: 2024-02-18 13:16:30
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.17.24.037.NEF: 2024-02-18 13:17:24
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.19.09.038.NEF: 2024-02-18 13:19:09
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.46.37.039.NEF: 2024-02-18 13:46:37
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.47.04.040.NEF: 2024-02-18 13:47:04
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.47.08.041.NEF: 2024-02-18 13:47:08
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.47.14.042.NEF: 2024-02-18 13:47:14
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.47.21.043.NEF: 2024-02-18 13:47:21
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.47.28.044.NEF: 2024-02-18 13:47:28
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.48.37.045.NEF: 2024-02-18 13:48:37
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.48.52.046.NEF: 2024-02-18 13:48:52
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-13.49.42.047.NEF: 2024-02-18 13:49:42
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-14.55.19.048.NEF: 2024-02-18 14:55:19
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-14.55.57.049.NEF: 2024-02-18 14:55:57
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-14.56.06.050.NEF: 2024-02-18 14:56:06
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-14.56.12.051.NEF: 2024-02-18 14:56:12
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-15.54.57.052.NEF: 2024-02-18 15:54:57
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-15.55.02.053.NEF: 2024-02-18 15:55:02
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-16.01.43.054.NEF: 2024-02-18 16:01:43
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-16.01.56.055.NEF: 2024-02-18 16:01:56
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-16.02.02.056.NEF: 2024-02-18 16:02:02
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-18.16.38.057.NEF: 2024-02-18 18:16:38
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-18.16.47.058.NEF: 2024-02-18 18:16:47
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-18.16.54.059.NEF: 2024-02-18 18:16:54
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-18.17.34.060.NEF: 2024-02-18 18:17:34
+2025-12-07 14:21:46 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\2024\2024.02.18-18.17.45.061.NEF: 2024-02-18 18:17:45
+2025-12-07 14:21:46 - media_renamer_app - INFO - File discovery completed: 87 files processed, 0 without metadata
+2025-12-07 14:21:52 - media_renamer_app - INFO - User initiated application shutdown
+2025-12-07 14:21:52 - media_renamer_app - INFO - Settings saved on application close
+2025-12-07 14:21:52 - media_renamer_app - INFO - City cache saved successfully: 80 entries
+2025-12-07 14:21:52 - media_renamer_app - INFO - Session log saved: C:\Kiro\MediaUtils\logs\session_20251207_142030.json
+2025-12-07 14:21:52 - media_renamer_app - INFO - Final session log saved: C:\Kiro\MediaUtils\logs\session_20251207_142030.json
+2025-12-07 14:21:52 - media_renamer_app - INFO - Application shutdown completed
+2025-12-07 14:21:52 - media_renamer_app - INFO - Application completed successfully
+2025-12-07 14:21:52 - media_renamer_app - INFO - Application shutting down...
+2025-12-07 14:21:52 - media_renamer_app - INFO - City cache saved successfully
+2025-12-07 14:21:52 - media_renamer_app - INFO - Session log saved: C:\Kiro\MediaUtils\logs\session_20251207_142030.json
+2025-12-07 14:21:52 - media_renamer_app - INFO - Application shutdown complete

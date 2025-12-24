@@ -1,0 +1,26 @@
+{
+  "session_start": "2025-10-05T13:05:53.755894",
+  "session_end": "2025-10-05T13:05:53.758894",
+  "total_operations": 3,
+  "operations": [
+    {
+      "timestamp": "2025-10-05T13:05:53.756896",
+      "operation": "rename",
+      "old_name": "test.jpg",
+      "new_name": "renamed_test.jpg"
+    },
+    {
+      "timestamp": "2025-10-05T13:05:53.756896",
+      "operation": "skip",
+      "filename": "invalid.txt",
+      "reason": "No metadata"
+    },
+    {
+      "timestamp": "2025-10-05T13:05:53.757894",
+      "operation": "error",
+      "context": "test_context",
+      "error_message": "Test error",
+      "error_type": "ValueError"
+    }
+  ]
+}

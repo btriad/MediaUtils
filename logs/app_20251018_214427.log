@@ -1,0 +1,7 @@
+2025-10-18 21:44:27 - media_renamer_app - INFO - Application logging initialized - Log file: logs\app_20251018_214427.log
+2025-10-18 21:44:27 - media_renamer_app - INFO - GUI application starting up with integrated systems
+2025-10-18 21:44:27 - media_renamer_app - INFO - City cache loaded successfully: 0 entries
+2025-10-18 21:44:27 - media_renamer_app - INFO - MediaProcessor initialized with caching and error recovery
+2025-10-18 21:44:27 - media_renamer_app - INFO - FileOperations initialized with 16 supported extensions
+2025-10-18 21:44:27 - media_renamer_app - INFO - GUI window initialized with geometry: 1x1+159+182
+2025-10-18 21:44:27 - media_renamer_app - INFO - GUI application initialization completed

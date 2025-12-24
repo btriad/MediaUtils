@@ -1,0 +1,14 @@
+{
+  "folder_path": "c:\\",
+  "filename_format": "%Y.%m.%d-%H.%M.%S.{increment:03d}.{ext}",
+  "window_geometry": "1200x600",
+  "last_used_formats": [
+    "%Y.%m.%d-%H.%M.%S.{increment:03d}.{city}.{ext}",
+    "%Y-%m-%d_%H-%M-%S.{increment:03d}.{ext}",
+    "{city}_%Y.%m.%d-%H.%M.%S.{increment:03d}.{ext}"
+  ],
+  "auto_select_all": false,
+  "show_missing_metadata_warning": true,
+  "api_timeout": 5,
+  "max_city_cache_size": 1000
+}

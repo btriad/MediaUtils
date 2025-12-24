@@ -1,0 +1,10 @@
+2025-10-05 13:05:53 - media_renamer_app - INFO - Application logging initialized - Log file: test_logs\app_20251005_130553.log
+2025-10-05 13:05:53 - media_renamer_app - INFO - Session logging initialized - Session file: test_logs\session_20251005_130553.log
+2025-10-05 13:05:53 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'test.jpg', 'new_name': 'renamed_test.jpg'}
+2025-10-05 13:05:53 - media_renamer_app - WARNING - File skipped: {'filename': 'invalid.txt', 'reason': 'No metadata'}
+2025-10-05 13:05:53 - media_renamer_app - ERROR - Error in test_context: Test error
+Traceback (most recent call last):
+  File "<string>", line 16, in <module>
+ValueError: Test error
+2025-10-05 13:05:53 - media_renamer_app - ERROR - Operation failed: {'context': 'test_context', 'error_message': 'Test error', 'error_type': 'ValueError'}
+2025-10-05 13:05:53 - media_renamer_app - INFO - Session log saved: test_logs\session_20251005_130553.json

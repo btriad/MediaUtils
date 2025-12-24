@@ -1,0 +1,108 @@
+2025-12-07 13:27:01 - media_renamer_app - INFO - Application logging initialized - Log file: c:\Kiro\MediaUtils\logs\app_20251207_132701.log
+2025-12-07 13:27:01 - media_renamer_app - INFO - Session logging initialized - Session file: c:\Kiro\MediaUtils\logs\session_20251207_132701.log
+2025-12-07 13:27:01 - media_renamer_app - INFO - Application starting - Media File Renamer v2.0.0
+2025-12-07 13:27:01 - media_renamer_app - INFO - City cache loaded with 80 entries
+2025-12-07 13:27:01 - media_renamer_app - INFO - All application systems initialized successfully
+2025-12-07 13:27:01 - media_renamer_app - INFO - GUI application starting up with integrated systems
+2025-12-07 13:27:01 - media_renamer_app - INFO - MediaProcessor initialized with caching and error recovery
+2025-12-07 13:27:01 - media_renamer_app - INFO - FileOperations initialized with 25 supported extensions
+2025-12-07 13:27:01 - media_renamer_app - INFO - GUI window initialized with geometry: 1x1+153+180
+2025-12-07 13:27:01 - media_renamer_app - INFO - GUI application initialization completed
+2025-12-07 13:27:01 - media_renamer_app - INFO - Starting GUI application...
+2025-12-07 13:27:12 - media_renamer_app - INFO - User initiated file discovery for folder: D:\Photos\Nef\Istanbul1
+2025-12-07 13:27:12 - media_renamer_app - INFO - Starting file discovery and metadata extraction
+2025-12-07 13:27:12 - media_renamer_app - INFO - Starting file discovery in folder: D:\Photos\Nef\Istanbul1
+2025-12-07 13:27:12 - media_renamer_app - INFO - Found 82 total files in D:\Photos\Nef\Istanbul1
+2025-12-07 13:27:12 - media_renamer_app - INFO - Discovered 82 supported media files
+2025-12-07 13:27:12 - media_renamer_app - INFO - Discovered 82 files in D:\Photos\Nef\Istanbul1
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0125.NEF: 2024-03-14 11:56:10
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0127.NEF: 2024-03-14 12:57:20
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0130.NEF: 2024-03-14 13:34:25
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0131.NEF: 2024-03-14 14:31:10
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0133.NEF: 2024-03-14 14:33:33
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0134.NEF: 2024-03-14 14:37:09
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0135.NEF: 2024-03-14 14:38:14
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0137.NEF: 2024-03-14 14:38:29
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0139.NEF: 2024-03-14 15:32:43
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0140.NEF: 2024-03-14 15:32:45
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0142.NEF: 2024-03-14 15:44:34
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0144.NEF: 2024-03-14 15:49:03
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0147.NEF: 2024-03-15 09:07:30
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0148.NEF: 2024-03-15 09:07:50
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0149.NEF: 2024-03-15 09:09:34
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0150.NEF: 2024-03-15 09:09:44
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0151.NEF: 2024-03-15 09:09:52
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0152.NEF: 2024-03-15 09:32:46
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0154.NEF: 2024-03-15 09:37:19
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0155.NEF: 2024-03-15 09:37:36
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0157.NEF: 2024-03-15 09:46:45
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0158.NEF: 2024-03-15 09:47:45
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0159.NEF: 2024-03-15 09:47:51
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0160.NEF: 2024-03-15 09:52:04
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0162.NEF: 2024-03-15 10:14:10
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0163.NEF: 2024-03-15 10:14:13
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0164.NEF: 2024-03-15 10:15:43
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0165.NEF: 2024-03-15 10:16:13
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0166.NEF: 2024-03-15 10:16:41
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0167.NEF: 2024-03-15 10:16:44
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0168.NEF: 2024-03-15 10:17:08
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0169.NEF: 2024-03-15 10:17:10
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0170.NEF: 2024-03-15 10:17:13
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0171.NEF: 2024-03-15 10:17:17
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0172.NEF: 2024-03-15 10:17:18
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0173.NEF: 2024-03-15 10:17:21
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0174.NEF: 2024-03-15 10:17:39
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0175.NEF: 2024-03-15 10:18:17
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0176.NEF: 2024-03-15 10:18:31
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0177.NEF: 2024-03-15 10:19:45
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0178.NEF: 2024-03-15 10:19:50
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0179.NEF: 2024-03-15 10:20:24
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0180.NEF: 2024-03-15 10:29:08
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0181.NEF: 2024-03-15 10:30:09
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0182.NEF: 2024-03-15 10:30:15
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0183.NEF: 2024-03-15 10:30:18
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0184.NEF: 2024-03-15 10:31:16
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0185.NEF: 2024-03-15 10:31:32
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0186.NEF: 2024-03-15 10:33:40
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0187.NEF: 2024-03-15 10:33:48
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0188.NEF: 2024-03-15 10:33:58
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0189.NEF: 2024-03-15 10:34:13
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0190.NEF: 2024-03-15 10:34:24
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0191.NEF: 2024-03-15 10:42:23
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0192.NEF: 2024-03-15 10:42:26
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0193.NEF: 2024-03-15 10:42:28
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0196.NEF: 2024-03-15 10:44:00
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0197.NEF: 2024-03-15 10:44:28
+2025-12-07 13:27:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0202.NEF: 2024-03-15 10:46:26
+2025-12-07 13:27:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0205.NEF: 2024-03-15 10:50:23
+2025-12-07 13:27:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0207.NEF: 2024-03-15 10:55:12
+2025-12-07 13:27:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0208.NEF: 2024-03-15 10:55:18
+2025-12-07 13:27:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0210.NEF: 2024-03-15 10:58:02
+2025-12-07 13:27:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0211.NEF: 2024-03-15 11:03:19
+2025-12-07 13:27:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0212.NEF: 2024-03-15 11:03:20
+2025-12-07 13:27:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0213.NEF: 2024-03-15 11:03:21
+2025-12-07 13:27:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0214.NEF: 2024-03-15 11:03:22
+2025-12-07 13:27:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0215.NEF: 2024-03-15 11:03:39
+2025-12-07 13:27:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0216.NEF: 2024-03-15 11:03:41
+2025-12-07 13:27:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0217.NEF: 2024-03-15 11:03:43
+2025-12-07 13:27:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0218.NEF: 2024-03-15 11:03:45
+2025-12-07 13:27:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0219.NEF: 2024-03-15 11:03:47
+2025-12-07 13:27:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0220.NEF: 2024-03-15 11:03:49
+2025-12-07 13:27:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0221.NEF: 2024-03-15 11:03:50
+2025-12-07 13:27:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0222.NEF: 2024-03-15 11:03:52
+2025-12-07 13:27:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0223.NEF: 2024-03-15 11:16:41
+2025-12-07 13:27:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0224.NEF: 2024-03-15 11:17:42
+2025-12-07 13:27:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0225.NEF: 2024-03-15 11:17:46
+2025-12-07 13:27:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0226.NEF: 2024-03-15 11:58:51
+2025-12-07 13:27:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0227.NEF: 2024-03-15 11:59:06
+2025-12-07 13:27:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0228.NEF: 2024-03-15 12:24:06
+2025-12-07 13:27:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\DSC_0229.NEF: 2024-03-15 12:24:11
+2025-12-07 13:27:14 - media_renamer_app - INFO - File discovery completed: 82 files processed, 0 without metadata
+2025-12-07 13:27:27 - media_renamer_app - INFO - User initiated application shutdown
+2025-12-07 13:27:27 - media_renamer_app - INFO - Settings saved on application close
+2025-12-07 13:27:28 - media_renamer_app - INFO - City cache saved successfully: 80 entries
+2025-12-07 13:27:28 - media_renamer_app - INFO - Application shutdown completed
+2025-12-07 13:27:28 - media_renamer_app - INFO - Application completed successfully
+2025-12-07 13:27:28 - media_renamer_app - INFO - Application shutting down...
+2025-12-07 13:27:28 - media_renamer_app - INFO - City cache saved successfully
+2025-12-07 13:27:28 - media_renamer_app - INFO - Application shutdown complete

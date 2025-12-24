@@ -1,0 +1,279 @@
+2025-12-07 20:06:56 - media_renamer_app - INFO - Application logging initialized - Log file: c:\Kiro\MediaUtils\logs\app_20251207_200656.log
+2025-12-07 20:06:56 - media_renamer_app - INFO - Session logging initialized - Session file: c:\Kiro\MediaUtils\logs\session_20251207_200656.log
+2025-12-07 20:06:56 - media_renamer_app - INFO - Application starting - Media File Renamer v2.0.0
+2025-12-07 20:06:56 - media_renamer_app - INFO - City cache loaded with 80 entries
+2025-12-07 20:06:56 - media_renamer_app - INFO - All application systems initialized successfully
+2025-12-07 20:06:56 - media_renamer_app - INFO - GUI application starting up with integrated systems
+2025-12-07 20:06:56 - media_renamer_app - INFO - MediaProcessor initialized with caching and error recovery
+2025-12-07 20:06:56 - media_renamer_app - INFO - FileOperations initialized with 25 supported extensions
+2025-12-07 20:06:57 - media_renamer_app - INFO - GUI window initialized with geometry: 1x1+153+180
+2025-12-07 20:06:57 - media_renamer_app - INFO - GUI application initialization completed
+2025-12-07 20:06:57 - media_renamer_app - INFO - Starting GUI application...
+2025-12-07 20:07:13 - media_renamer_app - INFO - User initiated file discovery for folder: D:\Photos\Nef\Istanbul1
+2025-12-07 20:07:13 - media_renamer_app - INFO - Starting file discovery and metadata extraction
+2025-12-07 20:07:13 - media_renamer_app - INFO - Starting file discovery in folder: D:\Photos\Nef\Istanbul1
+2025-12-07 20:07:13 - media_renamer_app - INFO - Found 83 total files in D:\Photos\Nef\Istanbul1
+2025-12-07 20:07:13 - media_renamer_app - INFO - Discovered 82 supported media files
+2025-12-07 20:07:13 - media_renamer_app - INFO - Discovered 82 files in D:\Photos\Nef\Istanbul1
+2025-12-07 20:07:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.14-11.56.10.001..NEF: 2024-03-14 11:56:10
+2025-12-07 20:07:13 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.14-11.56.10.001..NEF
+2025-12-07 20:07:13 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:13 - media_renamer_app - INFO - Extracted GPS from XMP attributes  2024.03.14-11.56.10.001..NEF.xmp: 41.036822, 28.985169
+2025-12-07 20:07:13 - media_renamer_app - INFO - Using GPS from XMP sidecar: 41.036822, 28.985169
+2025-12-07 20:07:13 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\Nef\Istanbul1\ 2024.03.14-11.56.10.001..NEF: 41.0368, 28.9852
+2025-12-07 20:07:13 - media_renamer_app - INFO - Starting GPS API lookup for coordinates 41.0368222, 28.985169366666668
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully retrieved city for 41.0368222, 28.985169366666668: Beyoğlu
+2025-12-07 20:07:14 - media_renamer_app - INFO - GPS API lookup successful for 41.0368222, 28.985169366666668
+2025-12-07 20:07:14 - media_renamer_app - INFO - City resolved for D:\Photos\Nef\Istanbul1\ 2024.03.14-11.56.10.001..NEF: Beyoğlu
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.14-12.57.20.002..NEF: 2024-03-14 12:57:20
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.14-12.57.20.002..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.14-13.34.25.003..NEF: 2024-03-14 13:34:25
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.14-13.34.25.003..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.14-14.31.10.004..NEF: 2024-03-14 14:31:10
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.14-14.31.10.004..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.14-14.33.33.005..NEF: 2024-03-14 14:33:33
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.14-14.33.33.005..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.14-14.37.09.006..NEF: 2024-03-14 14:37:09
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.14-14.37.09.006..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.14-14.38.14.007..NEF: 2024-03-14 14:38:14
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.14-14.38.14.007..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.14-14.38.29.008..NEF: 2024-03-14 14:38:29
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.14-14.38.29.008..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.14-15.32.43.009..NEF: 2024-03-14 15:32:43
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.14-15.32.43.009..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.14-15.32.45.010..NEF: 2024-03-14 15:32:45
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.14-15.32.45.010..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.14-15.44.34.011..NEF: 2024-03-14 15:44:34
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.14-15.44.34.011..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.14-15.49.03.012..NEF: 2024-03-14 15:49:03
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.14-15.49.03.012..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-09.07.30.013..NEF: 2024-03-15 09:07:30
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-09.07.30.013..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-09.07.50.014..NEF: 2024-03-15 09:07:50
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-09.07.50.014..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-09.09.34.015..NEF: 2024-03-15 09:09:34
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-09.09.34.015..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-09.09.44.016..NEF: 2024-03-15 09:09:44
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-09.09.44.016..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-09.09.52.017..NEF: 2024-03-15 09:09:52
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-09.09.52.017..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-09.32.46.018..NEF: 2024-03-15 09:32:46
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-09.32.46.018..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-09.37.19.019..NEF: 2024-03-15 09:37:19
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-09.37.19.019..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-09.37.36.020..NEF: 2024-03-15 09:37:36
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-09.37.36.020..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-09.46.45.021..NEF: 2024-03-15 09:46:45
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-09.46.45.021..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-09.47.45.022..NEF: 2024-03-15 09:47:45
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-09.47.45.022..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-09.47.51.023..NEF: 2024-03-15 09:47:51
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-09.47.51.023..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-09.52.04.024..NEF: 2024-03-15 09:52:04
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-09.52.04.024..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.14.10.025..NEF: 2024-03-15 10:14:10
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.14.10.025..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.14.13.026..NEF: 2024-03-15 10:14:13
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.14.13.026..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.15.43.027..NEF: 2024-03-15 10:15:43
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.15.43.027..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.16.13.028..NEF: 2024-03-15 10:16:13
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.16.13.028..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.16.41.029..NEF: 2024-03-15 10:16:41
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.16.41.029..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.16.44.030..NEF: 2024-03-15 10:16:44
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.16.44.030..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.17.08.031..NEF: 2024-03-15 10:17:08
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.17.08.031..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.17.10.032..NEF: 2024-03-15 10:17:10
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.17.10.032..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.17.13.033..NEF: 2024-03-15 10:17:13
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.17.13.033..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.17.17.034..NEF: 2024-03-15 10:17:17
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.17.17.034..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.17.18.035..NEF: 2024-03-15 10:17:18
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.17.18.035..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.17.21.036..NEF: 2024-03-15 10:17:21
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.17.21.036..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.17.39.037..NEF: 2024-03-15 10:17:39
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.17.39.037..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.18.17.038..NEF: 2024-03-15 10:18:17
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.18.17.038..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.18.31.039..NEF: 2024-03-15 10:18:31
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.18.31.039..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.19.45.040..NEF: 2024-03-15 10:19:45
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.19.45.040..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.19.50.041..NEF: 2024-03-15 10:19:50
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.19.50.041..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.20.24.042..NEF: 2024-03-15 10:20:24
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.20.24.042..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.29.08.043..NEF: 2024-03-15 10:29:08
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.29.08.043..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.30.09.044..NEF: 2024-03-15 10:30:09
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.30.09.044..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.30.15.045..NEF: 2024-03-15 10:30:15
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.30.15.045..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.30.18.046..NEF: 2024-03-15 10:30:18
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.30.18.046..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.31.16.047..NEF: 2024-03-15 10:31:16
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.31.16.047..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.31.32.048..NEF: 2024-03-15 10:31:32
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.31.32.048..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.33.40.049..NEF: 2024-03-15 10:33:40
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.33.40.049..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.33.48.050..NEF: 2024-03-15 10:33:48
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.33.48.050..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.33.58.051..NEF: 2024-03-15 10:33:58
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.33.58.051..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.34.13.052..NEF: 2024-03-15 10:34:13
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.34.13.052..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.34.24.053..NEF: 2024-03-15 10:34:24
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.34.24.053..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.42.23.054..NEF: 2024-03-15 10:42:23
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.42.23.054..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.42.26.055..NEF: 2024-03-15 10:42:26
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.42.26.055..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.42.28.056..NEF: 2024-03-15 10:42:28
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.42.28.056..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.44.00.057..NEF: 2024-03-15 10:44:00
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.44.00.057..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.44.28.058..NEF: 2024-03-15 10:44:28
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.44.28.058..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.46.26.059..NEF: 2024-03-15 10:46:26
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.46.26.059..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.50.23.060..NEF: 2024-03-15 10:50:23
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.50.23.060..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.55.12.061..NEF: 2024-03-15 10:55:12
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.55.12.061..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.55.18.062..NEF: 2024-03-15 10:55:18
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.55.18.062..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-10.58.02.063..NEF: 2024-03-15 10:58:02
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-10.58.02.063..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-11.03.19.064..NEF: 2024-03-15 11:03:19
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-11.03.19.064..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-11.03.20.065..NEF: 2024-03-15 11:03:20
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-11.03.20.065..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-11.03.21.066..NEF: 2024-03-15 11:03:21
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-11.03.21.066..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-11.03.22.067..NEF: 2024-03-15 11:03:22
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-11.03.22.067..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-11.03.39.068..NEF: 2024-03-15 11:03:39
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-11.03.39.068..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-11.03.41.069..NEF: 2024-03-15 11:03:41
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-11.03.41.069..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-11.03.43.070..NEF: 2024-03-15 11:03:43
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-11.03.43.070..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-11.03.45.071..NEF: 2024-03-15 11:03:45
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-11.03.45.071..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-11.03.47.072..NEF: 2024-03-15 11:03:47
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-11.03.47.072..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-11.03.49.073..NEF: 2024-03-15 11:03:49
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-11.03.49.073..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-11.03.50.074..NEF: 2024-03-15 11:03:50
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-11.03.50.074..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-11.03.52.075..NEF: 2024-03-15 11:03:52
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-11.03.52.075..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-11.16.41.076..NEF: 2024-03-15 11:16:41
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-11.16.41.076..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-11.17.42.077..NEF: 2024-03-15 11:17:42
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-11.17.42.077..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-11.17.46.078..NEF: 2024-03-15 11:17:46
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-11.17.46.078..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-11.58.51.079..NEF: 2024-03-15 11:58:51
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-11.58.51.079..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-11.59.06.080..NEF: 2024-03-15 11:59:06
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-11.59.06.080..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-12.24.06.081..NEF: 2024-03-15 12:24:06
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-12.24.06.081..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul1\ 2024.03.15-12.24.11.082..NEF: 2024-03-15 12:24:11
+2025-12-07 20:07:14 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\Nef\Istanbul1\ 2024.03.15-12.24.11.082..NEF
+2025-12-07 20:07:14 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2025-12-07 20:07:14 - media_renamer_app - INFO - File discovery completed: 82 files processed, 0 without metadata
+2025-12-07 20:07:44 - media_renamer_app - INFO - User initiated application shutdown
+2025-12-07 20:07:44 - media_renamer_app - INFO - Settings saved on application close
+2025-12-07 20:07:44 - media_renamer_app - INFO - City cache saved successfully: 81 entries
+2025-12-07 20:07:44 - media_renamer_app - INFO - Application shutdown completed
+2025-12-07 20:07:44 - media_renamer_app - INFO - Application completed successfully
+2025-12-07 20:07:44 - media_renamer_app - INFO - Application shutting down...
+2025-12-07 20:07:44 - media_renamer_app - INFO - City cache saved successfully
+2025-12-07 20:07:44 - media_renamer_app - INFO - Application shutdown complete

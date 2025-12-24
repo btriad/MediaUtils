@@ -1,0 +1,569 @@
+{
+  "38.014989,23.820333": {
+    "latitude": 38.01498888888889,
+    "longitude": 23.820333333333334,
+    "city": "Agia Paraskevi",
+    "timestamp": "2025-10-18T21:45:21.195700",
+    "source": "nominatim_api"
+  },
+  "38.004458,23.793808": {
+    "latitude": 38.00445833333333,
+    "longitude": 23.793808333333335,
+    "city": "Chalandri",
+    "timestamp": "2025-10-18T21:45:22.194082",
+    "source": "nominatim_api"
+  },
+  "38.089550,23.791986": {
+    "latitude": 38.08955,
+    "longitude": 23.79198611111111,
+    "city": "Kifisia",
+    "timestamp": "2025-10-18T21:45:23.195896",
+    "source": "nominatim_api"
+  },
+  "37.945511,23.638819": {
+    "latitude": 37.94551111111111,
+    "longitude": 23.638819444444444,
+    "city": "Piraeus",
+    "timestamp": "2025-10-18T21:45:24.193416",
+    "source": "nominatim_api"
+  },
+  "37.939775,23.636644": {
+    "latitude": 37.939775,
+    "longitude": 23.636644444444443,
+    "city": "Piraeus",
+    "timestamp": "2025-10-18T21:45:25.185929",
+    "source": "nominatim_api"
+  },
+  "37.941653,23.638131": {
+    "latitude": 37.941652777777776,
+    "longitude": 23.638130555555556,
+    "city": "Piraeus",
+    "timestamp": "2025-10-18T21:45:26.190120",
+    "source": "nominatim_api"
+  },
+  "37.790683,26.684342": {
+    "latitude": 37.790683333333334,
+    "longitude": 26.68434166666667,
+    "city": "Karlovasi",
+    "timestamp": "2025-10-18T21:45:27.188684",
+    "source": "nominatim_api"
+  },
+  "37.790761,26.666572": {
+    "latitude": 37.79076111111111,
+    "longitude": 26.66657222222222,
+    "city": "Karlovasi",
+    "timestamp": "2025-10-18T21:45:28.179599",
+    "source": "nominatim_api"
+  },
+  "37.795006,26.707467": {
+    "latitude": 37.795005555555555,
+    "longitude": 26.707466666666665,
+    "city": "Karlovasi",
+    "timestamp": "2025-10-18T21:45:29.192617",
+    "source": "nominatim_api"
+  },
+  "37.799650,26.702375": {
+    "latitude": 37.79965,
+    "longitude": 26.702375,
+    "city": "Karlovasi",
+    "timestamp": "2025-10-18T21:45:30.186700",
+    "source": "nominatim_api"
+  },
+  "38.052625,23.855036": {
+    "latitude": 38.052625,
+    "longitude": 23.85503611111111,
+    "city": "Penteli Municipal Unit",
+    "timestamp": "2025-10-18T21:45:31.203144",
+    "source": "nominatim_api"
+  },
+  "37.983281,23.760169": {
+    "latitude": 37.98328055555556,
+    "longitude": 23.760169444444443,
+    "city": "Athens",
+    "timestamp": "2025-10-18T21:45:32.207739",
+    "source": "nominatim_api"
+  },
+  "38.001372,23.786856": {
+    "latitude": 38.00137222222222,
+    "longitude": 23.786855555555558,
+    "city": "Neo Psychiko",
+    "timestamp": "2025-10-18T21:45:33.189975",
+    "source": "nominatim_api"
+  },
+  "38.019497,23.805481": {
+    "latitude": 38.01949722222222,
+    "longitude": 23.805480555555555,
+    "city": "Chalandri",
+    "timestamp": "2025-10-18T21:45:34.190142",
+    "source": "nominatim_api"
+  },
+  "38.002736,23.777169": {
+    "latitude": 38.00273611111111,
+    "longitude": 23.777169444444443,
+    "city": "Neo Psychiko",
+    "timestamp": "2025-10-18T21:45:35.195852",
+    "source": "nominatim_api"
+  },
+  "37.996786,23.780911": {
+    "latitude": 37.99678611111111,
+    "longitude": 23.78091111111111,
+    "city": "Athens",
+    "timestamp": "2025-10-18T21:45:36.183591",
+    "source": "nominatim_api"
+  },
+  "38.005056,23.785339": {
+    "latitude": 38.00505555555556,
+    "longitude": 23.78533888888889,
+    "city": "Neo Psychiko",
+    "timestamp": "2025-10-18T21:45:37.198914",
+    "source": "nominatim_api"
+  },
+  "50.109142,14.393903": {
+    "latitude": 50.109141666666666,
+    "longitude": 14.393902777777777,
+    "city": "Prague",
+    "timestamp": "2025-10-18T21:45:38.294265",
+    "source": "nominatim_api"
+  },
+  "50.107303,14.394536": {
+    "latitude": 50.10730277777778,
+    "longitude": 14.39453611111111,
+    "city": "Prague",
+    "timestamp": "2025-10-18T21:45:39.309402",
+    "source": "nominatim_api"
+  },
+  "50.093461,14.408994": {
+    "latitude": 50.09346111111111,
+    "longitude": 14.408994444444446,
+    "city": "Prague",
+    "timestamp": "2025-10-18T21:45:40.306584",
+    "source": "nominatim_api"
+  },
+  "50.086125,14.414281": {
+    "latitude": 50.086125,
+    "longitude": 14.414280555555555,
+    "city": "Prague",
+    "timestamp": "2025-10-18T21:45:41.311878",
+    "source": "nominatim_api"
+  },
+  "50.086486,14.411456": {
+    "latitude": 50.086486111111114,
+    "longitude": 14.411455555555555,
+    "city": "Prague",
+    "timestamp": "2025-10-18T21:45:42.307681",
+    "source": "nominatim_api"
+  },
+  "50.086961,14.407869": {
+    "latitude": 50.086961111111115,
+    "longitude": 14.407869444444446,
+    "city": "Prague",
+    "timestamp": "2025-10-18T21:45:43.294509",
+    "source": "nominatim_api"
+  },
+  "50.087489,14.405372": {
+    "latitude": 50.08748888888889,
+    "longitude": 14.405372222222223,
+    "city": "Prague",
+    "timestamp": "2025-10-18T21:45:44.331166",
+    "source": "nominatim_api"
+  },
+  "50.086708,14.409500": {
+    "latitude": 50.086708333333334,
+    "longitude": 14.4095,
+    "city": "Prague",
+    "timestamp": "2025-10-18T21:45:45.303620",
+    "source": "nominatim_api"
+  },
+  "50.086606,14.419956": {
+    "latitude": 50.08660555555556,
+    "longitude": 14.419955555555555,
+    "city": "Prague",
+    "timestamp": "2025-10-18T21:45:46.312201",
+    "source": "nominatim_api"
+  },
+  "50.084686,14.413444": {
+    "latitude": 50.08468611111111,
+    "longitude": 14.413444444444444,
+    "city": "Prague",
+    "timestamp": "2025-10-18T21:45:47.296539",
+    "source": "nominatim_api"
+  },
+  "50.090672,14.408953": {
+    "latitude": 50.090672222222224,
+    "longitude": 14.408952777777777,
+    "city": "Prague",
+    "timestamp": "2025-10-18T21:45:48.313226",
+    "source": "nominatim_api"
+  },
+  "50.089936,14.407328": {
+    "latitude": 50.089936111111115,
+    "longitude": 14.407327777777779,
+    "city": "Prague",
+    "timestamp": "2025-10-18T21:45:49.332639",
+    "source": "nominatim_api"
+  },
+  "50.091117,14.398719": {
+    "latitude": 50.09111666666667,
+    "longitude": 14.398719444444444,
+    "city": "Prague",
+    "timestamp": "2025-10-18T21:45:50.309159",
+    "source": "nominatim_api"
+  },
+  "50.090758,14.399839": {
+    "latitude": 50.09075833333333,
+    "longitude": 14.399838888888889,
+    "city": "Prague",
+    "timestamp": "2025-10-18T21:45:51.298531",
+    "source": "nominatim_api"
+  },
+  "50.091106,14.401603": {
+    "latitude": 50.09110555555556,
+    "longitude": 14.401602777777779,
+    "city": "Prague",
+    "timestamp": "2025-10-18T21:45:52.302422",
+    "source": "nominatim_api"
+  },
+  "50.092097,14.404783": {
+    "latitude": 50.09209722222222,
+    "longitude": 14.404783333333334,
+    "city": "Prague",
+    "timestamp": "2025-10-18T21:45:53.297900",
+    "source": "nominatim_api"
+  },
+  "50.091817,14.405969": {
+    "latitude": 50.091816666666666,
+    "longitude": 14.405969444444445,
+    "city": "Prague",
+    "timestamp": "2025-10-18T21:45:54.311616",
+    "source": "nominatim_api"
+  },
+  "50.079414,14.429917": {
+    "latitude": 50.079413888888894,
+    "longitude": 14.429916666666665,
+    "city": "Prague",
+    "timestamp": "2025-10-18T21:45:55.305794",
+    "source": "nominatim_api"
+  },
+  "50.084239,14.423494": {
+    "latitude": 50.08423888888889,
+    "longitude": 14.423494444444444,
+    "city": "Prague",
+    "timestamp": "2025-10-18T21:45:56.318098",
+    "source": "nominatim_api"
+  },
+  "50.084306,14.420486": {
+    "latitude": 50.08430555555556,
+    "longitude": 14.42048611111111,
+    "city": "Prague",
+    "timestamp": "2025-10-18T21:45:57.301498",
+    "source": "nominatim_api"
+  },
+  "50.098583,14.413575": {
+    "latitude": 50.09858333333334,
+    "longitude": 14.413575,
+    "city": "Prague",
+    "timestamp": "2025-10-18T21:45:58.309393",
+    "source": "nominatim_api"
+  },
+  "50.099064,14.417411": {
+    "latitude": 50.09906388888889,
+    "longitude": 14.417411111111111,
+    "city": "Prague",
+    "timestamp": "2025-10-18T21:45:59.314878",
+    "source": "nominatim_api"
+  },
+  "50.090783,14.425567": {
+    "latitude": 50.090783333333334,
+    "longitude": 14.425566666666667,
+    "city": "Prague",
+    "timestamp": "2025-10-18T21:46:00.313519",
+    "source": "nominatim_api"
+  },
+  "50.087547,14.428608": {
+    "latitude": 50.08754722222223,
+    "longitude": 14.428608333333333,
+    "city": "Prague",
+    "timestamp": "2025-10-18T21:46:01.307197",
+    "source": "nominatim_api"
+  },
+  "50.087242,14.427386": {
+    "latitude": 50.08724166666667,
+    "longitude": 14.42738611111111,
+    "city": "Prague",
+    "timestamp": "2025-10-18T21:46:02.298248",
+    "source": "nominatim_api"
+  },
+  "50.087189,14.425739": {
+    "latitude": 50.08718888888889,
+    "longitude": 14.425738888888889,
+    "city": "Prague",
+    "timestamp": "2025-10-18T21:46:03.308696",
+    "source": "nominatim_api"
+  },
+  "50.087458,14.421886": {
+    "latitude": 50.08745833333334,
+    "longitude": 14.42188611111111,
+    "city": "Prague",
+    "timestamp": "2025-10-18T21:46:04.306911",
+    "source": "nominatim_api"
+  },
+  "50.088581,14.422131": {
+    "latitude": 50.08858055555556,
+    "longitude": 14.422130555555555,
+    "city": "Prague",
+    "timestamp": "2025-10-18T21:46:05.350151",
+    "source": "nominatim_api"
+  },
+  "50.090072,14.420692": {
+    "latitude": 50.090072222222226,
+    "longitude": 14.420691666666666,
+    "city": "Prague",
+    "timestamp": "2025-10-18T21:46:06.317669",
+    "source": "nominatim_api"
+  },
+  "50.090861,14.418925": {
+    "latitude": 50.09086111111111,
+    "longitude": 14.418925,
+    "city": "Prague",
+    "timestamp": "2025-10-18T21:46:07.323448",
+    "source": "nominatim_api"
+  },
+  "50.089328,14.414433": {
+    "latitude": 50.08932777777778,
+    "longitude": 14.414433333333333,
+    "city": "Prague",
+    "timestamp": "2025-10-18T21:46:08.334197",
+    "source": "nominatim_api"
+  },
+  "50.084469,14.418933": {
+    "latitude": 50.084469444444444,
+    "longitude": 14.418933333333333,
+    "city": "Prague",
+    "timestamp": "2025-10-18T21:46:09.325617",
+    "source": "nominatim_api"
+  },
+  "50.229378,12.873831": {
+    "latitude": 50.22937777777778,
+    "longitude": 12.873830555555555,
+    "city": "Karlovy Vary",
+    "timestamp": "2025-10-18T21:46:10.354437",
+    "source": "nominatim_api"
+  },
+  "50.228778,12.875578": {
+    "latitude": 50.22877777777778,
+    "longitude": 12.875577777777778,
+    "city": "Karlovy Vary",
+    "timestamp": "2025-10-18T21:46:11.328479",
+    "source": "nominatim_api"
+  },
+  "50.228144,12.876883": {
+    "latitude": 50.228144444444446,
+    "longitude": 12.876883333333334,
+    "city": "Karlovy Vary",
+    "timestamp": "2025-10-18T21:46:12.337047",
+    "source": "nominatim_api"
+  },
+  "50.225517,12.881756": {
+    "latitude": 50.22551666666667,
+    "longitude": 12.881755555555555,
+    "city": "Karlovy Vary",
+    "timestamp": "2025-10-18T21:46:13.320343",
+    "source": "nominatim_api"
+  },
+  "50.224153,12.883347": {
+    "latitude": 50.22415277777778,
+    "longitude": 12.883347222222222,
+    "city": "Karlovy Vary",
+    "timestamp": "2025-10-18T21:46:14.335552",
+    "source": "nominatim_api"
+  },
+  "50.223125,12.883017": {
+    "latitude": 50.223125,
+    "longitude": 12.883016666666666,
+    "city": "Karlovy Vary",
+    "timestamp": "2025-10-18T21:46:15.324417",
+    "source": "nominatim_api"
+  },
+  "50.223061,12.884278": {
+    "latitude": 50.223061111111114,
+    "longitude": 12.884277777777777,
+    "city": "Karlovy Vary",
+    "timestamp": "2025-10-18T21:46:16.324131",
+    "source": "nominatim_api"
+  },
+  "50.221572,12.881033": {
+    "latitude": 50.22157222222222,
+    "longitude": 12.881033333333335,
+    "city": "Karlovy Vary",
+    "timestamp": "2025-10-18T21:46:17.348435",
+    "source": "nominatim_api"
+  },
+  "50.220417,12.879142": {
+    "latitude": 50.220416666666665,
+    "longitude": 12.879141666666667,
+    "city": "Karlovy Vary",
+    "timestamp": "2025-10-18T21:46:18.342751",
+    "source": "nominatim_api"
+  },
+  "50.218883,12.872239": {
+    "latitude": 50.21888333333334,
+    "longitude": 12.872238888888889,
+    "city": "Karlovy Vary",
+    "timestamp": "2025-10-18T21:46:19.321549",
+    "source": "nominatim_api"
+  },
+  "50.218594,12.874322": {
+    "latitude": 50.21859444444445,
+    "longitude": 12.874322222222222,
+    "city": "Karlovy Vary",
+    "timestamp": "2025-10-18T21:46:20.338814",
+    "source": "nominatim_api"
+  },
+  "50.218978,12.875569": {
+    "latitude": 50.21897777777778,
+    "longitude": 12.875569444444444,
+    "city": "Karlovy Vary",
+    "timestamp": "2025-10-18T21:46:21.319450",
+    "source": "nominatim_api"
+  },
+  "50.218717,12.877494": {
+    "latitude": 50.218716666666666,
+    "longitude": 12.877494444444444,
+    "city": "Karlovy Vary",
+    "timestamp": "2025-10-18T21:46:22.329689",
+    "source": "nominatim_api"
+  },
+  "50.226303,12.878292": {
+    "latitude": 50.22630277777778,
+    "longitude": 12.878291666666668,
+    "city": "Karlovy Vary",
+    "timestamp": "2025-10-18T21:46:23.343594",
+    "source": "nominatim_api"
+  },
+  "50.224486,12.874653": {
+    "latitude": 50.22448611111111,
+    "longitude": 12.874652777777778,
+    "city": "Karlovy Vary",
+    "timestamp": "2025-10-18T21:46:24.313421",
+    "source": "nominatim_api"
+  },
+  "50.086372,14.412703": {
+    "latitude": 50.086372222222224,
+    "longitude": 14.412702777777778,
+    "city": "Prague",
+    "timestamp": "2025-10-18T21:46:25.342339",
+    "source": "nominatim_api"
+  },
+  "50.086064,14.417472": {
+    "latitude": 50.086063888888894,
+    "longitude": 14.417472222222221,
+    "city": "Prague",
+    "timestamp": "2025-10-18T21:46:26.322088",
+    "source": "nominatim_api"
+  },
+  "39.014264,23.342969": {
+    "latitude": 39.01426388888889,
+    "longitude": 23.342969444444442,
+    "city": "Istiaia-Aidipsos",
+    "timestamp": "2025-10-18T21:46:27.326585",
+    "source": "nominatim_api"
+  },
+  "39.014797,23.339017": {
+    "latitude": 39.01479722222222,
+    "longitude": 23.339016666666666,
+    "city": "Istiaia-Aidipsos",
+    "timestamp": "2025-10-18T21:46:28.323842",
+    "source": "nominatim_api"
+  },
+  "41.018342,28.971453": {
+    "latitude": 41.018341666666664,
+    "longitude": 28.971452777777777,
+    "city": "Istanbul",
+    "timestamp": "2025-12-07T13:18:39.329371",
+    "source": "nominatim_api"
+  },
+  "41.038269,28.996969": {
+    "latitude": 41.038269444444445,
+    "longitude": 28.996969444444446,
+    "city": "Beşiktaş",
+    "timestamp": "2025-12-07T13:18:40.322071",
+    "source": "nominatim_api"
+  },
+  "41.008472,28.980031": {
+    "latitude": 41.008472222222224,
+    "longitude": 28.980030555555555,
+    "city": "Istanbul",
+    "timestamp": "2025-12-07T13:18:41.333913",
+    "source": "nominatim_api"
+  },
+  "41.007889,28.978489": {
+    "latitude": 41.007888888888886,
+    "longitude": 28.978488888888887,
+    "city": "Istanbul",
+    "timestamp": "2025-12-07T13:18:42.322984",
+    "source": "nominatim_api"
+  },
+  "41.017258,28.972872": {
+    "latitude": 41.01725833333333,
+    "longitude": 28.97287222222222,
+    "city": "Istanbul",
+    "timestamp": "2025-12-07T13:18:43.337998",
+    "source": "nominatim_api"
+  },
+  "41.005250,28.976772": {
+    "latitude": 41.00525,
+    "longitude": 28.97677222222222,
+    "city": "Istanbul",
+    "timestamp": "2025-12-07T13:18:44.329896",
+    "source": "nominatim_api"
+  },
+  "41.026711,28.982639": {
+    "latitude": 41.02671111111111,
+    "longitude": 28.982638888888886,
+    "city": "Beyoğlu",
+    "timestamp": "2025-12-07T13:18:45.346575",
+    "source": "nominatim_api"
+  },
+  "41.027614,28.986231": {
+    "latitude": 41.02761388888889,
+    "longitude": 28.986230555555558,
+    "city": "Beyoğlu",
+    "timestamp": "2025-12-07T13:18:46.321698",
+    "source": "nominatim_api"
+  },
+  "40.879631,29.098897": {
+    "latitude": 40.87963055555556,
+    "longitude": 29.09889722222222,
+    "city": "Prince Islands",
+    "timestamp": "2025-12-07T13:18:47.326662",
+    "source": "nominatim_api"
+  },
+  "40.874153,29.128819": {
+    "latitude": 40.87415277777778,
+    "longitude": 29.128819444444446,
+    "city": "Prince Islands",
+    "timestamp": "2025-12-07T13:18:48.323138",
+    "source": "nominatim_api"
+  },
+  "40.873336,29.126697": {
+    "latitude": 40.873336111111115,
+    "longitude": 29.126697222222223,
+    "city": "Prince Islands",
+    "timestamp": "2025-12-07T13:18:49.325325",
+    "source": "nominatim_api"
+  },
+  "40.971589,29.073911": {
+    "latitude": 40.97158888888889,
+    "longitude": 29.073911111111112,
+    "city": "Kadıköy",
+    "timestamp": "2025-12-07T13:18:50.322078",
+    "source": "nominatim_api"
+  },
+  "41.036822,28.985169": {
+    "latitude": 41.0368222,
+    "longitude": 28.985169366666668,
+    "city": "Beyoğlu",
+    "timestamp": "2025-12-07T20:07:14.178119",
+    "source": "nominatim_api"
+  }
+}
