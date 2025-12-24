@@ -1,6 +1,7 @@
 # Media File Renamer
+Built with Kiro IDE - Advanced development environment for enhanced productivity
 
-A powerful, user-friendly application for automatically renaming media files (photos and videos) based on their metadata, including date/time, GPS location, and city information.
+An application for automatically renaming media files (photos and videos) based on their metadata, including date/time, GPS location, and city information.
 
 ## 🌟 Features
 
@@ -337,4 +338,3 @@ This project is open source. Feel free to use, modify, and distribute according 
 
 ---
 
-*Made with ❤️ for photographers and digital asset managers*
