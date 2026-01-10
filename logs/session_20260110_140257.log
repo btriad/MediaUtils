@@ -1,0 +1,593 @@
+2026-01-10 14:02:57 - === File Processing Session Started ===
+2026-01-10 14:03:07 - SESSION_START: {'total_files': 1, 'folder_path': 'D:\\Photos\\Nef\\Samos'}
+2026-01-10 14:03:07 - PROGRESS: {'current': 1, 'total': 1, 'filename': ' 2024.08.09-19.34.35.001._c1.NEF'}
+2026-01-10 14:03:07 - RENAMED: ' 2024.08.09-19.34.35.001._c1.NEF' -> ' 2024.08.09-19.34.35.001..NEF'
+2026-01-10 14:03:07 - SESSION_COMPLETE: {'processed_count': 1, 'error_count': 0, 'skipped_count': 0, 'total_files': 1}
+2026-01-10 14:03:07 - === File Processing Session Completed ===
+2026-01-10 14:03:07 - Total operations: 4
+2026-01-10 14:03:27 - SESSION_START: {'total_files': 1, 'folder_path': 'D:\\Photos\\Nef\\Samos'}
+2026-01-10 14:03:27 - PROGRESS: {'current': 1, 'total': 1, 'filename': ' 2024.08.09-19.34.35.001..NEF'}
+2026-01-10 14:03:27 - RENAMED: ' 2024.08.09-19.34.35.001..NEF' -> ' 2024.08.09-19.34.35.001..samos.NEF'
+2026-01-10 14:03:27 - SESSION_COMPLETE: {'processed_count': 1, 'error_count': 0, 'skipped_count': 0, 'total_files': 1}
+2026-01-10 14:03:27 - === File Processing Session Completed ===
+2026-01-10 14:03:27 - Total operations: 8
+2026-01-10 14:04:00 - SESSION_START: {'total_files': 286, 'folder_path': 'D:\\Photos\\Nef\\Samos'}
+2026-01-10 14:04:01 - PROGRESS: {'current': 1, 'total': 286, 'filename': ' 2024.08.09-19.34.35.001..samos.NEF'}
+2026-01-10 14:04:01 - RENAMED: ' 2024.08.09-19.34.35.001..samos.NEF' -> ' 2024.08.09-19.34.35.001.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 2, 'total': 286, 'filename': 'DSC_0457.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0457.NEF' -> ' 2024.08.09-19.35.13.002.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 3, 'total': 286, 'filename': 'DSC_0458.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0458.NEF' -> ' 2024.08.09-19.35.19.003.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 4, 'total': 286, 'filename': 'DSC_0459.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0459.NEF' -> ' 2024.08.09-19.35.31.004.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 5, 'total': 286, 'filename': 'DSC_0460.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0460.NEF' -> ' 2024.08.09-19.36.22.005.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 6, 'total': 286, 'filename': 'DSC_0461.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0461.NEF' -> ' 2024.08.09-19.36.32.006.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 7, 'total': 286, 'filename': 'DSC_0464.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0464.NEF' -> ' 2024.08.09-19.38.38.007.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 8, 'total': 286, 'filename': 'DSC_0465.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0465.NEF' -> ' 2024.08.09-19.38.53.008.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 9, 'total': 286, 'filename': 'DSC_0466.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0466.NEF' -> ' 2024.08.09-19.39.02.009.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 10, 'total': 286, 'filename': 'DSC_0467.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0467.NEF' -> ' 2024.08.09-19.39.20.010.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 11, 'total': 286, 'filename': 'DSC_0468.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0468.NEF' -> ' 2024.08.09-19.39.53.011.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 12, 'total': 286, 'filename': 'DSC_0469.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0469.NEF' -> ' 2024.08.09-19.40.32.012.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 13, 'total': 286, 'filename': 'DSC_0470.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0470.NEF' -> ' 2024.08.09-19.40.49.013.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 14, 'total': 286, 'filename': 'DSC_0471.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0471.NEF' -> ' 2024.08.09-19.40.55.014.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 15, 'total': 286, 'filename': 'DSC_0473.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0473.NEF' -> ' 2024.08.09-19.44.27.015.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 16, 'total': 286, 'filename': 'DSC_0484.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0484.NEF' -> ' 2024.08.09-19.45.14.016.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 17, 'total': 286, 'filename': 'DSC_0486.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0486.NEF' -> ' 2024.08.09-19.45.17.017.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 18, 'total': 286, 'filename': 'DSC_0512.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0512.NEF' -> ' 2024.08.09-19.46.19.018.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 19, 'total': 286, 'filename': 'DSC_0514.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0514.NEF' -> ' 2024.08.09-19.46.20.019.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 20, 'total': 286, 'filename': 'DSC_0523.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0523.NEF' -> ' 2024.08.09-19.48.13.020.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 21, 'total': 286, 'filename': 'DSC_0526.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0526.NEF' -> ' 2024.08.09-19.48.49.021.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 22, 'total': 286, 'filename': 'DSC_0528.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0528.NEF' -> ' 2024.08.09-19.59.09.022.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 23, 'total': 286, 'filename': 'DSC_0529.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0529.NEF' -> ' 2024.08.09-19.59.20.023.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 24, 'total': 286, 'filename': 'DSC_0530.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0530.NEF' -> ' 2024.08.09-19.59.32.024.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 25, 'total': 286, 'filename': 'DSC_0532.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0532.NEF' -> ' 2024.08.09-20.00.20.025.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 26, 'total': 286, 'filename': 'DSC_0540.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0540.NEF' -> ' 2024.08.09-20.03.10.026.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 27, 'total': 286, 'filename': 'DSC_0541.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0541.NEF' -> ' 2024.08.09-20.03.35.027.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 28, 'total': 286, 'filename': 'DSC_0542.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0542.NEF' -> ' 2024.08.09-20.03.37.028.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 29, 'total': 286, 'filename': 'DSC_0543.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0543.NEF' -> ' 2024.08.09-20.03.37.029.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 30, 'total': 286, 'filename': 'DSC_0548.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0548.NEF' -> ' 2024.08.10-10.04.53.030.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 31, 'total': 286, 'filename': 'DSC_0556.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0556.NEF' -> ' 2024.08.10-10.04.55.031.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 32, 'total': 286, 'filename': 'DSC_0569.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0569.NEF' -> ' 2024.08.10-10.10.25.032.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 33, 'total': 286, 'filename': 'DSC_0573.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0573.NEF' -> ' 2024.08.10-10.11.27.033.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 34, 'total': 286, 'filename': 'DSC_0574.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0574.NEF' -> ' 2024.08.10-10.11.50.034.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 35, 'total': 286, 'filename': 'DSC_0575.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0575.NEF' -> ' 2024.08.10-10.11.56.035.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 36, 'total': 286, 'filename': 'DSC_0576.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0576.NEF' -> ' 2024.08.10-10.14.25.036.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 37, 'total': 286, 'filename': 'DSC_0577.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0577.NEF' -> ' 2024.08.10-10.15.32.037.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 38, 'total': 286, 'filename': 'DSC_0578.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0578.NEF' -> ' 2024.08.10-10.15.50.038.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 39, 'total': 286, 'filename': 'DSC_0579.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0579.NEF' -> ' 2024.08.10-10.16.01.039.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 40, 'total': 286, 'filename': 'DSC_0580.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0580.NEF' -> ' 2024.08.10-10.16.31.040.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 41, 'total': 286, 'filename': 'DSC_0581.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0581.NEF' -> ' 2024.08.10-10.16.39.041.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 42, 'total': 286, 'filename': 'DSC_0583.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0583.NEF' -> ' 2024.08.10-10.17.16.042.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 43, 'total': 286, 'filename': 'DSC_0590.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0590.NEF' -> ' 2024.08.10-10.18.21.043.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 44, 'total': 286, 'filename': 'DSC_0591.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0591.NEF' -> ' 2024.08.10-10.18.23.044.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 45, 'total': 286, 'filename': 'DSC_0593.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0593.NEF' -> ' 2024.08.10-10.18.51.045.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 46, 'total': 286, 'filename': 'DSC_0594.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0594.NEF' -> ' 2024.08.10-10.18.55.046.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 47, 'total': 286, 'filename': 'DSC_0595.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0595.NEF' -> ' 2024.08.10-10.18.56.047.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 48, 'total': 286, 'filename': 'DSC_0596.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0596.NEF' -> ' 2024.08.10-10.19.08.048.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 49, 'total': 286, 'filename': 'DSC_0597.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0597.NEF' -> ' 2024.08.10-10.19.10.049.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 50, 'total': 286, 'filename': 'DSC_0598.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0598.NEF' -> ' 2024.08.10-10.19.37.050.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 51, 'total': 286, 'filename': 'DSC_0599.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0599.NEF' -> ' 2024.08.10-10.19.48.051.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 52, 'total': 286, 'filename': 'DSC_0600.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0600.NEF' -> ' 2024.08.10-10.20.23.052.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 53, 'total': 286, 'filename': 'DSC_0601.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0601.NEF' -> ' 2024.08.10-10.20.34.053.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 54, 'total': 286, 'filename': 'DSC_0602.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0602.NEF' -> ' 2024.08.10-10.21.03.054.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 55, 'total': 286, 'filename': 'DSC_0603.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0603.NEF' -> ' 2024.08.10-10.21.40.055.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 56, 'total': 286, 'filename': 'DSC_0604.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0604.NEF' -> ' 2024.08.10-10.21.44.056.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 57, 'total': 286, 'filename': 'DSC_0605.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0605.NEF' -> ' 2024.08.10-10.21.47.057.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 58, 'total': 286, 'filename': 'DSC_0608.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0608.NEF' -> ' 2024.08.10-10.24.03.058.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 59, 'total': 286, 'filename': 'DSC_0609.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0609.NEF' -> ' 2024.08.10-10.24.15.059.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 60, 'total': 286, 'filename': 'DSC_0610.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0610.NEF' -> ' 2024.08.10-10.25.09.060.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 61, 'total': 286, 'filename': 'DSC_0611.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0611.NEF' -> ' 2024.08.10-10.25.42.061.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 62, 'total': 286, 'filename': 'DSC_0612.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0612.NEF' -> ' 2024.08.10-10.26.35.062.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 63, 'total': 286, 'filename': 'DSC_0613.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0613.NEF' -> ' 2024.08.10-10.26.38.063.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 64, 'total': 286, 'filename': 'DSC_0614.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0614.NEF' -> ' 2024.08.10-10.27.40.064.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 65, 'total': 286, 'filename': 'DSC_0615.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0615.NEF' -> ' 2024.08.10-10.28.05.065.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 66, 'total': 286, 'filename': 'DSC_0616.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0616.NEF' -> ' 2024.08.10-10.30.46.066.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 67, 'total': 286, 'filename': 'DSC_0617.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0617.NEF' -> ' 2024.08.10-10.31.58.067.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 68, 'total': 286, 'filename': 'DSC_0618.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0618.NEF' -> ' 2024.08.10-10.32.00.068.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 69, 'total': 286, 'filename': 'DSC_0619.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0619.NEF' -> ' 2024.08.10-10.32.06.069.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 70, 'total': 286, 'filename': 'DSC_0620.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0620.NEF' -> ' 2024.08.10-10.35.37.070.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 71, 'total': 286, 'filename': 'DSC_0621.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0621.NEF' -> ' 2024.08.10-10.35.41.071.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 72, 'total': 286, 'filename': 'DSC_0622.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0622.NEF' -> ' 2024.08.11-12.27.53.072.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 73, 'total': 286, 'filename': 'DSC_0623.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0623.NEF' -> ' 2024.08.11-12.28.16.073.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 74, 'total': 286, 'filename': 'DSC_0624.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0624.NEF' -> ' 2024.08.11-12.31.26.074.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 75, 'total': 286, 'filename': 'DSC_0625.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0625.NEF' -> ' 2024.08.11-12.33.30.075.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 76, 'total': 286, 'filename': 'DSC_0626.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0626.NEF' -> ' 2024.08.11-12.33.36.076.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 77, 'total': 286, 'filename': 'DSC_0627.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0627.NEF' -> ' 2024.08.11-12.33.38.077.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 78, 'total': 286, 'filename': 'DSC_0628.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0628.NEF' -> ' 2024.08.11-12.33.54.078.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 79, 'total': 286, 'filename': 'DSC_0629.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0629.NEF' -> ' 2024.08.11-12.34.00.079.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 80, 'total': 286, 'filename': 'DSC_0630.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0630.NEF' -> ' 2024.08.11-12.34.27.080.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 81, 'total': 286, 'filename': 'DSC_0631.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0631.NEF' -> ' 2024.08.11-12.35.35.081.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 82, 'total': 286, 'filename': 'DSC_0632.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0632.NEF' -> ' 2024.08.11-12.36.30.082.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 83, 'total': 286, 'filename': 'DSC_0633.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0633.NEF' -> ' 2024.08.11-12.36.34.083.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 84, 'total': 286, 'filename': 'DSC_0634.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0634.NEF' -> ' 2024.08.11-12.39.26.084.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 85, 'total': 286, 'filename': 'DSC_0635.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0635.NEF' -> ' 2024.08.11-12.39.36.085.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 86, 'total': 286, 'filename': 'DSC_0636.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0636.NEF' -> ' 2024.08.11-12.41.25.086.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 87, 'total': 286, 'filename': 'DSC_0637.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0637.NEF' -> ' 2024.08.11-12.41.27.087.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 88, 'total': 286, 'filename': 'DSC_0638.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0638.NEF' -> ' 2024.08.11-12.41.37.088.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 89, 'total': 286, 'filename': 'DSC_0639.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0639.NEF' -> ' 2024.08.11-12.41.41.089.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 90, 'total': 286, 'filename': 'DSC_0640.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0640.NEF' -> ' 2024.08.11-12.41.43.090.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 91, 'total': 286, 'filename': 'DSC_0641.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0641.NEF' -> ' 2024.08.11-12.41.50.091.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 92, 'total': 286, 'filename': 'DSC_0642.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0642.NEF' -> ' 2024.08.11-12.41.53.092.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 93, 'total': 286, 'filename': 'DSC_0643.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0643.NEF' -> ' 2024.08.11-12.42.22.093.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 94, 'total': 286, 'filename': 'DSC_0644.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0644.NEF' -> ' 2024.08.11-12.42.23.094.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 95, 'total': 286, 'filename': 'DSC_0645.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0645.NEF' -> ' 2024.08.11-12.42.28.095.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 96, 'total': 286, 'filename': 'DSC_0646.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0646.NEF' -> ' 2024.08.11-12.42.30.096.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 97, 'total': 286, 'filename': 'DSC_0647.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0647.NEF' -> ' 2024.08.11-12.42.32.097.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 98, 'total': 286, 'filename': 'DSC_0648.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0648.NEF' -> ' 2024.08.11-12.47.53.098.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 99, 'total': 286, 'filename': 'DSC_0649.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0649.NEF' -> ' 2024.08.11-12.47.55.099.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 100, 'total': 286, 'filename': 'DSC_0650.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0650.NEF' -> ' 2024.08.11-12.47.58.100.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 101, 'total': 286, 'filename': 'DSC_0651.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0651.NEF' -> ' 2024.08.11-12.48.21.101.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 102, 'total': 286, 'filename': 'DSC_0652.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0652.NEF' -> ' 2024.08.11-12.48.24.102.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 103, 'total': 286, 'filename': 'DSC_0653.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0653.NEF' -> ' 2024.08.11-12.51.08.103.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 104, 'total': 286, 'filename': 'DSC_0654.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0654.NEF' -> ' 2024.08.11-12.51.28.104.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 105, 'total': 286, 'filename': 'DSC_0655.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0655.NEF' -> ' 2024.08.11-12.51.48.105.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 106, 'total': 286, 'filename': 'DSC_0656.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0656.NEF' -> ' 2024.08.11-12.51.51.106.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 107, 'total': 286, 'filename': 'DSC_0657.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0657.NEF' -> ' 2024.08.11-12.51.59.107.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 108, 'total': 286, 'filename': 'DSC_0658.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0658.NEF' -> ' 2024.08.11-12.52.02.108.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 109, 'total': 286, 'filename': 'DSC_0659.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0659.NEF' -> ' 2024.08.11-12.52.04.109.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 110, 'total': 286, 'filename': 'DSC_0660.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0660.NEF' -> ' 2024.08.11-12.52.05.110.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 111, 'total': 286, 'filename': 'DSC_0661.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0661.NEF' -> ' 2024.08.11-12.52.07.111.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 112, 'total': 286, 'filename': 'DSC_0662.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0662.NEF' -> ' 2024.08.11-12.52.08.112.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 113, 'total': 286, 'filename': 'DSC_0663.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0663.NEF' -> ' 2024.08.11-13.05.41.113.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 114, 'total': 286, 'filename': 'DSC_0664.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0664.NEF' -> ' 2024.08.11-13.05.43.114.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 115, 'total': 286, 'filename': 'DSC_0665.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0665.NEF' -> ' 2024.08.11-13.06.04.115.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 116, 'total': 286, 'filename': 'DSC_0666.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0666.NEF' -> ' 2024.08.11-13.06.07.116.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 117, 'total': 286, 'filename': 'DSC_0667.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0667.NEF' -> ' 2024.08.11-13.07.08.117.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 118, 'total': 286, 'filename': 'DSC_0668.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0668.NEF' -> ' 2024.08.11-13.07.19.118.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 119, 'total': 286, 'filename': 'DSC_0669.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0669.NEF' -> ' 2024.08.11-13.07.20.119.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 120, 'total': 286, 'filename': 'DSC_0670.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0670.NEF' -> ' 2024.08.11-13.10.14.120.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 121, 'total': 286, 'filename': 'DSC_0671.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0671.NEF' -> ' 2024.08.11-13.10.19.121.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 122, 'total': 286, 'filename': 'DSC_0672.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0672.NEF' -> ' 2024.08.11-13.10.21.122.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 123, 'total': 286, 'filename': 'DSC_0673.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0673.NEF' -> ' 2024.08.11-13.10.34.123.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 124, 'total': 286, 'filename': 'DSC_0674.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0674.NEF' -> ' 2024.08.11-13.10.37.124.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 125, 'total': 286, 'filename': 'DSC_0675.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0675.NEF' -> ' 2024.08.11-13.10.39.125.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 126, 'total': 286, 'filename': 'DSC_0676.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0676.NEF' -> ' 2024.08.11-13.10.59.126.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 127, 'total': 286, 'filename': 'DSC_0677.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0677.NEF' -> ' 2024.08.11-13.11.02.127.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 128, 'total': 286, 'filename': 'DSC_0678.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0678.NEF' -> ' 2024.08.11-13.11.04.128.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 129, 'total': 286, 'filename': 'DSC_0679.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0679.NEF' -> ' 2024.08.11-13.11.16.129.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 130, 'total': 286, 'filename': 'DSC_0680.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0680.NEF' -> ' 2024.08.11-13.11.18.130.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 131, 'total': 286, 'filename': 'DSC_0681.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0681.NEF' -> ' 2024.08.11-13.11.21.131.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 132, 'total': 286, 'filename': 'DSC_0682.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0682.NEF' -> ' 2024.08.11-13.11.22.132.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 133, 'total': 286, 'filename': 'DSC_0683.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0683.NEF' -> ' 2024.08.11-13.11.24.133.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 134, 'total': 286, 'filename': 'DSC_0684.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0684.NEF' -> ' 2024.08.11-13.11.35.134.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 135, 'total': 286, 'filename': 'DSC_0685.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0685.NEF' -> ' 2024.08.11-13.11.40.135.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 136, 'total': 286, 'filename': 'DSC_0686.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0686.NEF' -> ' 2024.08.11-13.12.12.136.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 137, 'total': 286, 'filename': 'DSC_0687.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0687.NEF' -> ' 2024.08.11-13.12.19.137.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 138, 'total': 286, 'filename': 'DSC_0688.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0688.NEF' -> ' 2024.08.11-13.12.21.138.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 139, 'total': 286, 'filename': 'DSC_0689.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0689.NEF' -> ' 2024.08.11-13.39.10.139.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 140, 'total': 286, 'filename': 'DSC_0690.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0690.NEF' -> ' 2024.08.11-13.39.14.140.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 141, 'total': 286, 'filename': 'DSC_0691.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0691.NEF' -> ' 2024.08.11-13.39.18.141.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 142, 'total': 286, 'filename': 'DSC_0692.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0692.NEF' -> ' 2024.08.11-13.39.53.142.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 143, 'total': 286, 'filename': 'DSC_0693.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0693.NEF' -> ' 2024.08.11-13.40.03.143.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 144, 'total': 286, 'filename': 'DSC_0694.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0694.NEF' -> ' 2024.08.11-13.40.04.144.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 145, 'total': 286, 'filename': 'DSC_0695.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0695.NEF' -> ' 2024.08.11-13.40.05.145.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 146, 'total': 286, 'filename': 'DSC_0696.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0696.NEF' -> ' 2024.08.11-13.40.08.146.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 147, 'total': 286, 'filename': 'DSC_0697.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0697.NEF' -> ' 2024.08.11-13.40.08.147.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 148, 'total': 286, 'filename': 'DSC_0698.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0698.NEF' -> ' 2024.08.11-13.40.14.148.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 149, 'total': 286, 'filename': 'DSC_0699.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0699.NEF' -> ' 2024.08.11-13.40.15.149.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 150, 'total': 286, 'filename': 'DSC_0700.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0700.NEF' -> ' 2024.08.11-13.40.17.150.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 151, 'total': 286, 'filename': 'DSC_0701.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0701.NEF' -> ' 2024.08.11-13.40.43.151.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 152, 'total': 286, 'filename': 'DSC_0702.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0702.NEF' -> ' 2024.08.11-13.40.59.152.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 153, 'total': 286, 'filename': 'DSC_0703.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0703.NEF' -> ' 2024.08.11-13.40.59.153.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 154, 'total': 286, 'filename': 'DSC_0704.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0704.NEF' -> ' 2024.08.11-13.41.12.154.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 155, 'total': 286, 'filename': 'DSC_0705.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0705.NEF' -> ' 2024.08.11-13.41.13.155.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 156, 'total': 286, 'filename': 'DSC_0706.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0706.NEF' -> ' 2024.08.11-13.41.14.156.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 157, 'total': 286, 'filename': 'DSC_0707.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0707.NEF' -> ' 2024.08.11-13.41.14.157.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 158, 'total': 286, 'filename': 'DSC_0708.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0708.NEF' -> ' 2024.08.11-13.41.14.158.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 159, 'total': 286, 'filename': 'DSC_0709.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0709.NEF' -> ' 2024.08.11-13.41.15.159.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 160, 'total': 286, 'filename': 'DSC_0710.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0710.NEF' -> ' 2024.08.11-13.41.16.160.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 161, 'total': 286, 'filename': 'DSC_0714.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0714.NEF' -> ' 2024.08.11-13.41.20.161.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 162, 'total': 286, 'filename': 'DSC_0715.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0715.NEF' -> ' 2024.08.11-13.42.52.162.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 163, 'total': 286, 'filename': 'DSC_0716.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0716.NEF' -> ' 2024.08.11-13.42.57.163.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 164, 'total': 286, 'filename': 'DSC_0717.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0717.NEF' -> ' 2024.08.11-13.43.02.164.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 165, 'total': 286, 'filename': 'DSC_0718.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0718.NEF' -> ' 2024.08.11-13.43.13.165.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 166, 'total': 286, 'filename': 'DSC_0719.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0719.NEF' -> ' 2024.08.11-15.59.35.166.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 167, 'total': 286, 'filename': 'DSC_0721.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0721.NEF' -> ' 2024.08.11-17.07.53.167.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 168, 'total': 286, 'filename': 'DSC_0722.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0722.NEF' -> ' 2024.08.11-17.07.57.168.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 169, 'total': 286, 'filename': 'DSC_0723.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0723.NEF' -> ' 2024.08.11-17.08.00.169.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 170, 'total': 286, 'filename': 'DSC_0725.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0725.NEF' -> ' 2024.08.11-17.08.17.170.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 171, 'total': 286, 'filename': 'DSC_0727.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0727.NEF' -> ' 2024.08.11-17.09.38.171.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 172, 'total': 286, 'filename': 'DSC_0728.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0728.NEF' -> ' 2024.08.11-17.09.42.172.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 173, 'total': 286, 'filename': 'DSC_0729.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0729.NEF' -> ' 2024.08.11-17.09.44.173.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 174, 'total': 286, 'filename': 'DSC_0730.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0730.NEF' -> ' 2024.08.11-17.09.45.174.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 175, 'total': 286, 'filename': 'DSC_0731.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0731.NEF' -> ' 2024.08.11-17.09.49.175.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 176, 'total': 286, 'filename': 'DSC_0732.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0732.NEF' -> ' 2024.08.12-11.19.21.176.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 177, 'total': 286, 'filename': 'DSC_0733.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0733.NEF' -> ' 2024.08.12-11.19.39.177.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 178, 'total': 286, 'filename': 'DSC_0734.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0734.NEF' -> ' 2024.08.12-11.20.00.178.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 179, 'total': 286, 'filename': 'DSC_0735.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0735.NEF' -> ' 2024.08.12-11.21.50.179.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 180, 'total': 286, 'filename': 'DSC_0737.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0737.NEF' -> ' 2024.08.12-11.22.18.180.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 181, 'total': 286, 'filename': 'DSC_0744.JPG'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0744.JPG' -> ' 2024.08.12-11.24.37.181.Samos.JPG'
+2026-01-10 14:04:01 - PROGRESS: {'current': 182, 'total': 286, 'filename': 'DSC_0746.JPG'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0746.JPG' -> ' 2024.08.12-11.25.05.182.Samos.JPG'
+2026-01-10 14:04:01 - PROGRESS: {'current': 183, 'total': 286, 'filename': 'DSC_0747.JPG'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0747.JPG' -> ' 2024.08.12-11.25.06.183.Samos.JPG'
+2026-01-10 14:04:01 - PROGRESS: {'current': 184, 'total': 286, 'filename': 'DSC_0748.JPG'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0748.JPG' -> ' 2024.08.12-11.25.13.184.Samos.JPG'
+2026-01-10 14:04:01 - PROGRESS: {'current': 185, 'total': 286, 'filename': 'DSC_0749.JPG'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0749.JPG' -> ' 2024.08.12-11.25.34.185.Samos.JPG'
+2026-01-10 14:04:01 - PROGRESS: {'current': 186, 'total': 286, 'filename': 'DSC_0761.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0761.NEF' -> ' 2024.08.12-11.31.36.186.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 187, 'total': 286, 'filename': 'DSC_0763.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0763.NEF' -> ' 2024.08.12-11.31.53.187.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 188, 'total': 286, 'filename': 'DSC_0764.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0764.NEF' -> ' 2024.08.12-11.31.59.188.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 189, 'total': 286, 'filename': 'DSC_0772.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0772.NEF' -> ' 2024.08.12-11.40.34.189.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 190, 'total': 286, 'filename': 'DSC_0775.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0775.NEF' -> ' 2024.08.12-12.28.14.190.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 191, 'total': 286, 'filename': 'DSC_0776.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0776.NEF' -> ' 2024.08.12-12.28.57.191.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 192, 'total': 286, 'filename': 'DSC_0777.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0777.NEF' -> ' 2024.08.12-12.29.00.192.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 193, 'total': 286, 'filename': 'DSC_0778.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0778.NEF' -> ' 2024.08.12-15.07.23.193.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 194, 'total': 286, 'filename': 'DSC_0779.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0779.NEF' -> ' 2024.08.12-15.07.33.194.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 195, 'total': 286, 'filename': 'DSC_0780.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0780.NEF' -> ' 2024.08.12-15.07.38.195.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 196, 'total': 286, 'filename': 'DSC_0781.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0781.NEF' -> ' 2024.08.12-15.08.13.196.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 197, 'total': 286, 'filename': 'DSC_0782.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0782.NEF' -> ' 2024.08.12-15.08.31.197.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 198, 'total': 286, 'filename': 'DSC_0783.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0783.NEF' -> ' 2024.08.12-15.08.50.198.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 199, 'total': 286, 'filename': 'DSC_0784.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0784.NEF' -> ' 2024.08.12-15.09.20.199.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 200, 'total': 286, 'filename': 'DSC_0786.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0786.NEF' -> ' 2024.08.12-15.10.22.200.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 201, 'total': 286, 'filename': 'DSC_0787.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0787.NEF' -> ' 2024.08.12-16.04.58.201.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 202, 'total': 286, 'filename': 'DSC_0788.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0788.NEF' -> ' 2024.08.12-19.25.33.202.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 203, 'total': 286, 'filename': 'DSC_0789.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0789.NEF' -> ' 2024.08.12-19.25.38.203.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 204, 'total': 286, 'filename': 'DSC_0790.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0790.NEF' -> ' 2024.08.12-19.25.41.204.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 205, 'total': 286, 'filename': 'DSC_0791.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0791.NEF' -> ' 2024.08.12-19.25.58.205.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 206, 'total': 286, 'filename': 'DSC_0792.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0792.NEF' -> ' 2024.08.12-19.49.41.206.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 207, 'total': 286, 'filename': 'DSC_0793.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0793.NEF' -> ' 2024.08.12-19.49.43.207.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 208, 'total': 286, 'filename': 'DSC_0794.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0794.NEF' -> ' 2024.08.12-19.49.46.208.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 209, 'total': 286, 'filename': 'DSC_0795.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0795.NEF' -> ' 2024.08.12-19.49.48.209.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 210, 'total': 286, 'filename': 'DSC_0796.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0796.NEF' -> ' 2024.08.12-19.49.53.210.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 211, 'total': 286, 'filename': 'DSC_0797.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0797.NEF' -> ' 2024.08.12-19.49.55.211.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 212, 'total': 286, 'filename': 'DSC_0798.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0798.NEF' -> ' 2024.08.12-19.50.08.212.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 213, 'total': 286, 'filename': 'DSC_0799.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0799.NEF' -> ' 2024.08.12-19.50.12.213.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 214, 'total': 286, 'filename': 'DSC_0800.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0800.NEF' -> ' 2024.08.12-19.50.39.214.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 215, 'total': 286, 'filename': 'DSC_0801.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0801.NEF' -> ' 2024.08.12-19.50.43.215.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 216, 'total': 286, 'filename': 'DSC_0802.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0802.NEF' -> ' 2024.08.12-19.50.46.216.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 217, 'total': 286, 'filename': 'DSC_0803.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0803.NEF' -> ' 2024.08.12-19.50.51.217.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 218, 'total': 286, 'filename': 'DSC_0804.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0804.NEF' -> ' 2024.08.12-19.50.54.218.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 219, 'total': 286, 'filename': 'DSC_0805.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0805.NEF' -> ' 2024.08.13-20.14.39.219.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 220, 'total': 286, 'filename': 'DSC_0806.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0806.NEF' -> ' 2024.08.13-20.14.44.220.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 221, 'total': 286, 'filename': 'DSC_0807.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0807.NEF' -> ' 2024.08.13-20.15.09.221.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 222, 'total': 286, 'filename': 'DSC_0808.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0808.NEF' -> ' 2024.08.13-20.15.17.222.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 223, 'total': 286, 'filename': 'DSC_0809.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0809.NEF' -> ' 2024.08.13-20.15.54.223.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 224, 'total': 286, 'filename': 'DSC_0810.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0810.NEF' -> ' 2024.08.13-20.16.03.224.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 225, 'total': 286, 'filename': 'DSC_0811.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0811.NEF' -> ' 2024.08.13-20.16.07.225.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 226, 'total': 286, 'filename': 'DSC_0812.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0812.NEF' -> ' 2024.08.13-20.16.10.226.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 227, 'total': 286, 'filename': 'DSC_0813.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0813.NEF' -> ' 2024.08.13-20.16.12.227.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 228, 'total': 286, 'filename': 'DSC_0814.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0814.NEF' -> ' 2024.08.13-20.16.51.228.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 229, 'total': 286, 'filename': 'DSC_0815.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0815.NEF' -> ' 2024.08.13-20.17.05.229.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 230, 'total': 286, 'filename': 'DSC_0816.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0816.NEF' -> ' 2024.08.14-11.35.43.230.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 231, 'total': 286, 'filename': 'DSC_0817.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0817.NEF' -> ' 2024.08.14-11.36.04.231.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 232, 'total': 286, 'filename': 'DSC_0818.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0818.NEF' -> ' 2024.08.14-12.22.49.232.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 233, 'total': 286, 'filename': 'DSC_0819.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0819.NEF' -> ' 2024.08.14-12.23.50.233.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 234, 'total': 286, 'filename': 'DSC_0820.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0820.NEF' -> ' 2024.08.14-12.30.39.234.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 235, 'total': 286, 'filename': 'DSC_0821.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0821.NEF' -> ' 2024.08.14-12.30.44.235.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 236, 'total': 286, 'filename': 'DSC_0822.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0822.NEF' -> ' 2024.08.14-16.21.11.236.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 237, 'total': 286, 'filename': 'DSC_0823.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0823.NEF' -> ' 2024.08.14-16.21.14.237.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 238, 'total': 286, 'filename': 'DSC_0824.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0824.NEF' -> ' 2024.08.14-16.21.29.238.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 239, 'total': 286, 'filename': 'DSC_0825.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0825.NEF' -> ' 2024.08.14-16.21.33.239.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 240, 'total': 286, 'filename': 'DSC_0826.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0826.NEF' -> ' 2024.08.14-17.54.57.240.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 241, 'total': 286, 'filename': 'DSC_0827.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0827.NEF' -> ' 2024.08.14-17.54.59.241.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 242, 'total': 286, 'filename': 'DSC_0828.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0828.NEF' -> ' 2024.08.14-17.57.00.242.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 243, 'total': 286, 'filename': 'DSC_0829.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0829.NEF' -> ' 2024.08.14-17.57.02.243.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 244, 'total': 286, 'filename': 'DSC_0830.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0830.NEF' -> ' 2024.08.14-17.57.10.244.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 245, 'total': 286, 'filename': 'DSC_0831.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0831.NEF' -> ' 2024.08.14-17.57.13.245.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 246, 'total': 286, 'filename': 'DSC_0832.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0832.NEF' -> ' 2024.08.14-17.57.53.246.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 247, 'total': 286, 'filename': 'DSC_0833.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0833.NEF' -> ' 2024.08.14-17.57.56.247.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 248, 'total': 286, 'filename': 'DSC_0834.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0834.NEF' -> ' 2024.08.14-17.58.58.248.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 249, 'total': 286, 'filename': 'DSC_0835.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0835.NEF' -> ' 2024.08.14-17.59.01.249.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 250, 'total': 286, 'filename': 'DSC_0836.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0836.NEF' -> ' 2024.08.14-17.59.04.250.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 251, 'total': 286, 'filename': 'DSC_0837.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0837.NEF' -> ' 2024.08.16-11.14.49.251.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 252, 'total': 286, 'filename': 'DSC_0838.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0838.NEF' -> ' 2024.08.16-11.15.03.252.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 253, 'total': 286, 'filename': 'DSC_0839.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0839.NEF' -> ' 2024.08.16-11.15.26.253.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 254, 'total': 286, 'filename': 'DSC_0840.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0840.NEF' -> ' 2024.08.16-11.15.39.254.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 255, 'total': 286, 'filename': 'DSC_0841.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0841.NEF' -> ' 2024.08.16-11.15.45.255.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 256, 'total': 286, 'filename': 'DSC_0842.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0842.NEF' -> ' 2024.08.16-11.15.50.256.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 257, 'total': 286, 'filename': 'DSC_0843.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0843.NEF' -> ' 2024.08.16-11.30.15.257.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 258, 'total': 286, 'filename': 'DSC_0845.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0845.NEF' -> ' 2024.08.16-11.32.06.258.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 259, 'total': 286, 'filename': 'DSC_0846.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0846.NEF' -> ' 2024.08.16-11.32.21.259.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 260, 'total': 286, 'filename': 'DSC_0847.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0847.NEF' -> ' 2024.08.16-11.33.00.260.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 261, 'total': 286, 'filename': 'DSC_0848.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0848.NEF' -> ' 2024.08.16-11.33.09.261.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 262, 'total': 286, 'filename': 'DSC_0849.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0849.NEF' -> ' 2024.08.16-11.33.16.262.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 263, 'total': 286, 'filename': 'DSC_0851.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0851.NEF' -> ' 2024.08.16-11.37.25.263.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 264, 'total': 286, 'filename': 'DSC_0852.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0852.NEF' -> ' 2024.08.16-11.37.26.264.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 265, 'total': 286, 'filename': 'DSC_0853.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0853.NEF' -> ' 2024.08.16-11.37.35.265.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 266, 'total': 286, 'filename': 'DSC_0854.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0854.NEF' -> ' 2024.08.16-11.37.37.266.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 267, 'total': 286, 'filename': 'DSC_0857.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0857.NEF' -> ' 2024.08.16-11.59.40.267.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 268, 'total': 286, 'filename': 'DSC_0859.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0859.NEF' -> ' 2024.08.16-11.59.45.268.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 269, 'total': 286, 'filename': 'DSC_0864.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0864.NEF' -> ' 2024.08.16-12.00.37.269.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 270, 'total': 286, 'filename': 'DSC_0865.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0865.NEF' -> ' 2024.08.16-12.00.39.270.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 271, 'total': 286, 'filename': 'DSC_0869.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0869.NEF' -> ' 2024.08.16-12.01.50.271.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 272, 'total': 286, 'filename': 'DSC_0871.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0871.NEF' -> ' 2024.08.16-12.01.54.272.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 273, 'total': 286, 'filename': 'DSC_0872.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0872.NEF' -> ' 2024.08.16-12.01.55.273.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 274, 'total': 286, 'filename': 'DSC_0873.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0873.NEF' -> ' 2024.08.16-12.02.08.274.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 275, 'total': 286, 'filename': 'DSC_0874.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0874.NEF' -> ' 2024.08.16-12.02.08.275.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 276, 'total': 286, 'filename': 'DSC_0879.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0879.NEF' -> ' 2024.08.16-12.02.39.276.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 277, 'total': 286, 'filename': 'DSC_0880.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0880.NEF' -> ' 2024.08.16-12.05.58.277.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 278, 'total': 286, 'filename': 'DSC_0881.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0881.NEF' -> ' 2024.08.16-12.05.59.278.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 279, 'total': 286, 'filename': 'DSC_0882.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0882.NEF' -> ' 2024.08.16-12.06.22.279.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 280, 'total': 286, 'filename': 'DSC_0883.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0883.NEF' -> ' 2024.08.16-12.06.25.280.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 281, 'total': 286, 'filename': 'DSC_0884.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0884.NEF' -> ' 2024.08.16-12.06.43.281.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 282, 'total': 286, 'filename': 'DSC_0885.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0885.NEF' -> ' 2024.08.16-12.06.48.282.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 283, 'total': 286, 'filename': 'DSC_0886.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0886.NEF' -> ' 2024.08.16-12.06.52.283.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 284, 'total': 286, 'filename': 'DSC_0887.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0887.NEF' -> ' 2024.08.16-12.07.22.284.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 285, 'total': 286, 'filename': 'DSC_0888.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0888.NEF' -> ' 2024.08.16-12.07.24.285.Samos.NEF'
+2026-01-10 14:04:01 - PROGRESS: {'current': 286, 'total': 286, 'filename': 'DSC_0889.NEF'}
+2026-01-10 14:04:01 - RENAMED: 'DSC_0889.NEF' -> ' 2024.08.16-12.07.27.286.Samos.NEF'
+2026-01-10 14:04:01 - SESSION_COMPLETE: {'processed_count': 286, 'error_count': 0, 'skipped_count': 0, 'total_files': 286}
+2026-01-10 14:04:01 - === File Processing Session Completed ===
+2026-01-10 14:04:01 - Total operations: 582
+2026-01-10 14:04:17 - === File Processing Session Completed ===
+2026-01-10 14:04:17 - Total operations: 582
+2026-01-10 14:04:17 - === File Processing Session Completed ===
+2026-01-10 14:04:17 - Total operations: 582

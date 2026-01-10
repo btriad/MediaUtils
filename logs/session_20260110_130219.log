@@ -1,0 +1,63 @@
+2026-01-10 13:02:19 - === File Processing Session Started ===
+2026-01-10 13:02:59 - SESSION_START: {'total_files': 27, 'folder_path': 'D:\\Photos\\New Photos'}
+2026-01-10 13:02:59 - PROGRESS: {'current': 1, 'total': 27, 'filename': 'IMG_20240312_121427.jpg'}
+2026-01-10 13:02:59 - RENAMED: 'IMG_20240312_121427.jpg' -> ' 2024.04.22-22.33.47.001..jpg'
+2026-01-10 13:02:59 - PROGRESS: {'current': 2, 'total': 27, 'filename': 'IMG_20240427_120939.jpg'}
+2026-01-10 13:02:59 - RENAMED: 'IMG_20240427_120939.jpg' -> ' 2024.04.27-12.09.39.002.AgiaParaskevi.jpg'
+2026-01-10 13:02:59 - PROGRESS: {'current': 3, 'total': 27, 'filename': 'IMG_20240427_121008.jpg'}
+2026-01-10 13:02:59 - RENAMED: 'IMG_20240427_121008.jpg' -> ' 2024.04.27-12.10.08.003.AgiaParaskevi.jpg'
+2026-01-10 13:02:59 - PROGRESS: {'current': 4, 'total': 27, 'filename': 'IMG_20240427_121011.jpg'}
+2026-01-10 13:02:59 - RENAMED: 'IMG_20240427_121011.jpg' -> ' 2024.04.27-12.10.11.004.AgiaParaskevi.jpg'
+2026-01-10 13:02:59 - PROGRESS: {'current': 5, 'total': 27, 'filename': 'IMG_20240519_201245.jpg'}
+2026-01-10 13:02:59 - RENAMED: 'IMG_20240519_201245.jpg' -> ' 2024.05.19-20.12.45.005.PalaioFaliro.jpg'
+2026-01-10 13:02:59 - PROGRESS: {'current': 6, 'total': 27, 'filename': 'IMG_20240629_115057.jpg'}
+2026-01-10 13:02:59 - RENAMED: 'IMG_20240629_115057.jpg' -> ' 2024.06.29-11.50.57.006.Karpenisi.jpg'
+2026-01-10 13:02:59 - PROGRESS: {'current': 7, 'total': 27, 'filename': 'IMG_20240629_192701.jpg'}
+2026-01-10 13:02:59 - RENAMED: 'IMG_20240629_192701.jpg' -> ' 2024.06.29-19.27.01.007.Potamia.jpg'
+2026-01-10 13:02:59 - PROGRESS: {'current': 8, 'total': 27, 'filename': 'IMG_20240629_192719.jpg'}
+2026-01-10 13:02:59 - RENAMED: 'IMG_20240629_192719.jpg' -> ' 2024.06.29-19.27.19.008.Potamia.jpg'
+2026-01-10 13:02:59 - PROGRESS: {'current': 9, 'total': 27, 'filename': 'IMG_20240629_192731.jpg'}
+2026-01-10 13:02:59 - RENAMED: 'IMG_20240629_192731.jpg' -> ' 2024.06.29-19.27.31.009.Potamia.jpg'
+2026-01-10 13:02:59 - PROGRESS: {'current': 10, 'total': 27, 'filename': 'IMG_20240630_115748.jpg'}
+2026-01-10 13:02:59 - RENAMED: 'IMG_20240630_115748.jpg' -> ' 2024.06.30-11.57.48.010.Karpenisi.jpg'
+2026-01-10 13:02:59 - PROGRESS: {'current': 11, 'total': 27, 'filename': 'IMG_20240630_115813.jpg'}
+2026-01-10 13:02:59 - RENAMED: 'IMG_20240630_115813.jpg' -> ' 2024.06.30-11.58.14.011.Karpenisi.jpg'
+2026-01-10 13:02:59 - PROGRESS: {'current': 12, 'total': 27, 'filename': 'IMG_20240630_115819.jpg'}
+2026-01-10 13:02:59 - RENAMED: 'IMG_20240630_115819.jpg' -> ' 2024.06.30-11.58.19.012.Karpenisi.jpg'
+2026-01-10 13:02:59 - PROGRESS: {'current': 13, 'total': 27, 'filename': 'IMG_20240630_115835.jpg'}
+2026-01-10 13:02:59 - RENAMED: 'IMG_20240630_115835.jpg' -> ' 2024.06.30-11.58.35.013.Karpenisi.jpg'
+2026-01-10 13:02:59 - PROGRESS: {'current': 14, 'total': 27, 'filename': 'IMG_20240630_115854.jpg'}
+2026-01-10 13:02:59 - RENAMED: 'IMG_20240630_115854.jpg' -> ' 2024.06.30-11.58.55.014.Karpenisi.jpg'
+2026-01-10 13:02:59 - PROGRESS: {'current': 15, 'total': 27, 'filename': 'IMG_20240630_120216.jpg'}
+2026-01-10 13:02:59 - RENAMED: 'IMG_20240630_120216.jpg' -> ' 2024.06.30-12.02.16.015.Karpenisi.jpg'
+2026-01-10 13:02:59 - PROGRESS: {'current': 16, 'total': 27, 'filename': 'IMG_20240630_125115.jpg'}
+2026-01-10 13:02:59 - RENAMED: 'IMG_20240630_125115.jpg' -> ' 2024.06.30-12.51.15.016.ΔημοτικήΕνότηταΦραγκίστας.jpg'
+2026-01-10 13:02:59 - PROGRESS: {'current': 17, 'total': 27, 'filename': 'IMG_20240630_125121.jpg'}
+2026-01-10 13:02:59 - RENAMED: 'IMG_20240630_125121.jpg' -> ' 2024.06.30-12.51.21.017.ΔημοτικήΕνότηταΦραγκίστας.jpg'
+2026-01-10 13:02:59 - PROGRESS: {'current': 18, 'total': 27, 'filename': 'IMG_20240630_125133.jpg'}
+2026-01-10 13:02:59 - RENAMED: 'IMG_20240630_125133.jpg' -> ' 2024.06.30-12.51.33.018.ΔημοτικήΕνότηταΦραγκίστας.jpg'
+2026-01-10 13:02:59 - PROGRESS: {'current': 19, 'total': 27, 'filename': 'IMG_20240630_125138.jpg'}
+2026-01-10 13:02:59 - RENAMED: 'IMG_20240630_125138.jpg' -> ' 2024.06.30-12.51.38.019.ΔημοτικήΕνότηταΦραγκίστας.jpg'
+2026-01-10 13:02:59 - PROGRESS: {'current': 20, 'total': 27, 'filename': 'IMG_20240630_125143.jpg'}
+2026-01-10 13:02:59 - RENAMED: 'IMG_20240630_125143.jpg' -> ' 2024.06.30-12.51.43.020.ΔημοτικήΕνότηταΦραγκίστας.jpg'
+2026-01-10 13:02:59 - PROGRESS: {'current': 21, 'total': 27, 'filename': 'IMG_20240630_131726.jpg'}
+2026-01-10 13:02:59 - RENAMED: 'IMG_20240630_131726.jpg' -> ' 2024.06.30-13.17.27.021.Karpenisi.jpg'
+2026-01-10 13:02:59 - PROGRESS: {'current': 22, 'total': 27, 'filename': 'IMG_20240630_131737.jpg'}
+2026-01-10 13:02:59 - RENAMED: 'IMG_20240630_131737.jpg' -> ' 2024.06.30-13.17.38.022.ΔημοτικήΕνότηταΦραγκίστας.jpg'
+2026-01-10 13:02:59 - PROGRESS: {'current': 23, 'total': 27, 'filename': 'VID_20240630_120533.mp4'}
+2026-01-10 13:02:59 - RENAMED: 'VID_20240630_120533.mp4' -> 'VID_20240630_120533_c1.mp4'
+2026-01-10 13:02:59 - PROGRESS: {'current': 24, 'total': 27, 'filename': 'VID_20240630_125608.mp4'}
+2026-01-10 13:02:59 - RENAMED: 'VID_20240630_125608.mp4' -> 'VID_20240630_125608_c1.mp4'
+2026-01-10 13:02:59 - PROGRESS: {'current': 25, 'total': 27, 'filename': 'VID_20240630_125726.mp4'}
+2026-01-10 13:02:59 - RENAMED: 'VID_20240630_125726.mp4' -> 'VID_20240630_125726_c1.mp4'
+2026-01-10 13:02:59 - PROGRESS: {'current': 26, 'total': 27, 'filename': 'VID_20240630_131752.mp4'}
+2026-01-10 13:02:59 - RENAMED: 'VID_20240630_131752.mp4' -> 'VID_20240630_131752_c1.mp4'
+2026-01-10 13:02:59 - PROGRESS: {'current': 27, 'total': 27, 'filename': 'VID_20240630_131807.mp4'}
+2026-01-10 13:02:59 - RENAMED: 'VID_20240630_131807.mp4' -> 'VID_20240630_131807_c1.mp4'
+2026-01-10 13:02:59 - SESSION_COMPLETE: {'processed_count': 27, 'error_count': 0, 'skipped_count': 0, 'total_files': 27}
+2026-01-10 13:02:59 - === File Processing Session Completed ===
+2026-01-10 13:02:59 - Total operations: 56
+2026-01-10 13:03:46 - === File Processing Session Completed ===
+2026-01-10 13:03:46 - Total operations: 56
+2026-01-10 13:03:46 - === File Processing Session Completed ===
+2026-01-10 13:03:46 - Total operations: 56

@@ -1,0 +1,119 @@
+{
+  "session_start": "2026-01-10T13:50:10.550524",
+  "session_end": "2026-01-10T13:56:41.081692",
+  "total_operations": 16,
+  "operations": [
+    {
+      "timestamp": "2026-01-10T13:50:39.052458",
+      "operation": "session_start",
+      "total_files": 1,
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T13:50:39.062644",
+      "operation": "progress",
+      "current": 1,
+      "total": 1,
+      "filename": " 2024.08.09-19.34.35.001..NEF"
+    },
+    {
+      "timestamp": "2026-01-10T13:50:39.064502",
+      "operation": "rename",
+      "old_name": " 2024.08.09-19.34.35.001..NEF",
+      "new_name": " 2024.08.09-19.34.35.001._c1.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T13:50:39.064502",
+      "operation": "session_complete",
+      "processed_count": 1,
+      "error_count": 0,
+      "skipped_count": 0,
+      "total_files": 1
+    },
+    {
+      "timestamp": "2026-01-10T13:51:25.866159",
+      "operation": "session_start",
+      "total_files": 1,
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T13:51:25.876026",
+      "operation": "progress",
+      "current": 1,
+      "total": 1,
+      "filename": " 2024.08.09-19.34.35.001._c1.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T13:51:25.877025",
+      "operation": "rename",
+      "old_name": " 2024.08.09-19.34.35.001._c1.NEF",
+      "new_name": " 2024.08.09-19.34.35.001..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T13:51:25.878029",
+      "operation": "session_complete",
+      "processed_count": 1,
+      "error_count": 0,
+      "skipped_count": 0,
+      "total_files": 1
+    },
+    {
+      "timestamp": "2026-01-10T13:51:44.545745",
+      "operation": "session_start",
+      "total_files": 1,
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T13:51:44.563742",
+      "operation": "progress",
+      "current": 1,
+      "total": 1,
+      "filename": " 2024.08.09-19.34.35.001..NEF"
+    },
+    {
+      "timestamp": "2026-01-10T13:51:44.565747",
+      "operation": "rename",
+      "old_name": " 2024.08.09-19.34.35.001..NEF",
+      "new_name": " 2024.08.09-19.34.35.001._c1.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T13:51:44.565747",
+      "operation": "session_complete",
+      "processed_count": 1,
+      "error_count": 0,
+      "skipped_count": 0,
+      "total_files": 1
+    },
+    {
+      "timestamp": "2026-01-10T13:54:01.454269",
+      "operation": "session_start",
+      "total_files": 1,
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T13:54:01.466770",
+      "operation": "progress",
+      "current": 1,
+      "total": 1,
+      "filename": " 2024.08.09-19.34.35.001._c1.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T13:54:01.468754",
+      "operation": "rename",
+      "old_name": " 2024.08.09-19.34.35.001._c1.NEF",
+      "new_name": " 2024.08.09-19.34.35.001..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T13:54:01.469771",
+      "operation": "session_complete",
+      "processed_count": 1,
+      "error_count": 0,
+      "skipped_count": 0,
+      "total_files": 1
+    }
+  ]
+}

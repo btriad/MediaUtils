@@ -1,0 +1,35 @@
+{
+  "session_start": "2026-01-10T13:13:43.958614",
+  "session_end": "2026-01-10T13:14:02.427204",
+  "total_operations": 4,
+  "operations": [
+    {
+      "timestamp": "2026-01-10T13:14:00.271397",
+      "operation": "session_start",
+      "total_files": 1,
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2026-01-10T13:14:00.271397",
+      "operation": "progress",
+      "current": 1,
+      "total": 1,
+      "filename": "DSC_0349.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T13:14:00.271397",
+      "operation": "rename",
+      "old_name": "DSC_0349.NEF",
+      "new_name": " 2024.03.17-11.18.45.001..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Istanbul2"
+    },
+    {
+      "timestamp": "2026-01-10T13:14:00.271397",
+      "operation": "session_complete",
+      "processed_count": 1,
+      "error_count": 0,
+      "skipped_count": 0,
+      "total_files": 1
+    }
+  ]
+}

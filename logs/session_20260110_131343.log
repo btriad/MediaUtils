@@ -1,0 +1,11 @@
+2026-01-10 13:13:43 - === File Processing Session Started ===
+2026-01-10 13:14:00 - SESSION_START: {'total_files': 1, 'folder_path': 'D:\\Photos\\Nef\\Istanbul2'}
+2026-01-10 13:14:00 - PROGRESS: {'current': 1, 'total': 1, 'filename': 'DSC_0349.NEF'}
+2026-01-10 13:14:00 - RENAMED: 'DSC_0349.NEF' -> ' 2024.03.17-11.18.45.001..NEF'
+2026-01-10 13:14:00 - SESSION_COMPLETE: {'processed_count': 1, 'error_count': 0, 'skipped_count': 0, 'total_files': 1}
+2026-01-10 13:14:00 - === File Processing Session Completed ===
+2026-01-10 13:14:00 - Total operations: 4
+2026-01-10 13:14:02 - === File Processing Session Completed ===
+2026-01-10 13:14:02 - Total operations: 4
+2026-01-10 13:14:02 - === File Processing Session Completed ===
+2026-01-10 13:14:02 - Total operations: 4

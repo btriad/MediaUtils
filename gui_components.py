@@ -363,6 +363,9 @@ class MediaRenamerGUI:
         try:
             format_pattern = self.format_var.get()
             
+            # Update filename generator with current format
+            self.filename_generator.set_format(format_pattern)
+            
             # Perform detailed validation
             validation_result = self.filename_generator.validate_format_detailed(format_pattern)
             self.last_validation_result = validation_result

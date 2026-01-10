@@ -1,0 +1,29 @@
+2026-01-10 13:50:10 - === File Processing Session Started ===
+2026-01-10 13:50:39 - SESSION_START: {'total_files': 1, 'folder_path': 'D:\\Photos\\Nef\\Samos'}
+2026-01-10 13:50:39 - PROGRESS: {'current': 1, 'total': 1, 'filename': ' 2024.08.09-19.34.35.001..NEF'}
+2026-01-10 13:50:39 - RENAMED: ' 2024.08.09-19.34.35.001..NEF' -> ' 2024.08.09-19.34.35.001._c1.NEF'
+2026-01-10 13:50:39 - SESSION_COMPLETE: {'processed_count': 1, 'error_count': 0, 'skipped_count': 0, 'total_files': 1}
+2026-01-10 13:50:39 - === File Processing Session Completed ===
+2026-01-10 13:50:39 - Total operations: 4
+2026-01-10 13:51:25 - SESSION_START: {'total_files': 1, 'folder_path': 'D:\\Photos\\Nef\\Samos'}
+2026-01-10 13:51:25 - PROGRESS: {'current': 1, 'total': 1, 'filename': ' 2024.08.09-19.34.35.001._c1.NEF'}
+2026-01-10 13:51:25 - RENAMED: ' 2024.08.09-19.34.35.001._c1.NEF' -> ' 2024.08.09-19.34.35.001..NEF'
+2026-01-10 13:51:25 - SESSION_COMPLETE: {'processed_count': 1, 'error_count': 0, 'skipped_count': 0, 'total_files': 1}
+2026-01-10 13:51:25 - === File Processing Session Completed ===
+2026-01-10 13:51:25 - Total operations: 8
+2026-01-10 13:51:44 - SESSION_START: {'total_files': 1, 'folder_path': 'D:\\Photos\\Nef\\Samos'}
+2026-01-10 13:51:44 - PROGRESS: {'current': 1, 'total': 1, 'filename': ' 2024.08.09-19.34.35.001..NEF'}
+2026-01-10 13:51:44 - RENAMED: ' 2024.08.09-19.34.35.001..NEF' -> ' 2024.08.09-19.34.35.001._c1.NEF'
+2026-01-10 13:51:44 - SESSION_COMPLETE: {'processed_count': 1, 'error_count': 0, 'skipped_count': 0, 'total_files': 1}
+2026-01-10 13:51:44 - === File Processing Session Completed ===
+2026-01-10 13:51:44 - Total operations: 12
+2026-01-10 13:54:01 - SESSION_START: {'total_files': 1, 'folder_path': 'D:\\Photos\\Nef\\Samos'}
+2026-01-10 13:54:01 - PROGRESS: {'current': 1, 'total': 1, 'filename': ' 2024.08.09-19.34.35.001._c1.NEF'}
+2026-01-10 13:54:01 - RENAMED: ' 2024.08.09-19.34.35.001._c1.NEF' -> ' 2024.08.09-19.34.35.001..NEF'
+2026-01-10 13:54:01 - SESSION_COMPLETE: {'processed_count': 1, 'error_count': 0, 'skipped_count': 0, 'total_files': 1}
+2026-01-10 13:54:01 - === File Processing Session Completed ===
+2026-01-10 13:54:01 - Total operations: 16
+2026-01-10 13:56:41 - === File Processing Session Completed ===
+2026-01-10 13:56:41 - Total operations: 16
+2026-01-10 13:56:41 - === File Processing Session Completed ===
+2026-01-10 13:56:41 - Total operations: 16

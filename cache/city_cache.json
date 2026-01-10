@@ -565,5 +565,54 @@
     "city": "Beyoğlu",
     "timestamp": "2025-12-07T20:07:14.178119",
     "source": "nominatim_api"
+  },
+  "37.933397,23.693178": {
+    "latitude": 37.93339722222222,
+    "longitude": 23.693177777777777,
+    "city": "Palaio Faliro",
+    "timestamp": "2026-01-10T13:02:30.041850",
+    "source": "nominatim_api"
+  },
+  "38.901639,21.786922": {
+    "latitude": 38.90163888888889,
+    "longitude": 21.786922222222223,
+    "city": "Karpenisi",
+    "timestamp": "2026-01-10T13:02:30.996255",
+    "source": "nominatim_api"
+  },
+  "38.842703,21.731258": {
+    "latitude": 38.84270277777778,
+    "longitude": 21.731258333333333,
+    "city": "Potamia",
+    "timestamp": "2026-01-10T13:02:32.110269",
+    "source": "nominatim_api"
+  },
+  "38.873508,21.666008": {
+    "latitude": 38.873508333333334,
+    "longitude": 21.66600833333333,
+    "city": "Karpenisi",
+    "timestamp": "2026-01-10T13:02:32.998882",
+    "source": "nominatim_api"
+  },
+  "38.873369,21.667564": {
+    "latitude": 38.87336944444444,
+    "longitude": 21.66756388888889,
+    "city": "Karpenisi",
+    "timestamp": "2026-01-10T13:02:33.989257",
+    "source": "nominatim_api"
+  },
+  "38.956547,21.607381": {
+    "latitude": 38.95654722222223,
+    "longitude": 21.607380555555558,
+    "city": "Δημοτική Ενότητα Φραγκίστας",
+    "timestamp": "2026-01-10T13:02:35.082883",
+    "source": "nominatim_api"
+  },
+  "38.874044,21.650717": {
+    "latitude": 38.87404444444444,
+    "longitude": 21.650716666666664,
+    "city": "Karpenisi",
+    "timestamp": "2026-01-10T13:02:36.031748",
+    "source": "nominatim_api"
   }
 }

@@ -1,0 +1,315 @@
+2026-01-10 13:02:19 - media_renamer_app - INFO - Application logging initialized - Log file: C:\Kiro\MediaUtils\logs\app_20260110_130219.log
+2026-01-10 13:02:19 - media_renamer_app - INFO - Session logging initialized - Session file: C:\Kiro\MediaUtils\logs\session_20260110_130219.log
+2026-01-10 13:02:19 - media_renamer_app - INFO - Application starting - Media File Renamer v2.0.0
+2026-01-10 13:02:19 - media_renamer_app - INFO - City cache loaded with 81 entries
+2026-01-10 13:02:19 - media_renamer_app - INFO - All application systems initialized successfully
+2026-01-10 13:02:19 - media_renamer_app - INFO - GUI application starting up with integrated systems
+2026-01-10 13:02:19 - media_renamer_app - INFO - MediaProcessor initialized with caching and error recovery
+2026-01-10 13:02:19 - media_renamer_app - INFO - FileOperations initialized with 25 supported extensions
+2026-01-10 13:02:19 - media_renamer_app - INFO - GUI window initialized with geometry: 1x1+153+180
+2026-01-10 13:02:20 - media_renamer_app - INFO - GUI application initialization completed
+2026-01-10 13:02:20 - media_renamer_app - INFO - Starting GUI application...
+2026-01-10 13:02:29 - media_renamer_app - INFO - User initiated file discovery for folder: D:\Photos\New Photos
+2026-01-10 13:02:29 - media_renamer_app - INFO - Starting file discovery and metadata extraction
+2026-01-10 13:02:29 - media_renamer_app - INFO - Starting file discovery in folder: D:\Photos\New Photos
+2026-01-10 13:02:29 - media_renamer_app - INFO - Found 27 total files in D:\Photos\New Photos
+2026-01-10 13:02:29 - media_renamer_app - INFO - Discovered 27 supported media files
+2026-01-10 13:02:29 - media_renamer_app - INFO - Discovered 27 files in D:\Photos\New Photos
+2026-01-10 13:02:29 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\IMG_20240312_121427.jpg: 2024-04-22 22:33:47
+2026-01-10 13:02:29 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\IMG_20240427_120939.jpg: 2024-04-27 12:09:39
+2026-01-10 13:02:29 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\IMG_20240427_120939.jpg: 38.0149, 23.8206
+2026-01-10 13:02:29 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\IMG_20240427_120939.jpg: Agia Paraskevi
+2026-01-10 13:02:29 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\IMG_20240427_121008.jpg: 2024-04-27 12:10:08
+2026-01-10 13:02:29 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\IMG_20240427_121008.jpg: 38.0149, 23.8207
+2026-01-10 13:02:29 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\IMG_20240427_121008.jpg: Agia Paraskevi
+2026-01-10 13:02:29 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\IMG_20240427_121011.jpg: 2024-04-27 12:10:11
+2026-01-10 13:02:29 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\IMG_20240427_121011.jpg: 38.0149, 23.8207
+2026-01-10 13:02:29 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\IMG_20240427_121011.jpg: Agia Paraskevi
+2026-01-10 13:02:29 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\IMG_20240519_201245.jpg: 2024-05-19 20:12:45
+2026-01-10 13:02:29 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\IMG_20240519_201245.jpg: 37.9334, 23.6932
+2026-01-10 13:02:29 - media_renamer_app - INFO - Starting GPS API lookup for coordinates 37.93339722222222, 23.693177777777777
+2026-01-10 13:02:30 - media_renamer_app - INFO - Successfully retrieved city for 37.93339722222222, 23.693177777777777: Palaio Faliro
+2026-01-10 13:02:30 - media_renamer_app - INFO - GPS API lookup successful for 37.93339722222222, 23.693177777777777
+2026-01-10 13:02:30 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\IMG_20240519_201245.jpg: Palaio Faliro
+2026-01-10 13:02:30 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\IMG_20240629_115057.jpg: 2024-06-29 11:50:57
+2026-01-10 13:02:30 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\IMG_20240629_115057.jpg: 38.9016, 21.7869
+2026-01-10 13:02:30 - media_renamer_app - INFO - Starting GPS API lookup for coordinates 38.90163888888889, 21.786922222222223
+2026-01-10 13:02:30 - media_renamer_app - INFO - Successfully retrieved city for 38.90163888888889, 21.786922222222223: Karpenisi
+2026-01-10 13:02:30 - media_renamer_app - INFO - GPS API lookup successful for 38.90163888888889, 21.786922222222223
+2026-01-10 13:02:30 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\IMG_20240629_115057.jpg: Karpenisi
+2026-01-10 13:02:30 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\IMG_20240629_192701.jpg: 2024-06-29 19:27:01
+2026-01-10 13:02:30 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\IMG_20240629_192701.jpg: 38.8427, 21.7313
+2026-01-10 13:02:30 - media_renamer_app - INFO - Starting GPS API lookup for coordinates 38.84270277777778, 21.731258333333333
+2026-01-10 13:02:32 - media_renamer_app - INFO - Successfully retrieved city for 38.84270277777778, 21.731258333333333: Potamia
+2026-01-10 13:02:32 - media_renamer_app - INFO - GPS API lookup successful for 38.84270277777778, 21.731258333333333
+2026-01-10 13:02:32 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\IMG_20240629_192701.jpg: Potamia
+2026-01-10 13:02:32 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\IMG_20240629_192719.jpg: 2024-06-29 19:27:19
+2026-01-10 13:02:32 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\IMG_20240629_192719.jpg: 38.8427, 21.7313
+2026-01-10 13:02:32 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\IMG_20240629_192719.jpg: Potamia
+2026-01-10 13:02:32 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\IMG_20240629_192731.jpg: 2024-06-29 19:27:31
+2026-01-10 13:02:32 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\IMG_20240629_192731.jpg: 38.8427, 21.7313
+2026-01-10 13:02:32 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\IMG_20240629_192731.jpg: Potamia
+2026-01-10 13:02:32 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\IMG_20240630_115748.jpg: 2024-06-30 11:57:48
+2026-01-10 13:02:32 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\IMG_20240630_115748.jpg: 38.8735, 21.6660
+2026-01-10 13:02:32 - media_renamer_app - INFO - Starting GPS API lookup for coordinates 38.873508333333334, 21.66600833333333
+2026-01-10 13:02:32 - media_renamer_app - INFO - Successfully retrieved city for 38.873508333333334, 21.66600833333333: Karpenisi
+2026-01-10 13:02:32 - media_renamer_app - INFO - GPS API lookup successful for 38.873508333333334, 21.66600833333333
+2026-01-10 13:02:32 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\IMG_20240630_115748.jpg: Karpenisi
+2026-01-10 13:02:33 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\IMG_20240630_115813.jpg: 2024-06-30 11:58:14
+2026-01-10 13:02:33 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\IMG_20240630_115813.jpg: 38.8736, 21.6654
+2026-01-10 13:02:33 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\IMG_20240630_115813.jpg: Karpenisi
+2026-01-10 13:02:33 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\IMG_20240630_115819.jpg: 2024-06-30 11:58:19
+2026-01-10 13:02:33 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\IMG_20240630_115819.jpg: 38.8736, 21.6657
+2026-01-10 13:02:33 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\IMG_20240630_115819.jpg: Karpenisi
+2026-01-10 13:02:33 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\IMG_20240630_115835.jpg: 2024-06-30 11:58:35
+2026-01-10 13:02:33 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\IMG_20240630_115835.jpg: 38.8736, 21.6657
+2026-01-10 13:02:33 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\IMG_20240630_115835.jpg: Karpenisi
+2026-01-10 13:02:33 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\IMG_20240630_115854.jpg: 2024-06-30 11:58:55
+2026-01-10 13:02:33 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\IMG_20240630_115854.jpg: 38.8736, 21.6657
+2026-01-10 13:02:33 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\IMG_20240630_115854.jpg: Karpenisi
+2026-01-10 13:02:33 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\IMG_20240630_120216.jpg: 2024-06-30 12:02:16
+2026-01-10 13:02:33 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\IMG_20240630_120216.jpg: 38.8734, 21.6676
+2026-01-10 13:02:33 - media_renamer_app - INFO - Starting GPS API lookup for coordinates 38.87336944444444, 21.66756388888889
+2026-01-10 13:02:33 - media_renamer_app - INFO - Successfully retrieved city for 38.87336944444444, 21.66756388888889: Karpenisi
+2026-01-10 13:02:33 - media_renamer_app - INFO - GPS API lookup successful for 38.87336944444444, 21.66756388888889
+2026-01-10 13:02:33 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\IMG_20240630_120216.jpg: Karpenisi
+2026-01-10 13:02:34 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\IMG_20240630_125115.jpg: 2024-06-30 12:51:15
+2026-01-10 13:02:34 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\IMG_20240630_125115.jpg: 38.9565, 21.6074
+2026-01-10 13:02:34 - media_renamer_app - INFO - Starting GPS API lookup for coordinates 38.95654722222223, 21.607380555555558
+2026-01-10 13:02:35 - media_renamer_app - INFO - Successfully retrieved city for 38.95654722222223, 21.607380555555558: Δημοτική Ενότητα Φραγκίστας
+2026-01-10 13:02:35 - media_renamer_app - INFO - GPS API lookup successful for 38.95654722222223, 21.607380555555558
+2026-01-10 13:02:35 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\IMG_20240630_125115.jpg: Δημοτική Ενότητα Φραγκίστας
+2026-01-10 13:02:35 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\IMG_20240630_125121.jpg: 2024-06-30 12:51:21
+2026-01-10 13:02:35 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\IMG_20240630_125121.jpg: 38.9565, 21.6074
+2026-01-10 13:02:35 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\IMG_20240630_125121.jpg: Δημοτική Ενότητα Φραγκίστας
+2026-01-10 13:02:35 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\IMG_20240630_125133.jpg: 2024-06-30 12:51:33
+2026-01-10 13:02:35 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\IMG_20240630_125133.jpg: 38.9565, 21.6074
+2026-01-10 13:02:35 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\IMG_20240630_125133.jpg: Δημοτική Ενότητα Φραγκίστας
+2026-01-10 13:02:35 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\IMG_20240630_125138.jpg: 2024-06-30 12:51:38
+2026-01-10 13:02:35 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\IMG_20240630_125138.jpg: 38.9565, 21.6074
+2026-01-10 13:02:35 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\IMG_20240630_125138.jpg: Δημοτική Ενότητα Φραγκίστας
+2026-01-10 13:02:35 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\IMG_20240630_125143.jpg: 2024-06-30 12:51:43
+2026-01-10 13:02:35 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\IMG_20240630_125143.jpg: 38.9565, 21.6074
+2026-01-10 13:02:35 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\IMG_20240630_125143.jpg: Δημοτική Ενότητα Φραγκίστας
+2026-01-10 13:02:35 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\IMG_20240630_131726.jpg: 2024-06-30 13:17:27
+2026-01-10 13:02:35 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\IMG_20240630_131726.jpg: 38.8740, 21.6507
+2026-01-10 13:02:35 - media_renamer_app - INFO - Starting GPS API lookup for coordinates 38.87404444444444, 21.650716666666664
+2026-01-10 13:02:36 - media_renamer_app - INFO - Successfully retrieved city for 38.87404444444444, 21.650716666666664: Karpenisi
+2026-01-10 13:02:36 - media_renamer_app - INFO - GPS API lookup successful for 38.87404444444444, 21.650716666666664
+2026-01-10 13:02:36 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\IMG_20240630_131726.jpg: Karpenisi
+2026-01-10 13:02:36 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\IMG_20240630_131737.jpg: 2024-06-30 13:17:38
+2026-01-10 13:02:36 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\IMG_20240630_131737.jpg: 38.9565, 21.6074
+2026-01-10 13:02:36 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\IMG_20240630_131737.jpg: Δημοτική Ενότητα Φραγκίστας
+2026-01-10 13:02:36 - media_renamer_app - WARNING - ffprobe not found in system PATH
+2026-01-10 13:02:36 - media_renamer_app - WARNING - ffprobe unavailable, skipping video metadata for: D:\Photos\New Photos\VID_20240630_120533.mp4
+2026-01-10 13:02:36 - media_renamer_app - WARNING - ffprobe unavailable, skipping video metadata for: D:\Photos\New Photos\VID_20240630_125608.mp4
+2026-01-10 13:02:36 - media_renamer_app - WARNING - ffprobe unavailable, skipping video metadata for: D:\Photos\New Photos\VID_20240630_125726.mp4
+2026-01-10 13:02:36 - media_renamer_app - WARNING - ffprobe unavailable, skipping video metadata for: D:\Photos\New Photos\VID_20240630_131752.mp4
+2026-01-10 13:02:36 - media_renamer_app - WARNING - ffprobe unavailable, skipping video metadata for: D:\Photos\New Photos\VID_20240630_131807.mp4
+2026-01-10 13:02:36 - media_renamer_app - INFO - File discovery completed: 27 files processed, 5 without metadata
+2026-01-10 13:02:55 - media_renamer_app - INFO - User selected all files (27 files)
+2026-01-10 13:02:56 - media_renamer_app - INFO - User initiated file processing
+2026-01-10 13:02:56 - media_renamer_app - INFO - Processing 27 selected files
+2026-01-10 13:02:59 - media_renamer_app - INFO - User confirmed file processing, starting operation
+2026-01-10 13:02:59 - media_renamer_app - INFO - Starting file processing: 27 files selected
+2026-01-10 13:02:59 - media_renamer_app - INFO - Starting file processing: 27 files selected for renaming
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: session_start - {'total_files': 27, 'folder_path': 'D:\\Photos\\New Photos'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: progress - {'current': 1, 'total': 27, 'filename': 'IMG_20240312_121427.jpg'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - File renamed successfully: IMG_20240312_121427.jpg ->  2024.04.22-22.33.47.001..jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully renamed: IMG_20240312_121427.jpg ->  2024.04.22-22.33.47.001..jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'IMG_20240312_121427.jpg', 'new_name': ' 2024.04.22-22.33.47.001..jpg', 'folder_path': 'D:\\Photos\\New Photos'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: progress - {'current': 2, 'total': 27, 'filename': 'IMG_20240427_120939.jpg'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - File renamed successfully: IMG_20240427_120939.jpg ->  2024.04.27-12.09.39.002.AgiaParaskevi.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully renamed: IMG_20240427_120939.jpg ->  2024.04.27-12.09.39.002.AgiaParaskevi.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'IMG_20240427_120939.jpg', 'new_name': ' 2024.04.27-12.09.39.002.AgiaParaskevi.jpg', 'folder_path': 'D:\\Photos\\New Photos'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: progress - {'current': 3, 'total': 27, 'filename': 'IMG_20240427_121008.jpg'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - File renamed successfully: IMG_20240427_121008.jpg ->  2024.04.27-12.10.08.003.AgiaParaskevi.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully renamed: IMG_20240427_121008.jpg ->  2024.04.27-12.10.08.003.AgiaParaskevi.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'IMG_20240427_121008.jpg', 'new_name': ' 2024.04.27-12.10.08.003.AgiaParaskevi.jpg', 'folder_path': 'D:\\Photos\\New Photos'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: progress - {'current': 4, 'total': 27, 'filename': 'IMG_20240427_121011.jpg'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - File renamed successfully: IMG_20240427_121011.jpg ->  2024.04.27-12.10.11.004.AgiaParaskevi.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully renamed: IMG_20240427_121011.jpg ->  2024.04.27-12.10.11.004.AgiaParaskevi.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'IMG_20240427_121011.jpg', 'new_name': ' 2024.04.27-12.10.11.004.AgiaParaskevi.jpg', 'folder_path': 'D:\\Photos\\New Photos'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: progress - {'current': 5, 'total': 27, 'filename': 'IMG_20240519_201245.jpg'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - File renamed successfully: IMG_20240519_201245.jpg ->  2024.05.19-20.12.45.005.PalaioFaliro.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully renamed: IMG_20240519_201245.jpg ->  2024.05.19-20.12.45.005.PalaioFaliro.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'IMG_20240519_201245.jpg', 'new_name': ' 2024.05.19-20.12.45.005.PalaioFaliro.jpg', 'folder_path': 'D:\\Photos\\New Photos'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: progress - {'current': 6, 'total': 27, 'filename': 'IMG_20240629_115057.jpg'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - File renamed successfully: IMG_20240629_115057.jpg ->  2024.06.29-11.50.57.006.Karpenisi.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully renamed: IMG_20240629_115057.jpg ->  2024.06.29-11.50.57.006.Karpenisi.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'IMG_20240629_115057.jpg', 'new_name': ' 2024.06.29-11.50.57.006.Karpenisi.jpg', 'folder_path': 'D:\\Photos\\New Photos'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: progress - {'current': 7, 'total': 27, 'filename': 'IMG_20240629_192701.jpg'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - File renamed successfully: IMG_20240629_192701.jpg ->  2024.06.29-19.27.01.007.Potamia.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully renamed: IMG_20240629_192701.jpg ->  2024.06.29-19.27.01.007.Potamia.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'IMG_20240629_192701.jpg', 'new_name': ' 2024.06.29-19.27.01.007.Potamia.jpg', 'folder_path': 'D:\\Photos\\New Photos'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: progress - {'current': 8, 'total': 27, 'filename': 'IMG_20240629_192719.jpg'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - File renamed successfully: IMG_20240629_192719.jpg ->  2024.06.29-19.27.19.008.Potamia.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully renamed: IMG_20240629_192719.jpg ->  2024.06.29-19.27.19.008.Potamia.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'IMG_20240629_192719.jpg', 'new_name': ' 2024.06.29-19.27.19.008.Potamia.jpg', 'folder_path': 'D:\\Photos\\New Photos'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: progress - {'current': 9, 'total': 27, 'filename': 'IMG_20240629_192731.jpg'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - File renamed successfully: IMG_20240629_192731.jpg ->  2024.06.29-19.27.31.009.Potamia.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully renamed: IMG_20240629_192731.jpg ->  2024.06.29-19.27.31.009.Potamia.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'IMG_20240629_192731.jpg', 'new_name': ' 2024.06.29-19.27.31.009.Potamia.jpg', 'folder_path': 'D:\\Photos\\New Photos'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: progress - {'current': 10, 'total': 27, 'filename': 'IMG_20240630_115748.jpg'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - File renamed successfully: IMG_20240630_115748.jpg ->  2024.06.30-11.57.48.010.Karpenisi.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully renamed: IMG_20240630_115748.jpg ->  2024.06.30-11.57.48.010.Karpenisi.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'IMG_20240630_115748.jpg', 'new_name': ' 2024.06.30-11.57.48.010.Karpenisi.jpg', 'folder_path': 'D:\\Photos\\New Photos'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: progress - {'current': 11, 'total': 27, 'filename': 'IMG_20240630_115813.jpg'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - File renamed successfully: IMG_20240630_115813.jpg ->  2024.06.30-11.58.14.011.Karpenisi.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully renamed: IMG_20240630_115813.jpg ->  2024.06.30-11.58.14.011.Karpenisi.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'IMG_20240630_115813.jpg', 'new_name': ' 2024.06.30-11.58.14.011.Karpenisi.jpg', 'folder_path': 'D:\\Photos\\New Photos'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: progress - {'current': 12, 'total': 27, 'filename': 'IMG_20240630_115819.jpg'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - File renamed successfully: IMG_20240630_115819.jpg ->  2024.06.30-11.58.19.012.Karpenisi.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully renamed: IMG_20240630_115819.jpg ->  2024.06.30-11.58.19.012.Karpenisi.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'IMG_20240630_115819.jpg', 'new_name': ' 2024.06.30-11.58.19.012.Karpenisi.jpg', 'folder_path': 'D:\\Photos\\New Photos'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: progress - {'current': 13, 'total': 27, 'filename': 'IMG_20240630_115835.jpg'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - File renamed successfully: IMG_20240630_115835.jpg ->  2024.06.30-11.58.35.013.Karpenisi.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully renamed: IMG_20240630_115835.jpg ->  2024.06.30-11.58.35.013.Karpenisi.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'IMG_20240630_115835.jpg', 'new_name': ' 2024.06.30-11.58.35.013.Karpenisi.jpg', 'folder_path': 'D:\\Photos\\New Photos'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: progress - {'current': 14, 'total': 27, 'filename': 'IMG_20240630_115854.jpg'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - File renamed successfully: IMG_20240630_115854.jpg ->  2024.06.30-11.58.55.014.Karpenisi.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully renamed: IMG_20240630_115854.jpg ->  2024.06.30-11.58.55.014.Karpenisi.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'IMG_20240630_115854.jpg', 'new_name': ' 2024.06.30-11.58.55.014.Karpenisi.jpg', 'folder_path': 'D:\\Photos\\New Photos'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: progress - {'current': 15, 'total': 27, 'filename': 'IMG_20240630_120216.jpg'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - File renamed successfully: IMG_20240630_120216.jpg ->  2024.06.30-12.02.16.015.Karpenisi.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully renamed: IMG_20240630_120216.jpg ->  2024.06.30-12.02.16.015.Karpenisi.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'IMG_20240630_120216.jpg', 'new_name': ' 2024.06.30-12.02.16.015.Karpenisi.jpg', 'folder_path': 'D:\\Photos\\New Photos'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: progress - {'current': 16, 'total': 27, 'filename': 'IMG_20240630_125115.jpg'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - File renamed successfully: IMG_20240630_125115.jpg ->  2024.06.30-12.51.15.016.ΔημοτικήΕνότηταΦραγκίστας.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully renamed: IMG_20240630_125115.jpg ->  2024.06.30-12.51.15.016.ΔημοτικήΕνότηταΦραγκίστας.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'IMG_20240630_125115.jpg', 'new_name': ' 2024.06.30-12.51.15.016.ΔημοτικήΕνότηταΦραγκίστας.jpg', 'folder_path': 'D:\\Photos\\New Photos'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: progress - {'current': 17, 'total': 27, 'filename': 'IMG_20240630_125121.jpg'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - File renamed successfully: IMG_20240630_125121.jpg ->  2024.06.30-12.51.21.017.ΔημοτικήΕνότηταΦραγκίστας.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully renamed: IMG_20240630_125121.jpg ->  2024.06.30-12.51.21.017.ΔημοτικήΕνότηταΦραγκίστας.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'IMG_20240630_125121.jpg', 'new_name': ' 2024.06.30-12.51.21.017.ΔημοτικήΕνότηταΦραγκίστας.jpg', 'folder_path': 'D:\\Photos\\New Photos'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: progress - {'current': 18, 'total': 27, 'filename': 'IMG_20240630_125133.jpg'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - File renamed successfully: IMG_20240630_125133.jpg ->  2024.06.30-12.51.33.018.ΔημοτικήΕνότηταΦραγκίστας.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully renamed: IMG_20240630_125133.jpg ->  2024.06.30-12.51.33.018.ΔημοτικήΕνότηταΦραγκίστας.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'IMG_20240630_125133.jpg', 'new_name': ' 2024.06.30-12.51.33.018.ΔημοτικήΕνότηταΦραγκίστας.jpg', 'folder_path': 'D:\\Photos\\New Photos'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: progress - {'current': 19, 'total': 27, 'filename': 'IMG_20240630_125138.jpg'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - File renamed successfully: IMG_20240630_125138.jpg ->  2024.06.30-12.51.38.019.ΔημοτικήΕνότηταΦραγκίστας.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully renamed: IMG_20240630_125138.jpg ->  2024.06.30-12.51.38.019.ΔημοτικήΕνότηταΦραγκίστας.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'IMG_20240630_125138.jpg', 'new_name': ' 2024.06.30-12.51.38.019.ΔημοτικήΕνότηταΦραγκίστας.jpg', 'folder_path': 'D:\\Photos\\New Photos'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: progress - {'current': 20, 'total': 27, 'filename': 'IMG_20240630_125143.jpg'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - File renamed successfully: IMG_20240630_125143.jpg ->  2024.06.30-12.51.43.020.ΔημοτικήΕνότηταΦραγκίστας.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully renamed: IMG_20240630_125143.jpg ->  2024.06.30-12.51.43.020.ΔημοτικήΕνότηταΦραγκίστας.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'IMG_20240630_125143.jpg', 'new_name': ' 2024.06.30-12.51.43.020.ΔημοτικήΕνότηταΦραγκίστας.jpg', 'folder_path': 'D:\\Photos\\New Photos'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: progress - {'current': 21, 'total': 27, 'filename': 'IMG_20240630_131726.jpg'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - File renamed successfully: IMG_20240630_131726.jpg ->  2024.06.30-13.17.27.021.Karpenisi.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully renamed: IMG_20240630_131726.jpg ->  2024.06.30-13.17.27.021.Karpenisi.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'IMG_20240630_131726.jpg', 'new_name': ' 2024.06.30-13.17.27.021.Karpenisi.jpg', 'folder_path': 'D:\\Photos\\New Photos'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: progress - {'current': 22, 'total': 27, 'filename': 'IMG_20240630_131737.jpg'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - File renamed successfully: IMG_20240630_131737.jpg ->  2024.06.30-13.17.38.022.ΔημοτικήΕνότηταΦραγκίστας.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully renamed: IMG_20240630_131737.jpg ->  2024.06.30-13.17.38.022.ΔημοτικήΕνότηταΦραγκίστας.jpg
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'IMG_20240630_131737.jpg', 'new_name': ' 2024.06.30-13.17.38.022.ΔημοτικήΕνότηταΦραγκίστας.jpg', 'folder_path': 'D:\\Photos\\New Photos'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: progress - {'current': 23, 'total': 27, 'filename': 'VID_20240630_120533.mp4'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - File renamed successfully: VID_20240630_120533.mp4 -> VID_20240630_120533_c1.mp4
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully renamed: VID_20240630_120533.mp4 -> VID_20240630_120533_c1.mp4
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'VID_20240630_120533.mp4', 'new_name': 'VID_20240630_120533_c1.mp4', 'folder_path': 'D:\\Photos\\New Photos'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: progress - {'current': 24, 'total': 27, 'filename': 'VID_20240630_125608.mp4'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - File renamed successfully: VID_20240630_125608.mp4 -> VID_20240630_125608_c1.mp4
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully renamed: VID_20240630_125608.mp4 -> VID_20240630_125608_c1.mp4
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'VID_20240630_125608.mp4', 'new_name': 'VID_20240630_125608_c1.mp4', 'folder_path': 'D:\\Photos\\New Photos'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: progress - {'current': 25, 'total': 27, 'filename': 'VID_20240630_125726.mp4'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - File renamed successfully: VID_20240630_125726.mp4 -> VID_20240630_125726_c1.mp4
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully renamed: VID_20240630_125726.mp4 -> VID_20240630_125726_c1.mp4
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'VID_20240630_125726.mp4', 'new_name': 'VID_20240630_125726_c1.mp4', 'folder_path': 'D:\\Photos\\New Photos'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: progress - {'current': 26, 'total': 27, 'filename': 'VID_20240630_131752.mp4'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - File renamed successfully: VID_20240630_131752.mp4 -> VID_20240630_131752_c1.mp4
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully renamed: VID_20240630_131752.mp4 -> VID_20240630_131752_c1.mp4
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'VID_20240630_131752.mp4', 'new_name': 'VID_20240630_131752_c1.mp4', 'folder_path': 'D:\\Photos\\New Photos'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: progress - {'current': 27, 'total': 27, 'filename': 'VID_20240630_131807.mp4'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - File renamed successfully: VID_20240630_131807.mp4 -> VID_20240630_131807_c1.mp4
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully renamed: VID_20240630_131807.mp4 -> VID_20240630_131807_c1.mp4
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'VID_20240630_131807.mp4', 'new_name': 'VID_20240630_131807_c1.mp4', 'folder_path': 'D:\\Photos\\New Photos'}
+2026-01-10 13:02:59 - media_renamer_app - INFO - Operation completed: session_complete - {'processed_count': 27, 'error_count': 0, 'skipped_count': 0, 'total_files': 27}
+2026-01-10 13:02:59 - media_renamer_app - INFO - File processing completed: 27 processed, 0 errors, 0 skipped
+2026-01-10 13:02:59 - media_renamer_app - INFO - Session log saved: C:\Kiro\MediaUtils\logs\session_20260110_130219.json
+2026-01-10 13:02:59 - media_renamer_app - INFO - File processing completed: 27 processed, 0 skipped, 0 errors
+2026-01-10 13:02:59 - media_renamer_app - INFO - User initiated file discovery for folder: D:\Photos\New Photos
+2026-01-10 13:02:59 - media_renamer_app - INFO - Starting file discovery and metadata extraction
+2026-01-10 13:02:59 - media_renamer_app - INFO - Starting file discovery in folder: D:\Photos\New Photos
+2026-01-10 13:02:59 - media_renamer_app - INFO - Found 27 total files in D:\Photos\New Photos
+2026-01-10 13:02:59 - media_renamer_app - INFO - Discovered 27 supported media files
+2026-01-10 13:02:59 - media_renamer_app - INFO - Discovered 27 files in D:\Photos\New Photos
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\ 2024.04.22-22.33.47.001..jpg: 2024-04-22 22:33:47
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\ 2024.04.27-12.09.39.002.AgiaParaskevi.jpg: 2024-04-27 12:09:39
+2026-01-10 13:02:59 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\ 2024.04.27-12.09.39.002.AgiaParaskevi.jpg: 38.0149, 23.8206
+2026-01-10 13:02:59 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\ 2024.04.27-12.09.39.002.AgiaParaskevi.jpg: Agia Paraskevi
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\ 2024.04.27-12.10.08.003.AgiaParaskevi.jpg: 2024-04-27 12:10:08
+2026-01-10 13:02:59 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\ 2024.04.27-12.10.08.003.AgiaParaskevi.jpg: 38.0149, 23.8207
+2026-01-10 13:02:59 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\ 2024.04.27-12.10.08.003.AgiaParaskevi.jpg: Agia Paraskevi
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\ 2024.04.27-12.10.11.004.AgiaParaskevi.jpg: 2024-04-27 12:10:11
+2026-01-10 13:02:59 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\ 2024.04.27-12.10.11.004.AgiaParaskevi.jpg: 38.0149, 23.8207
+2026-01-10 13:02:59 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\ 2024.04.27-12.10.11.004.AgiaParaskevi.jpg: Agia Paraskevi
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\ 2024.05.19-20.12.45.005.PalaioFaliro.jpg: 2024-05-19 20:12:45
+2026-01-10 13:02:59 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\ 2024.05.19-20.12.45.005.PalaioFaliro.jpg: 37.9334, 23.6932
+2026-01-10 13:02:59 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\ 2024.05.19-20.12.45.005.PalaioFaliro.jpg: Palaio Faliro
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\ 2024.06.29-11.50.57.006.Karpenisi.jpg: 2024-06-29 11:50:57
+2026-01-10 13:02:59 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\ 2024.06.29-11.50.57.006.Karpenisi.jpg: 38.9016, 21.7869
+2026-01-10 13:02:59 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\ 2024.06.29-11.50.57.006.Karpenisi.jpg: Karpenisi
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\ 2024.06.29-19.27.01.007.Potamia.jpg: 2024-06-29 19:27:01
+2026-01-10 13:02:59 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\ 2024.06.29-19.27.01.007.Potamia.jpg: 38.8427, 21.7313
+2026-01-10 13:02:59 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\ 2024.06.29-19.27.01.007.Potamia.jpg: Potamia
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\ 2024.06.29-19.27.19.008.Potamia.jpg: 2024-06-29 19:27:19
+2026-01-10 13:02:59 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\ 2024.06.29-19.27.19.008.Potamia.jpg: 38.8427, 21.7313
+2026-01-10 13:02:59 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\ 2024.06.29-19.27.19.008.Potamia.jpg: Potamia
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\ 2024.06.29-19.27.31.009.Potamia.jpg: 2024-06-29 19:27:31
+2026-01-10 13:02:59 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\ 2024.06.29-19.27.31.009.Potamia.jpg: 38.8427, 21.7313
+2026-01-10 13:02:59 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\ 2024.06.29-19.27.31.009.Potamia.jpg: Potamia
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\ 2024.06.30-11.57.48.010.Karpenisi.jpg: 2024-06-30 11:57:48
+2026-01-10 13:02:59 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\ 2024.06.30-11.57.48.010.Karpenisi.jpg: 38.8735, 21.6660
+2026-01-10 13:02:59 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\ 2024.06.30-11.57.48.010.Karpenisi.jpg: Karpenisi
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\ 2024.06.30-11.58.14.011.Karpenisi.jpg: 2024-06-30 11:58:14
+2026-01-10 13:02:59 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\ 2024.06.30-11.58.14.011.Karpenisi.jpg: 38.8736, 21.6654
+2026-01-10 13:02:59 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\ 2024.06.30-11.58.14.011.Karpenisi.jpg: Karpenisi
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\ 2024.06.30-11.58.19.012.Karpenisi.jpg: 2024-06-30 11:58:19
+2026-01-10 13:02:59 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\ 2024.06.30-11.58.19.012.Karpenisi.jpg: 38.8736, 21.6657
+2026-01-10 13:02:59 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\ 2024.06.30-11.58.19.012.Karpenisi.jpg: Karpenisi
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\ 2024.06.30-11.58.35.013.Karpenisi.jpg: 2024-06-30 11:58:35
+2026-01-10 13:02:59 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\ 2024.06.30-11.58.35.013.Karpenisi.jpg: 38.8736, 21.6657
+2026-01-10 13:02:59 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\ 2024.06.30-11.58.35.013.Karpenisi.jpg: Karpenisi
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\ 2024.06.30-11.58.55.014.Karpenisi.jpg: 2024-06-30 11:58:55
+2026-01-10 13:02:59 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\ 2024.06.30-11.58.55.014.Karpenisi.jpg: 38.8736, 21.6657
+2026-01-10 13:02:59 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\ 2024.06.30-11.58.55.014.Karpenisi.jpg: Karpenisi
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\ 2024.06.30-12.02.16.015.Karpenisi.jpg: 2024-06-30 12:02:16
+2026-01-10 13:02:59 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\ 2024.06.30-12.02.16.015.Karpenisi.jpg: 38.8734, 21.6676
+2026-01-10 13:02:59 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\ 2024.06.30-12.02.16.015.Karpenisi.jpg: Karpenisi
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\ 2024.06.30-12.51.15.016.ΔημοτικήΕνότηταΦραγκίστας.jpg: 2024-06-30 12:51:15
+2026-01-10 13:02:59 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\ 2024.06.30-12.51.15.016.ΔημοτικήΕνότηταΦραγκίστας.jpg: 38.9565, 21.6074
+2026-01-10 13:02:59 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\ 2024.06.30-12.51.15.016.ΔημοτικήΕνότηταΦραγκίστας.jpg: Δημοτική Ενότητα Φραγκίστας
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\ 2024.06.30-12.51.21.017.ΔημοτικήΕνότηταΦραγκίστας.jpg: 2024-06-30 12:51:21
+2026-01-10 13:02:59 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\ 2024.06.30-12.51.21.017.ΔημοτικήΕνότηταΦραγκίστας.jpg: 38.9565, 21.6074
+2026-01-10 13:02:59 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\ 2024.06.30-12.51.21.017.ΔημοτικήΕνότηταΦραγκίστας.jpg: Δημοτική Ενότητα Φραγκίστας
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\ 2024.06.30-12.51.33.018.ΔημοτικήΕνότηταΦραγκίστας.jpg: 2024-06-30 12:51:33
+2026-01-10 13:02:59 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\ 2024.06.30-12.51.33.018.ΔημοτικήΕνότηταΦραγκίστας.jpg: 38.9565, 21.6074
+2026-01-10 13:02:59 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\ 2024.06.30-12.51.33.018.ΔημοτικήΕνότηταΦραγκίστας.jpg: Δημοτική Ενότητα Φραγκίστας
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\ 2024.06.30-12.51.38.019.ΔημοτικήΕνότηταΦραγκίστας.jpg: 2024-06-30 12:51:38
+2026-01-10 13:02:59 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\ 2024.06.30-12.51.38.019.ΔημοτικήΕνότηταΦραγκίστας.jpg: 38.9565, 21.6074
+2026-01-10 13:02:59 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\ 2024.06.30-12.51.38.019.ΔημοτικήΕνότηταΦραγκίστας.jpg: Δημοτική Ενότητα Φραγκίστας
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\ 2024.06.30-12.51.43.020.ΔημοτικήΕνότηταΦραγκίστας.jpg: 2024-06-30 12:51:43
+2026-01-10 13:02:59 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\ 2024.06.30-12.51.43.020.ΔημοτικήΕνότηταΦραγκίστας.jpg: 38.9565, 21.6074
+2026-01-10 13:02:59 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\ 2024.06.30-12.51.43.020.ΔημοτικήΕνότηταΦραγκίστας.jpg: Δημοτική Ενότητα Φραγκίστας
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\ 2024.06.30-13.17.27.021.Karpenisi.jpg: 2024-06-30 13:17:27
+2026-01-10 13:02:59 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\ 2024.06.30-13.17.27.021.Karpenisi.jpg: 38.8740, 21.6507
+2026-01-10 13:02:59 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\ 2024.06.30-13.17.27.021.Karpenisi.jpg: Karpenisi
+2026-01-10 13:02:59 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\New Photos\ 2024.06.30-13.17.38.022.ΔημοτικήΕνότηταΦραγκίστας.jpg: 2024-06-30 13:17:38
+2026-01-10 13:02:59 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\New Photos\ 2024.06.30-13.17.38.022.ΔημοτικήΕνότηταΦραγκίστας.jpg: 38.9565, 21.6074
+2026-01-10 13:02:59 - media_renamer_app - INFO - City resolved for D:\Photos\New Photos\ 2024.06.30-13.17.38.022.ΔημοτικήΕνότηταΦραγκίστας.jpg: Δημοτική Ενότητα Φραγκίστας
+2026-01-10 13:02:59 - media_renamer_app - WARNING - ffprobe unavailable, skipping video metadata for: D:\Photos\New Photos\VID_20240630_120533_c1.mp4
+2026-01-10 13:02:59 - media_renamer_app - WARNING - ffprobe unavailable, skipping video metadata for: D:\Photos\New Photos\VID_20240630_125608_c1.mp4
+2026-01-10 13:02:59 - media_renamer_app - WARNING - ffprobe unavailable, skipping video metadata for: D:\Photos\New Photos\VID_20240630_125726_c1.mp4
+2026-01-10 13:02:59 - media_renamer_app - WARNING - ffprobe unavailable, skipping video metadata for: D:\Photos\New Photos\VID_20240630_131752_c1.mp4
+2026-01-10 13:02:59 - media_renamer_app - WARNING - ffprobe unavailable, skipping video metadata for: D:\Photos\New Photos\VID_20240630_131807_c1.mp4
+2026-01-10 13:02:59 - media_renamer_app - INFO - File discovery completed: 27 files processed, 5 without metadata
+2026-01-10 13:03:46 - media_renamer_app - INFO - User initiated application shutdown
+2026-01-10 13:03:46 - media_renamer_app - INFO - Settings saved on application close
+2026-01-10 13:03:46 - media_renamer_app - INFO - City cache saved successfully: 88 entries
+2026-01-10 13:03:46 - media_renamer_app - INFO - Session log saved: C:\Kiro\MediaUtils\logs\session_20260110_130219.json
+2026-01-10 13:03:46 - media_renamer_app - INFO - Final session log saved: C:\Kiro\MediaUtils\logs\session_20260110_130219.json
+2026-01-10 13:03:46 - media_renamer_app - INFO - Application shutdown completed
+2026-01-10 13:03:46 - media_renamer_app - INFO - Application completed successfully
+2026-01-10 13:03:46 - media_renamer_app - INFO - Application shutting down...
+2026-01-10 13:03:46 - media_renamer_app - INFO - City cache saved successfully
+2026-01-10 13:03:46 - media_renamer_app - INFO - Session log saved: C:\Kiro\MediaUtils\logs\session_20260110_130219.json
+2026-01-10 13:03:46 - media_renamer_app - INFO - Application shutdown complete

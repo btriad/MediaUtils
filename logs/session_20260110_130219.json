@@ -1,0 +1,399 @@
+{
+  "session_start": "2026-01-10T13:02:19.804021",
+  "session_end": "2026-01-10T13:03:46.706961",
+  "total_operations": 56,
+  "operations": [
+    {
+      "timestamp": "2026-01-10T13:02:59.565345",
+      "operation": "session_start",
+      "total_files": 27,
+      "folder_path": "D:\\Photos\\New Photos"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.589591",
+      "operation": "progress",
+      "current": 1,
+      "total": 27,
+      "filename": "IMG_20240312_121427.jpg"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.591597",
+      "operation": "rename",
+      "old_name": "IMG_20240312_121427.jpg",
+      "new_name": " 2024.04.22-22.33.47.001..jpg",
+      "folder_path": "D:\\Photos\\New Photos"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.591597",
+      "operation": "progress",
+      "current": 2,
+      "total": 27,
+      "filename": "IMG_20240427_120939.jpg"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.591597",
+      "operation": "rename",
+      "old_name": "IMG_20240427_120939.jpg",
+      "new_name": " 2024.04.27-12.09.39.002.AgiaParaskevi.jpg",
+      "folder_path": "D:\\Photos\\New Photos"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.591597",
+      "operation": "progress",
+      "current": 3,
+      "total": 27,
+      "filename": "IMG_20240427_121008.jpg"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.596720",
+      "operation": "rename",
+      "old_name": "IMG_20240427_121008.jpg",
+      "new_name": " 2024.04.27-12.10.08.003.AgiaParaskevi.jpg",
+      "folder_path": "D:\\Photos\\New Photos"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.596720",
+      "operation": "progress",
+      "current": 4,
+      "total": 27,
+      "filename": "IMG_20240427_121011.jpg"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.596720",
+      "operation": "rename",
+      "old_name": "IMG_20240427_121011.jpg",
+      "new_name": " 2024.04.27-12.10.11.004.AgiaParaskevi.jpg",
+      "folder_path": "D:\\Photos\\New Photos"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.596720",
+      "operation": "progress",
+      "current": 5,
+      "total": 27,
+      "filename": "IMG_20240519_201245.jpg"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.596720",
+      "operation": "rename",
+      "old_name": "IMG_20240519_201245.jpg",
+      "new_name": " 2024.05.19-20.12.45.005.PalaioFaliro.jpg",
+      "folder_path": "D:\\Photos\\New Photos"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.596720",
+      "operation": "progress",
+      "current": 6,
+      "total": 27,
+      "filename": "IMG_20240629_115057.jpg"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.596720",
+      "operation": "rename",
+      "old_name": "IMG_20240629_115057.jpg",
+      "new_name": " 2024.06.29-11.50.57.006.Karpenisi.jpg",
+      "folder_path": "D:\\Photos\\New Photos"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.596720",
+      "operation": "progress",
+      "current": 7,
+      "total": 27,
+      "filename": "IMG_20240629_192701.jpg"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.596720",
+      "operation": "rename",
+      "old_name": "IMG_20240629_192701.jpg",
+      "new_name": " 2024.06.29-19.27.01.007.Potamia.jpg",
+      "folder_path": "D:\\Photos\\New Photos"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.596720",
+      "operation": "progress",
+      "current": 8,
+      "total": 27,
+      "filename": "IMG_20240629_192719.jpg"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.596720",
+      "operation": "rename",
+      "old_name": "IMG_20240629_192719.jpg",
+      "new_name": " 2024.06.29-19.27.19.008.Potamia.jpg",
+      "folder_path": "D:\\Photos\\New Photos"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.596720",
+      "operation": "progress",
+      "current": 9,
+      "total": 27,
+      "filename": "IMG_20240629_192731.jpg"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.596720",
+      "operation": "rename",
+      "old_name": "IMG_20240629_192731.jpg",
+      "new_name": " 2024.06.29-19.27.31.009.Potamia.jpg",
+      "folder_path": "D:\\Photos\\New Photos"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.612671",
+      "operation": "progress",
+      "current": 10,
+      "total": 27,
+      "filename": "IMG_20240630_115748.jpg"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.612671",
+      "operation": "rename",
+      "old_name": "IMG_20240630_115748.jpg",
+      "new_name": " 2024.06.30-11.57.48.010.Karpenisi.jpg",
+      "folder_path": "D:\\Photos\\New Photos"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.612671",
+      "operation": "progress",
+      "current": 11,
+      "total": 27,
+      "filename": "IMG_20240630_115813.jpg"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.612671",
+      "operation": "rename",
+      "old_name": "IMG_20240630_115813.jpg",
+      "new_name": " 2024.06.30-11.58.14.011.Karpenisi.jpg",
+      "folder_path": "D:\\Photos\\New Photos"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.612671",
+      "operation": "progress",
+      "current": 12,
+      "total": 27,
+      "filename": "IMG_20240630_115819.jpg"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.612671",
+      "operation": "rename",
+      "old_name": "IMG_20240630_115819.jpg",
+      "new_name": " 2024.06.30-11.58.19.012.Karpenisi.jpg",
+      "folder_path": "D:\\Photos\\New Photos"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.612671",
+      "operation": "progress",
+      "current": 13,
+      "total": 27,
+      "filename": "IMG_20240630_115835.jpg"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.612671",
+      "operation": "rename",
+      "old_name": "IMG_20240630_115835.jpg",
+      "new_name": " 2024.06.30-11.58.35.013.Karpenisi.jpg",
+      "folder_path": "D:\\Photos\\New Photos"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.612671",
+      "operation": "progress",
+      "current": 14,
+      "total": 27,
+      "filename": "IMG_20240630_115854.jpg"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.612671",
+      "operation": "rename",
+      "old_name": "IMG_20240630_115854.jpg",
+      "new_name": " 2024.06.30-11.58.55.014.Karpenisi.jpg",
+      "folder_path": "D:\\Photos\\New Photos"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.612671",
+      "operation": "progress",
+      "current": 15,
+      "total": 27,
+      "filename": "IMG_20240630_120216.jpg"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.612671",
+      "operation": "rename",
+      "old_name": "IMG_20240630_120216.jpg",
+      "new_name": " 2024.06.30-12.02.16.015.Karpenisi.jpg",
+      "folder_path": "D:\\Photos\\New Photos"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.612671",
+      "operation": "progress",
+      "current": 16,
+      "total": 27,
+      "filename": "IMG_20240630_125115.jpg"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.612671",
+      "operation": "rename",
+      "old_name": "IMG_20240630_125115.jpg",
+      "new_name": " 2024.06.30-12.51.15.016.ΔημοτικήΕνότηταΦραγκίστας.jpg",
+      "folder_path": "D:\\Photos\\New Photos"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.612671",
+      "operation": "progress",
+      "current": 17,
+      "total": 27,
+      "filename": "IMG_20240630_125121.jpg"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.638389",
+      "operation": "rename",
+      "old_name": "IMG_20240630_125121.jpg",
+      "new_name": " 2024.06.30-12.51.21.017.ΔημοτικήΕνότηταΦραγκίστας.jpg",
+      "folder_path": "D:\\Photos\\New Photos"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.638389",
+      "operation": "progress",
+      "current": 18,
+      "total": 27,
+      "filename": "IMG_20240630_125133.jpg"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.638389",
+      "operation": "rename",
+      "old_name": "IMG_20240630_125133.jpg",
+      "new_name": " 2024.06.30-12.51.33.018.ΔημοτικήΕνότηταΦραγκίστας.jpg",
+      "folder_path": "D:\\Photos\\New Photos"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.638389",
+      "operation": "progress",
+      "current": 19,
+      "total": 27,
+      "filename": "IMG_20240630_125138.jpg"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.638389",
+      "operation": "rename",
+      "old_name": "IMG_20240630_125138.jpg",
+      "new_name": " 2024.06.30-12.51.38.019.ΔημοτικήΕνότηταΦραγκίστας.jpg",
+      "folder_path": "D:\\Photos\\New Photos"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.644379",
+      "operation": "progress",
+      "current": 20,
+      "total": 27,
+      "filename": "IMG_20240630_125143.jpg"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.644379",
+      "operation": "rename",
+      "old_name": "IMG_20240630_125143.jpg",
+      "new_name": " 2024.06.30-12.51.43.020.ΔημοτικήΕνότηταΦραγκίστας.jpg",
+      "folder_path": "D:\\Photos\\New Photos"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.644379",
+      "operation": "progress",
+      "current": 21,
+      "total": 27,
+      "filename": "IMG_20240630_131726.jpg"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.644379",
+      "operation": "rename",
+      "old_name": "IMG_20240630_131726.jpg",
+      "new_name": " 2024.06.30-13.17.27.021.Karpenisi.jpg",
+      "folder_path": "D:\\Photos\\New Photos"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.644379",
+      "operation": "progress",
+      "current": 22,
+      "total": 27,
+      "filename": "IMG_20240630_131737.jpg"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.644379",
+      "operation": "rename",
+      "old_name": "IMG_20240630_131737.jpg",
+      "new_name": " 2024.06.30-13.17.38.022.ΔημοτικήΕνότηταΦραγκίστας.jpg",
+      "folder_path": "D:\\Photos\\New Photos"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.644379",
+      "operation": "progress",
+      "current": 23,
+      "total": 27,
+      "filename": "VID_20240630_120533.mp4"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.644379",
+      "operation": "rename",
+      "old_name": "VID_20240630_120533.mp4",
+      "new_name": "VID_20240630_120533_c1.mp4",
+      "folder_path": "D:\\Photos\\New Photos"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.644379",
+      "operation": "progress",
+      "current": 24,
+      "total": 27,
+      "filename": "VID_20240630_125608.mp4"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.644379",
+      "operation": "rename",
+      "old_name": "VID_20240630_125608.mp4",
+      "new_name": "VID_20240630_125608_c1.mp4",
+      "folder_path": "D:\\Photos\\New Photos"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.644379",
+      "operation": "progress",
+      "current": 25,
+      "total": 27,
+      "filename": "VID_20240630_125726.mp4"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.644379",
+      "operation": "rename",
+      "old_name": "VID_20240630_125726.mp4",
+      "new_name": "VID_20240630_125726_c1.mp4",
+      "folder_path": "D:\\Photos\\New Photos"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.644379",
+      "operation": "progress",
+      "current": 26,
+      "total": 27,
+      "filename": "VID_20240630_131752.mp4"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.644379",
+      "operation": "rename",
+      "old_name": "VID_20240630_131752.mp4",
+      "new_name": "VID_20240630_131752_c1.mp4",
+      "folder_path": "D:\\Photos\\New Photos"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.660097",
+      "operation": "progress",
+      "current": 27,
+      "total": 27,
+      "filename": "VID_20240630_131807.mp4"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.660097",
+      "operation": "rename",
+      "old_name": "VID_20240630_131807.mp4",
+      "new_name": "VID_20240630_131807_c1.mp4",
+      "folder_path": "D:\\Photos\\New Photos"
+    },
+    {
+      "timestamp": "2026-01-10T13:02:59.660097",
+      "operation": "session_complete",
+      "processed_count": 27,
+      "error_count": 0,
+      "skipped_count": 0,
+      "total_files": 27
+    }
+  ]
+}

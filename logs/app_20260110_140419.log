@@ -1,0 +1,82 @@
+2026-01-10 14:04:19 - media_renamer_app - INFO - Application logging initialized - Log file: c:\Kiro\MediaUtils\logs\app_20260110_140419.log
+2026-01-10 14:04:19 - media_renamer_app - INFO - Session logging initialized - Session file: c:\Kiro\MediaUtils\logs\session_20260110_140419.log
+2026-01-10 14:04:19 - media_renamer_app - INFO - Application starting - Media File Renamer v2.0.0
+2026-01-10 14:04:19 - media_renamer_app - INFO - City cache loaded with 88 entries
+2026-01-10 14:04:19 - media_renamer_app - INFO - All application systems initialized successfully
+2026-01-10 14:04:19 - media_renamer_app - INFO - GUI application starting up with integrated systems
+2026-01-10 14:04:19 - media_renamer_app - INFO - MediaProcessor initialized with caching and error recovery
+2026-01-10 14:04:19 - media_renamer_app - INFO - FileOperations initialized with 25 supported extensions
+2026-01-10 14:04:19 - media_renamer_app - INFO - GUI window initialized with geometry: 1x1+153+180
+2026-01-10 14:04:19 - media_renamer_app - INFO - GUI application initialization completed
+2026-01-10 14:04:19 - media_renamer_app - INFO - Starting GUI application...
+2026-01-10 14:04:49 - media_renamer_app - INFO - User initiated file discovery for folder: D:\Photos
+2026-01-10 14:04:49 - media_renamer_app - INFO - Starting file discovery and metadata extraction
+2026-01-10 14:04:49 - media_renamer_app - INFO - Starting file discovery in folder: D:\Photos
+2026-01-10 14:04:49 - media_renamer_app - INFO - Found 5 total files in D:\Photos
+2026-01-10 14:04:49 - media_renamer_app - INFO - Discovered 5 supported media files
+2026-01-10 14:04:49 - media_renamer_app - INFO - Discovered 5 files in D:\Photos
+2026-01-10 14:04:49 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\1995.01.01.00.00..07b.jpg: 1995-01-01 00:00:00
+2026-01-10 14:04:49 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\2001.01.01.01.003.jpg: 2024-07-22 19:50:35
+2026-01-10 14:04:49 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\2001.01.01.01.006.jpg: 2024-07-22 19:59:10
+2026-01-10 14:04:49 - media_renamer_app - ERROR - Permission denied for read operation on file: D:\Photos\IMG_20240312_121427.dng
+2026-01-10 14:04:49 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\IMG_20240312_121427.dng
+2026-01-10 14:04:49 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2026-01-10 14:04:49 - media_renamer_app - ERROR - Permission denied for read operation on file: D:\Photos\IMG_20240312_121427.dng
+2026-01-10 14:04:49 - media_renamer_app - ERROR - Permission denied for read operation on file: D:\Photos\IMG_20240312_121434_1.dng
+2026-01-10 14:04:49 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\IMG_20240312_121434_1.dng
+2026-01-10 14:04:49 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2026-01-10 14:04:49 - media_renamer_app - ERROR - Permission denied for read operation on file: D:\Photos\IMG_20240312_121434_1.dng
+2026-01-10 14:04:49 - media_renamer_app - INFO - File discovery completed: 5 files processed, 2 without metadata
+2026-01-10 14:05:20 - media_renamer_app - INFO - User initiated file discovery for folder: D:\Photos
+2026-01-10 14:05:20 - media_renamer_app - INFO - Starting file discovery and metadata extraction
+2026-01-10 14:05:20 - media_renamer_app - INFO - Starting file discovery in folder: D:\Photos
+2026-01-10 14:05:20 - media_renamer_app - INFO - Found 6 total files in D:\Photos
+2026-01-10 14:05:20 - media_renamer_app - INFO - Discovered 6 supported media files
+2026-01-10 14:05:20 - media_renamer_app - INFO - Discovered 6 files in D:\Photos
+2026-01-10 14:05:20 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\1995.01.01.00.00..07b.jpg: 1995-01-01 00:00:00
+2026-01-10 14:05:20 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\2001.01.01.01.003.jpg: 2024-07-22 19:50:35
+2026-01-10 14:05:20 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\2001.01.01.01.006.jpg: 2024-07-22 19:59:10
+2026-01-10 14:05:20 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\DSC_0431.NEF: 2024-06-30 17:37:53
+2026-01-10 14:05:20 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\DSC_0431.NEF
+2026-01-10 14:05:20 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2026-01-10 14:05:20 - media_renamer_app - ERROR - Permission denied for read operation on file: D:\Photos\IMG_20240312_121427.dng
+2026-01-10 14:05:20 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\IMG_20240312_121427.dng
+2026-01-10 14:05:20 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2026-01-10 14:05:20 - media_renamer_app - ERROR - Permission denied for read operation on file: D:\Photos\IMG_20240312_121427.dng
+2026-01-10 14:05:20 - media_renamer_app - ERROR - Permission denied for read operation on file: D:\Photos\IMG_20240312_121434_1.dng
+2026-01-10 14:05:20 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\IMG_20240312_121434_1.dng
+2026-01-10 14:05:20 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2026-01-10 14:05:20 - media_renamer_app - ERROR - Permission denied for read operation on file: D:\Photos\IMG_20240312_121434_1.dng
+2026-01-10 14:05:20 - media_renamer_app - INFO - File discovery completed: 6 files processed, 2 without metadata
+2026-01-10 14:06:05 - media_renamer_app - INFO - User initiated file discovery for folder: D:\Photos
+2026-01-10 14:06:05 - media_renamer_app - INFO - Starting file discovery and metadata extraction
+2026-01-10 14:06:05 - media_renamer_app - INFO - Starting file discovery in folder: D:\Photos
+2026-01-10 14:06:05 - media_renamer_app - INFO - Found 7 total files in D:\Photos
+2026-01-10 14:06:05 - media_renamer_app - INFO - Discovered 7 supported media files
+2026-01-10 14:06:05 - media_renamer_app - INFO - Discovered 7 files in D:\Photos
+2026-01-10 14:06:05 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\1995.01.01.00.00..07b.jpg: 1995-01-01 00:00:00
+2026-01-10 14:06:05 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\2001.01.01.01.003.jpg: 2024-07-22 19:50:35
+2026-01-10 14:06:05 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\2001.01.01.01.006.jpg: 2024-07-22 19:59:10
+2026-01-10 14:06:05 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\2024.06.30-11.58.35.jpg: 2024-06-30 11:58:35
+2026-01-10 14:06:05 - media_renamer_app - INFO - GPS coordinates found in D:\Photos\2024.06.30-11.58.35.jpg: 38.8736, 21.6657
+2026-01-10 14:06:05 - media_renamer_app - INFO - City resolved for D:\Photos\2024.06.30-11.58.35.jpg: Karpenisi
+2026-01-10 14:06:05 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\DSC_0431.NEF: 2024-06-30 17:37:53
+2026-01-10 14:06:05 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\DSC_0431.NEF
+2026-01-10 14:06:05 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2026-01-10 14:06:05 - media_renamer_app - ERROR - Permission denied for read operation on file: D:\Photos\IMG_20240312_121427.dng
+2026-01-10 14:06:05 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\IMG_20240312_121427.dng
+2026-01-10 14:06:05 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2026-01-10 14:06:05 - media_renamer_app - ERROR - Permission denied for read operation on file: D:\Photos\IMG_20240312_121427.dng
+2026-01-10 14:06:05 - media_renamer_app - ERROR - Permission denied for read operation on file: D:\Photos\IMG_20240312_121434_1.dng
+2026-01-10 14:06:05 - media_renamer_app - WARNING - exifread not available for RAW file GPS extraction: D:\Photos\IMG_20240312_121434_1.dng
+2026-01-10 14:06:05 - media_renamer_app - WARNING - Install exifread for better RAW support: pip install exifread
+2026-01-10 14:06:05 - media_renamer_app - ERROR - Permission denied for read operation on file: D:\Photos\IMG_20240312_121434_1.dng
+2026-01-10 14:06:05 - media_renamer_app - INFO - File discovery completed: 7 files processed, 2 without metadata
+2026-01-10 14:06:13 - media_renamer_app - INFO - User initiated application shutdown
+2026-01-10 14:06:13 - media_renamer_app - INFO - Settings saved on application close
+2026-01-10 14:06:13 - media_renamer_app - INFO - City cache saved successfully: 88 entries
+2026-01-10 14:06:13 - media_renamer_app - INFO - Application shutdown completed
+2026-01-10 14:06:13 - media_renamer_app - INFO - Application completed successfully
+2026-01-10 14:06:13 - media_renamer_app - INFO - Application shutting down...
+2026-01-10 14:06:13 - media_renamer_app - INFO - City cache saved successfully
+2026-01-10 14:06:13 - media_renamer_app - INFO - Application shutdown complete

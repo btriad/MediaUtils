@@ -1,0 +1,4081 @@
+{
+  "session_start": "2026-01-10T14:02:57.011619",
+  "session_end": "2026-01-10T14:04:17.671455",
+  "total_operations": 582,
+  "operations": [
+    {
+      "timestamp": "2026-01-10T14:03:07.466792",
+      "operation": "session_start",
+      "total_files": 1,
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:03:07.478164",
+      "operation": "progress",
+      "current": 1,
+      "total": 1,
+      "filename": " 2024.08.09-19.34.35.001._c1.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:03:07.480333",
+      "operation": "rename",
+      "old_name": " 2024.08.09-19.34.35.001._c1.NEF",
+      "new_name": " 2024.08.09-19.34.35.001..NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:03:07.480333",
+      "operation": "session_complete",
+      "processed_count": 1,
+      "error_count": 0,
+      "skipped_count": 0,
+      "total_files": 1
+    },
+    {
+      "timestamp": "2026-01-10T14:03:27.695436",
+      "operation": "session_start",
+      "total_files": 1,
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:03:27.707455",
+      "operation": "progress",
+      "current": 1,
+      "total": 1,
+      "filename": " 2024.08.09-19.34.35.001..NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:03:27.709463",
+      "operation": "rename",
+      "old_name": " 2024.08.09-19.34.35.001..NEF",
+      "new_name": " 2024.08.09-19.34.35.001..samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:03:27.709463",
+      "operation": "session_complete",
+      "processed_count": 1,
+      "error_count": 0,
+      "skipped_count": 0,
+      "total_files": 1
+    },
+    {
+      "timestamp": "2026-01-10T14:04:00.997729",
+      "operation": "session_start",
+      "total_files": 286,
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.007032",
+      "operation": "progress",
+      "current": 1,
+      "total": 286,
+      "filename": " 2024.08.09-19.34.35.001..samos.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.008016",
+      "operation": "rename",
+      "old_name": " 2024.08.09-19.34.35.001..samos.NEF",
+      "new_name": " 2024.08.09-19.34.35.001.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.011045",
+      "operation": "progress",
+      "current": 2,
+      "total": 286,
+      "filename": "DSC_0457.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.013016",
+      "operation": "rename",
+      "old_name": "DSC_0457.NEF",
+      "new_name": " 2024.08.09-19.35.13.002.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.013016",
+      "operation": "progress",
+      "current": 3,
+      "total": 286,
+      "filename": "DSC_0458.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.015017",
+      "operation": "rename",
+      "old_name": "DSC_0458.NEF",
+      "new_name": " 2024.08.09-19.35.19.003.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.016016",
+      "operation": "progress",
+      "current": 4,
+      "total": 286,
+      "filename": "DSC_0459.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.017031",
+      "operation": "rename",
+      "old_name": "DSC_0459.NEF",
+      "new_name": " 2024.08.09-19.35.31.004.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.018016",
+      "operation": "progress",
+      "current": 5,
+      "total": 286,
+      "filename": "DSC_0460.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.019016",
+      "operation": "rename",
+      "old_name": "DSC_0460.NEF",
+      "new_name": " 2024.08.09-19.36.22.005.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.019016",
+      "operation": "progress",
+      "current": 6,
+      "total": 286,
+      "filename": "DSC_0461.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.021016",
+      "operation": "rename",
+      "old_name": "DSC_0461.NEF",
+      "new_name": " 2024.08.09-19.36.32.006.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.021016",
+      "operation": "progress",
+      "current": 7,
+      "total": 286,
+      "filename": "DSC_0464.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.023016",
+      "operation": "rename",
+      "old_name": "DSC_0464.NEF",
+      "new_name": " 2024.08.09-19.38.38.007.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.023016",
+      "operation": "progress",
+      "current": 8,
+      "total": 286,
+      "filename": "DSC_0465.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.024041",
+      "operation": "rename",
+      "old_name": "DSC_0465.NEF",
+      "new_name": " 2024.08.09-19.38.53.008.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.026018",
+      "operation": "progress",
+      "current": 9,
+      "total": 286,
+      "filename": "DSC_0466.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.028017",
+      "operation": "rename",
+      "old_name": "DSC_0466.NEF",
+      "new_name": " 2024.08.09-19.39.02.009.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.034141",
+      "operation": "progress",
+      "current": 10,
+      "total": 286,
+      "filename": "DSC_0467.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.035156",
+      "operation": "rename",
+      "old_name": "DSC_0467.NEF",
+      "new_name": " 2024.08.09-19.39.20.010.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.036157",
+      "operation": "progress",
+      "current": 11,
+      "total": 286,
+      "filename": "DSC_0468.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.037140",
+      "operation": "rename",
+      "old_name": "DSC_0468.NEF",
+      "new_name": " 2024.08.09-19.39.53.011.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.038141",
+      "operation": "progress",
+      "current": 12,
+      "total": 286,
+      "filename": "DSC_0469.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.039157",
+      "operation": "rename",
+      "old_name": "DSC_0469.NEF",
+      "new_name": " 2024.08.09-19.40.32.012.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.039157",
+      "operation": "progress",
+      "current": 13,
+      "total": 286,
+      "filename": "DSC_0470.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.041140",
+      "operation": "rename",
+      "old_name": "DSC_0470.NEF",
+      "new_name": " 2024.08.09-19.40.49.013.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.041140",
+      "operation": "progress",
+      "current": 14,
+      "total": 286,
+      "filename": "DSC_0471.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.043142",
+      "operation": "rename",
+      "old_name": "DSC_0471.NEF",
+      "new_name": " 2024.08.09-19.40.55.014.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.045142",
+      "operation": "progress",
+      "current": 15,
+      "total": 286,
+      "filename": "DSC_0473.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.046139",
+      "operation": "rename",
+      "old_name": "DSC_0473.NEF",
+      "new_name": " 2024.08.09-19.44.27.015.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.047165",
+      "operation": "progress",
+      "current": 16,
+      "total": 286,
+      "filename": "DSC_0484.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.048192",
+      "operation": "rename",
+      "old_name": "DSC_0484.NEF",
+      "new_name": " 2024.08.09-19.45.14.016.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.049191",
+      "operation": "progress",
+      "current": 17,
+      "total": 286,
+      "filename": "DSC_0486.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.050191",
+      "operation": "rename",
+      "old_name": "DSC_0486.NEF",
+      "new_name": " 2024.08.09-19.45.17.017.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.051191",
+      "operation": "progress",
+      "current": 18,
+      "total": 286,
+      "filename": "DSC_0512.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.052191",
+      "operation": "rename",
+      "old_name": "DSC_0512.NEF",
+      "new_name": " 2024.08.09-19.46.19.018.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.053210",
+      "operation": "progress",
+      "current": 19,
+      "total": 286,
+      "filename": "DSC_0514.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.054192",
+      "operation": "rename",
+      "old_name": "DSC_0514.NEF",
+      "new_name": " 2024.08.09-19.46.20.019.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.054192",
+      "operation": "progress",
+      "current": 20,
+      "total": 286,
+      "filename": "DSC_0523.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.056193",
+      "operation": "rename",
+      "old_name": "DSC_0523.NEF",
+      "new_name": " 2024.08.09-19.48.13.020.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.057174",
+      "operation": "progress",
+      "current": 21,
+      "total": 286,
+      "filename": "DSC_0526.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.058191",
+      "operation": "rename",
+      "old_name": "DSC_0526.NEF",
+      "new_name": " 2024.08.09-19.48.49.021.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.061174",
+      "operation": "progress",
+      "current": 22,
+      "total": 286,
+      "filename": "DSC_0528.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.062726",
+      "operation": "rename",
+      "old_name": "DSC_0528.NEF",
+      "new_name": " 2024.08.09-19.59.09.022.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.063768",
+      "operation": "progress",
+      "current": 23,
+      "total": 286,
+      "filename": "DSC_0529.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.064757",
+      "operation": "rename",
+      "old_name": "DSC_0529.NEF",
+      "new_name": " 2024.08.09-19.59.20.023.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.064757",
+      "operation": "progress",
+      "current": 24,
+      "total": 286,
+      "filename": "DSC_0530.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.066738",
+      "operation": "rename",
+      "old_name": "DSC_0530.NEF",
+      "new_name": " 2024.08.09-19.59.32.024.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.067758",
+      "operation": "progress",
+      "current": 25,
+      "total": 286,
+      "filename": "DSC_0532.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.068739",
+      "operation": "rename",
+      "old_name": "DSC_0532.NEF",
+      "new_name": " 2024.08.09-20.00.20.025.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.069756",
+      "operation": "progress",
+      "current": 26,
+      "total": 286,
+      "filename": "DSC_0540.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.070740",
+      "operation": "rename",
+      "old_name": "DSC_0540.NEF",
+      "new_name": " 2024.08.09-20.03.10.026.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.072191",
+      "operation": "progress",
+      "current": 27,
+      "total": 286,
+      "filename": "DSC_0541.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.073197",
+      "operation": "rename",
+      "old_name": "DSC_0541.NEF",
+      "new_name": " 2024.08.09-20.03.35.027.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.075216",
+      "operation": "progress",
+      "current": 28,
+      "total": 286,
+      "filename": "DSC_0542.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.077233",
+      "operation": "rename",
+      "old_name": "DSC_0542.NEF",
+      "new_name": " 2024.08.09-20.03.37.028.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.078231",
+      "operation": "progress",
+      "current": 29,
+      "total": 286,
+      "filename": "DSC_0543.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.079230",
+      "operation": "rename",
+      "old_name": "DSC_0543.NEF",
+      "new_name": " 2024.08.09-20.03.37.029.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.080231",
+      "operation": "progress",
+      "current": 30,
+      "total": 286,
+      "filename": "DSC_0548.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.082231",
+      "operation": "rename",
+      "old_name": "DSC_0548.NEF",
+      "new_name": " 2024.08.10-10.04.53.030.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.083145",
+      "operation": "progress",
+      "current": 31,
+      "total": 286,
+      "filename": "DSC_0556.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.084193",
+      "operation": "rename",
+      "old_name": "DSC_0556.NEF",
+      "new_name": " 2024.08.10-10.04.55.031.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.084193",
+      "operation": "progress",
+      "current": 32,
+      "total": 286,
+      "filename": "DSC_0569.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.086155",
+      "operation": "rename",
+      "old_name": "DSC_0569.NEF",
+      "new_name": " 2024.08.10-10.10.25.032.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.086155",
+      "operation": "progress",
+      "current": 33,
+      "total": 286,
+      "filename": "DSC_0573.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.087183",
+      "operation": "rename",
+      "old_name": "DSC_0573.NEF",
+      "new_name": " 2024.08.10-10.11.27.033.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.088158",
+      "operation": "progress",
+      "current": 34,
+      "total": 286,
+      "filename": "DSC_0574.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.089550",
+      "operation": "rename",
+      "old_name": "DSC_0574.NEF",
+      "new_name": " 2024.08.10-10.11.50.034.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.090555",
+      "operation": "progress",
+      "current": 35,
+      "total": 286,
+      "filename": "DSC_0575.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.091556",
+      "operation": "rename",
+      "old_name": "DSC_0575.NEF",
+      "new_name": " 2024.08.10-10.11.56.035.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.091556",
+      "operation": "progress",
+      "current": 36,
+      "total": 286,
+      "filename": "DSC_0576.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.092554",
+      "operation": "rename",
+      "old_name": "DSC_0576.NEF",
+      "new_name": " 2024.08.10-10.14.25.036.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.093556",
+      "operation": "progress",
+      "current": 37,
+      "total": 286,
+      "filename": "DSC_0577.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.094555",
+      "operation": "rename",
+      "old_name": "DSC_0577.NEF",
+      "new_name": " 2024.08.10-10.15.32.037.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.095555",
+      "operation": "progress",
+      "current": 38,
+      "total": 286,
+      "filename": "DSC_0578.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.096554",
+      "operation": "rename",
+      "old_name": "DSC_0578.NEF",
+      "new_name": " 2024.08.10-10.15.50.038.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.097554",
+      "operation": "progress",
+      "current": 39,
+      "total": 286,
+      "filename": "DSC_0579.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.098573",
+      "operation": "rename",
+      "old_name": "DSC_0579.NEF",
+      "new_name": " 2024.08.10-10.16.01.039.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.099570",
+      "operation": "progress",
+      "current": 40,
+      "total": 286,
+      "filename": "DSC_0580.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.100554",
+      "operation": "rename",
+      "old_name": "DSC_0580.NEF",
+      "new_name": " 2024.08.10-10.16.31.040.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.101555",
+      "operation": "progress",
+      "current": 41,
+      "total": 286,
+      "filename": "DSC_0581.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.102554",
+      "operation": "rename",
+      "old_name": "DSC_0581.NEF",
+      "new_name": " 2024.08.10-10.16.39.041.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.103554",
+      "operation": "progress",
+      "current": 42,
+      "total": 286,
+      "filename": "DSC_0583.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.104556",
+      "operation": "rename",
+      "old_name": "DSC_0583.NEF",
+      "new_name": " 2024.08.10-10.17.16.042.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.105555",
+      "operation": "progress",
+      "current": 43,
+      "total": 286,
+      "filename": "DSC_0590.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.106556",
+      "operation": "rename",
+      "old_name": "DSC_0590.NEF",
+      "new_name": " 2024.08.10-10.18.21.043.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.106556",
+      "operation": "progress",
+      "current": 44,
+      "total": 286,
+      "filename": "DSC_0591.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.107578",
+      "operation": "rename",
+      "old_name": "DSC_0591.NEF",
+      "new_name": " 2024.08.10-10.18.23.044.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.108554",
+      "operation": "progress",
+      "current": 45,
+      "total": 286,
+      "filename": "DSC_0593.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.109555",
+      "operation": "rename",
+      "old_name": "DSC_0593.NEF",
+      "new_name": " 2024.08.10-10.18.51.045.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.110556",
+      "operation": "progress",
+      "current": 46,
+      "total": 286,
+      "filename": "DSC_0594.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.112556",
+      "operation": "rename",
+      "old_name": "DSC_0594.NEF",
+      "new_name": " 2024.08.10-10.18.55.046.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.113570",
+      "operation": "progress",
+      "current": 47,
+      "total": 286,
+      "filename": "DSC_0595.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.114555",
+      "operation": "rename",
+      "old_name": "DSC_0595.NEF",
+      "new_name": " 2024.08.10-10.18.56.047.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.114555",
+      "operation": "progress",
+      "current": 48,
+      "total": 286,
+      "filename": "DSC_0596.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.116555",
+      "operation": "rename",
+      "old_name": "DSC_0596.NEF",
+      "new_name": " 2024.08.10-10.19.08.048.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.116555",
+      "operation": "progress",
+      "current": 49,
+      "total": 286,
+      "filename": "DSC_0597.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.117575",
+      "operation": "rename",
+      "old_name": "DSC_0597.NEF",
+      "new_name": " 2024.08.10-10.19.10.049.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.120568",
+      "operation": "progress",
+      "current": 50,
+      "total": 286,
+      "filename": "DSC_0598.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.121556",
+      "operation": "rename",
+      "old_name": "DSC_0598.NEF",
+      "new_name": " 2024.08.10-10.19.37.050.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.122555",
+      "operation": "progress",
+      "current": 51,
+      "total": 286,
+      "filename": "DSC_0599.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.123555",
+      "operation": "rename",
+      "old_name": "DSC_0599.NEF",
+      "new_name": " 2024.08.10-10.19.48.051.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.124555",
+      "operation": "progress",
+      "current": 52,
+      "total": 286,
+      "filename": "DSC_0600.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.125554",
+      "operation": "rename",
+      "old_name": "DSC_0600.NEF",
+      "new_name": " 2024.08.10-10.20.23.052.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.126555",
+      "operation": "progress",
+      "current": 53,
+      "total": 286,
+      "filename": "DSC_0601.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.128555",
+      "operation": "rename",
+      "old_name": "DSC_0601.NEF",
+      "new_name": " 2024.08.10-10.20.34.053.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.128555",
+      "operation": "progress",
+      "current": 54,
+      "total": 286,
+      "filename": "DSC_0602.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.130554",
+      "operation": "rename",
+      "old_name": "DSC_0602.NEF",
+      "new_name": " 2024.08.10-10.21.03.054.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.130554",
+      "operation": "progress",
+      "current": 55,
+      "total": 286,
+      "filename": "DSC_0603.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.131554",
+      "operation": "rename",
+      "old_name": "DSC_0603.NEF",
+      "new_name": " 2024.08.10-10.21.40.055.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.132553",
+      "operation": "progress",
+      "current": 56,
+      "total": 286,
+      "filename": "DSC_0604.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.134556",
+      "operation": "rename",
+      "old_name": "DSC_0604.NEF",
+      "new_name": " 2024.08.10-10.21.44.056.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.135554",
+      "operation": "progress",
+      "current": 57,
+      "total": 286,
+      "filename": "DSC_0605.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.136554",
+      "operation": "rename",
+      "old_name": "DSC_0605.NEF",
+      "new_name": " 2024.08.10-10.21.47.057.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.136554",
+      "operation": "progress",
+      "current": 58,
+      "total": 286,
+      "filename": "DSC_0608.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.137575",
+      "operation": "rename",
+      "old_name": "DSC_0608.NEF",
+      "new_name": " 2024.08.10-10.24.03.058.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.138555",
+      "operation": "progress",
+      "current": 59,
+      "total": 286,
+      "filename": "DSC_0609.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.139555",
+      "operation": "rename",
+      "old_name": "DSC_0609.NEF",
+      "new_name": " 2024.08.10-10.24.15.059.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.140554",
+      "operation": "progress",
+      "current": 60,
+      "total": 286,
+      "filename": "DSC_0610.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.141554",
+      "operation": "rename",
+      "old_name": "DSC_0610.NEF",
+      "new_name": " 2024.08.10-10.25.09.060.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.142555",
+      "operation": "progress",
+      "current": 61,
+      "total": 286,
+      "filename": "DSC_0611.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.144555",
+      "operation": "rename",
+      "old_name": "DSC_0611.NEF",
+      "new_name": " 2024.08.10-10.25.42.061.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.145555",
+      "operation": "progress",
+      "current": 62,
+      "total": 286,
+      "filename": "DSC_0612.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.146554",
+      "operation": "rename",
+      "old_name": "DSC_0612.NEF",
+      "new_name": " 2024.08.10-10.26.35.062.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.146554",
+      "operation": "progress",
+      "current": 63,
+      "total": 286,
+      "filename": "DSC_0613.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.147575",
+      "operation": "rename",
+      "old_name": "DSC_0613.NEF",
+      "new_name": " 2024.08.10-10.26.38.063.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.150574",
+      "operation": "progress",
+      "current": 64,
+      "total": 286,
+      "filename": "DSC_0614.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.151558",
+      "operation": "rename",
+      "old_name": "DSC_0614.NEF",
+      "new_name": " 2024.08.10-10.27.40.064.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.152557",
+      "operation": "progress",
+      "current": 65,
+      "total": 286,
+      "filename": "DSC_0615.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.153557",
+      "operation": "rename",
+      "old_name": "DSC_0615.NEF",
+      "new_name": " 2024.08.10-10.28.05.065.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.153557",
+      "operation": "progress",
+      "current": 66,
+      "total": 286,
+      "filename": "DSC_0616.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.154562",
+      "operation": "rename",
+      "old_name": "DSC_0616.NEF",
+      "new_name": " 2024.08.10-10.30.46.066.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.155573",
+      "operation": "progress",
+      "current": 67,
+      "total": 286,
+      "filename": "DSC_0617.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.156572",
+      "operation": "rename",
+      "old_name": "DSC_0617.NEF",
+      "new_name": " 2024.08.10-10.31.58.067.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.157572",
+      "operation": "progress",
+      "current": 68,
+      "total": 286,
+      "filename": "DSC_0618.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.158572",
+      "operation": "rename",
+      "old_name": "DSC_0618.NEF",
+      "new_name": " 2024.08.10-10.32.00.068.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.159575",
+      "operation": "progress",
+      "current": 69,
+      "total": 286,
+      "filename": "DSC_0619.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.160573",
+      "operation": "rename",
+      "old_name": "DSC_0619.NEF",
+      "new_name": " 2024.08.10-10.32.06.069.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.162111",
+      "operation": "progress",
+      "current": 70,
+      "total": 286,
+      "filename": "DSC_0620.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.163121",
+      "operation": "rename",
+      "old_name": "DSC_0620.NEF",
+      "new_name": " 2024.08.10-10.35.37.070.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.166120",
+      "operation": "progress",
+      "current": 71,
+      "total": 286,
+      "filename": "DSC_0621.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.167121",
+      "operation": "rename",
+      "old_name": "DSC_0621.NEF",
+      "new_name": " 2024.08.10-10.35.41.071.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.168121",
+      "operation": "progress",
+      "current": 72,
+      "total": 286,
+      "filename": "DSC_0622.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.169121",
+      "operation": "rename",
+      "old_name": "DSC_0622.NEF",
+      "new_name": " 2024.08.11-12.27.53.072.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.170143",
+      "operation": "progress",
+      "current": 73,
+      "total": 286,
+      "filename": "DSC_0623.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.171141",
+      "operation": "rename",
+      "old_name": "DSC_0623.NEF",
+      "new_name": " 2024.08.11-12.28.16.073.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.173121",
+      "operation": "progress",
+      "current": 74,
+      "total": 286,
+      "filename": "DSC_0624.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.174121",
+      "operation": "rename",
+      "old_name": "DSC_0624.NEF",
+      "new_name": " 2024.08.11-12.31.26.074.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.174121",
+      "operation": "progress",
+      "current": 75,
+      "total": 286,
+      "filename": "DSC_0625.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.176123",
+      "operation": "rename",
+      "old_name": "DSC_0625.NEF",
+      "new_name": " 2024.08.11-12.33.30.075.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.177122",
+      "operation": "progress",
+      "current": 76,
+      "total": 286,
+      "filename": "DSC_0626.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.179122",
+      "operation": "rename",
+      "old_name": "DSC_0626.NEF",
+      "new_name": " 2024.08.11-12.33.36.076.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.181121",
+      "operation": "progress",
+      "current": 77,
+      "total": 286,
+      "filename": "DSC_0627.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.182120",
+      "operation": "rename",
+      "old_name": "DSC_0627.NEF",
+      "new_name": " 2024.08.11-12.33.38.077.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.184143",
+      "operation": "progress",
+      "current": 78,
+      "total": 286,
+      "filename": "DSC_0628.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.185122",
+      "operation": "rename",
+      "old_name": "DSC_0628.NEF",
+      "new_name": " 2024.08.11-12.33.54.078.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.185122",
+      "operation": "progress",
+      "current": 79,
+      "total": 286,
+      "filename": "DSC_0629.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.186122",
+      "operation": "rename",
+      "old_name": "DSC_0629.NEF",
+      "new_name": " 2024.08.11-12.34.00.079.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.188143",
+      "operation": "progress",
+      "current": 80,
+      "total": 286,
+      "filename": "DSC_0630.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.189121",
+      "operation": "rename",
+      "old_name": "DSC_0630.NEF",
+      "new_name": " 2024.08.11-12.34.27.080.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.189121",
+      "operation": "progress",
+      "current": 81,
+      "total": 286,
+      "filename": "DSC_0631.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.190123",
+      "operation": "rename",
+      "old_name": "DSC_0631.NEF",
+      "new_name": " 2024.08.11-12.35.35.081.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.191122",
+      "operation": "progress",
+      "current": 82,
+      "total": 286,
+      "filename": "DSC_0632.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.192121",
+      "operation": "rename",
+      "old_name": "DSC_0632.NEF",
+      "new_name": " 2024.08.11-12.36.30.082.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.193122",
+      "operation": "progress",
+      "current": 83,
+      "total": 286,
+      "filename": "DSC_0633.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.194124",
+      "operation": "rename",
+      "old_name": "DSC_0633.NEF",
+      "new_name": " 2024.08.11-12.36.34.083.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.195122",
+      "operation": "progress",
+      "current": 84,
+      "total": 286,
+      "filename": "DSC_0634.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.197122",
+      "operation": "rename",
+      "old_name": "DSC_0634.NEF",
+      "new_name": " 2024.08.11-12.39.26.084.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.197122",
+      "operation": "progress",
+      "current": 85,
+      "total": 286,
+      "filename": "DSC_0635.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.198142",
+      "operation": "rename",
+      "old_name": "DSC_0635.NEF",
+      "new_name": " 2024.08.11-12.39.36.085.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.199122",
+      "operation": "progress",
+      "current": 86,
+      "total": 286,
+      "filename": "DSC_0636.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.200122",
+      "operation": "rename",
+      "old_name": "DSC_0636.NEF",
+      "new_name": " 2024.08.11-12.41.25.086.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.201121",
+      "operation": "progress",
+      "current": 87,
+      "total": 286,
+      "filename": "DSC_0637.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.202121",
+      "operation": "rename",
+      "old_name": "DSC_0637.NEF",
+      "new_name": " 2024.08.11-12.41.27.087.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.203121",
+      "operation": "progress",
+      "current": 88,
+      "total": 286,
+      "filename": "DSC_0638.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.203405",
+      "operation": "rename",
+      "old_name": "DSC_0638.NEF",
+      "new_name": " 2024.08.11-12.41.37.088.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.204416",
+      "operation": "progress",
+      "current": 89,
+      "total": 286,
+      "filename": "DSC_0639.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.205417",
+      "operation": "rename",
+      "old_name": "DSC_0639.NEF",
+      "new_name": " 2024.08.11-12.41.41.089.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.206417",
+      "operation": "progress",
+      "current": 90,
+      "total": 286,
+      "filename": "DSC_0640.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.207414",
+      "operation": "rename",
+      "old_name": "DSC_0640.NEF",
+      "new_name": " 2024.08.11-12.41.43.090.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.207414",
+      "operation": "progress",
+      "current": 91,
+      "total": 286,
+      "filename": "DSC_0641.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.208416",
+      "operation": "rename",
+      "old_name": "DSC_0641.NEF",
+      "new_name": " 2024.08.11-12.41.50.091.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.209415",
+      "operation": "progress",
+      "current": 92,
+      "total": 286,
+      "filename": "DSC_0642.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.211415",
+      "operation": "rename",
+      "old_name": "DSC_0642.NEF",
+      "new_name": " 2024.08.11-12.41.53.092.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.211415",
+      "operation": "progress",
+      "current": 93,
+      "total": 286,
+      "filename": "DSC_0643.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.213415",
+      "operation": "rename",
+      "old_name": "DSC_0643.NEF",
+      "new_name": " 2024.08.11-12.42.22.093.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.213415",
+      "operation": "progress",
+      "current": 94,
+      "total": 286,
+      "filename": "DSC_0644.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.214445",
+      "operation": "rename",
+      "old_name": "DSC_0644.NEF",
+      "new_name": " 2024.08.11-12.42.23.094.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.215416",
+      "operation": "progress",
+      "current": 95,
+      "total": 286,
+      "filename": "DSC_0645.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.216414",
+      "operation": "rename",
+      "old_name": "DSC_0645.NEF",
+      "new_name": " 2024.08.11-12.42.28.095.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.217415",
+      "operation": "progress",
+      "current": 96,
+      "total": 286,
+      "filename": "DSC_0646.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.218415",
+      "operation": "rename",
+      "old_name": "DSC_0646.NEF",
+      "new_name": " 2024.08.11-12.42.30.096.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.218415",
+      "operation": "progress",
+      "current": 97,
+      "total": 286,
+      "filename": "DSC_0647.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.219414",
+      "operation": "rename",
+      "old_name": "DSC_0647.NEF",
+      "new_name": " 2024.08.11-12.42.32.097.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.220420",
+      "operation": "progress",
+      "current": 98,
+      "total": 286,
+      "filename": "DSC_0648.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.221415",
+      "operation": "rename",
+      "old_name": "DSC_0648.NEF",
+      "new_name": " 2024.08.11-12.47.53.098.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.221415",
+      "operation": "progress",
+      "current": 99,
+      "total": 286,
+      "filename": "DSC_0649.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.222627",
+      "operation": "rename",
+      "old_name": "DSC_0649.NEF",
+      "new_name": " 2024.08.11-12.47.55.099.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.227638",
+      "operation": "progress",
+      "current": 100,
+      "total": 286,
+      "filename": "DSC_0650.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.229638",
+      "operation": "rename",
+      "old_name": "DSC_0650.NEF",
+      "new_name": " 2024.08.11-12.47.58.100.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.230654",
+      "operation": "progress",
+      "current": 101,
+      "total": 286,
+      "filename": "DSC_0651.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.231655",
+      "operation": "rename",
+      "old_name": "DSC_0651.NEF",
+      "new_name": " 2024.08.11-12.48.21.101.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.231655",
+      "operation": "progress",
+      "current": 102,
+      "total": 286,
+      "filename": "DSC_0652.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.233640",
+      "operation": "rename",
+      "old_name": "DSC_0652.NEF",
+      "new_name": " 2024.08.11-12.48.24.102.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.233640",
+      "operation": "progress",
+      "current": 103,
+      "total": 286,
+      "filename": "DSC_0653.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.235655",
+      "operation": "rename",
+      "old_name": "DSC_0653.NEF",
+      "new_name": " 2024.08.11-12.51.08.103.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.235655",
+      "operation": "progress",
+      "current": 104,
+      "total": 286,
+      "filename": "DSC_0654.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.236655",
+      "operation": "rename",
+      "old_name": "DSC_0654.NEF",
+      "new_name": " 2024.08.11-12.51.28.104.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.237655",
+      "operation": "progress",
+      "current": 105,
+      "total": 286,
+      "filename": "DSC_0655.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.238654",
+      "operation": "rename",
+      "old_name": "DSC_0655.NEF",
+      "new_name": " 2024.08.11-12.51.48.105.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.238654",
+      "operation": "progress",
+      "current": 106,
+      "total": 286,
+      "filename": "DSC_0656.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.239786",
+      "operation": "rename",
+      "old_name": "DSC_0656.NEF",
+      "new_name": " 2024.08.11-12.51.51.106.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.240798",
+      "operation": "progress",
+      "current": 107,
+      "total": 286,
+      "filename": "DSC_0657.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.242326",
+      "operation": "rename",
+      "old_name": "DSC_0657.NEF",
+      "new_name": " 2024.08.11-12.51.59.107.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.244377",
+      "operation": "progress",
+      "current": 108,
+      "total": 286,
+      "filename": "DSC_0658.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.245375",
+      "operation": "rename",
+      "old_name": "DSC_0658.NEF",
+      "new_name": " 2024.08.11-12.52.02.108.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.247367",
+      "operation": "progress",
+      "current": 109,
+      "total": 286,
+      "filename": "DSC_0659.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.248380",
+      "operation": "rename",
+      "old_name": "DSC_0659.NEF",
+      "new_name": " 2024.08.11-12.52.04.109.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.249390",
+      "operation": "progress",
+      "current": 110,
+      "total": 286,
+      "filename": "DSC_0660.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.250380",
+      "operation": "rename",
+      "old_name": "DSC_0660.NEF",
+      "new_name": " 2024.08.11-12.52.05.110.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.251387",
+      "operation": "progress",
+      "current": 111,
+      "total": 286,
+      "filename": "DSC_0661.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.252390",
+      "operation": "rename",
+      "old_name": "DSC_0661.NEF",
+      "new_name": " 2024.08.11-12.52.07.111.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.252390",
+      "operation": "progress",
+      "current": 112,
+      "total": 286,
+      "filename": "DSC_0662.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.253416",
+      "operation": "rename",
+      "old_name": "DSC_0662.NEF",
+      "new_name": " 2024.08.11-12.52.08.112.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.254597",
+      "operation": "progress",
+      "current": 113,
+      "total": 286,
+      "filename": "DSC_0663.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.255615",
+      "operation": "rename",
+      "old_name": "DSC_0663.NEF",
+      "new_name": " 2024.08.11-13.05.41.113.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.255615",
+      "operation": "progress",
+      "current": 114,
+      "total": 286,
+      "filename": "DSC_0664.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.256967",
+      "operation": "rename",
+      "old_name": "DSC_0664.NEF",
+      "new_name": " 2024.08.11-13.05.43.114.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.256967",
+      "operation": "progress",
+      "current": 115,
+      "total": 286,
+      "filename": "DSC_0665.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.259696",
+      "operation": "rename",
+      "old_name": "DSC_0665.NEF",
+      "new_name": " 2024.08.11-13.06.04.115.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.260719",
+      "operation": "progress",
+      "current": 116,
+      "total": 286,
+      "filename": "DSC_0666.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.262226",
+      "operation": "rename",
+      "old_name": "DSC_0666.NEF",
+      "new_name": " 2024.08.11-13.06.07.116.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.262226",
+      "operation": "progress",
+      "current": 117,
+      "total": 286,
+      "filename": "DSC_0667.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.263568",
+      "operation": "rename",
+      "old_name": "DSC_0667.NEF",
+      "new_name": " 2024.08.11-13.07.08.117.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.264581",
+      "operation": "progress",
+      "current": 118,
+      "total": 286,
+      "filename": "DSC_0668.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.265605",
+      "operation": "rename",
+      "old_name": "DSC_0668.NEF",
+      "new_name": " 2024.08.11-13.07.19.118.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.265605",
+      "operation": "progress",
+      "current": 119,
+      "total": 286,
+      "filename": "DSC_0669.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.267062",
+      "operation": "rename",
+      "old_name": "DSC_0669.NEF",
+      "new_name": " 2024.08.11-13.07.20.119.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.268319",
+      "operation": "progress",
+      "current": 120,
+      "total": 286,
+      "filename": "DSC_0670.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.269328",
+      "operation": "rename",
+      "old_name": "DSC_0670.NEF",
+      "new_name": " 2024.08.11-13.10.14.120.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.270337",
+      "operation": "progress",
+      "current": 121,
+      "total": 286,
+      "filename": "DSC_0671.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.271335",
+      "operation": "rename",
+      "old_name": "DSC_0671.NEF",
+      "new_name": " 2024.08.11-13.10.19.121.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.271335",
+      "operation": "progress",
+      "current": 122,
+      "total": 286,
+      "filename": "DSC_0672.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.273338",
+      "operation": "rename",
+      "old_name": "DSC_0672.NEF",
+      "new_name": " 2024.08.11-13.10.21.122.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.273338",
+      "operation": "progress",
+      "current": 123,
+      "total": 286,
+      "filename": "DSC_0673.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.274338",
+      "operation": "rename",
+      "old_name": "DSC_0673.NEF",
+      "new_name": " 2024.08.11-13.10.34.123.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.275341",
+      "operation": "progress",
+      "current": 124,
+      "total": 286,
+      "filename": "DSC_0674.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.276435",
+      "operation": "rename",
+      "old_name": "DSC_0674.NEF",
+      "new_name": " 2024.08.11-13.10.37.124.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.277831",
+      "operation": "progress",
+      "current": 125,
+      "total": 286,
+      "filename": "DSC_0675.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.278874",
+      "operation": "rename",
+      "old_name": "DSC_0675.NEF",
+      "new_name": " 2024.08.11-13.10.39.125.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.279838",
+      "operation": "progress",
+      "current": 126,
+      "total": 286,
+      "filename": "DSC_0676.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.280845",
+      "operation": "rename",
+      "old_name": "DSC_0676.NEF",
+      "new_name": " 2024.08.11-13.10.59.126.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.280845",
+      "operation": "progress",
+      "current": 127,
+      "total": 286,
+      "filename": "DSC_0677.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.282847",
+      "operation": "rename",
+      "old_name": "DSC_0677.NEF",
+      "new_name": " 2024.08.11-13.11.02.127.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.282847",
+      "operation": "progress",
+      "current": 128,
+      "total": 286,
+      "filename": "DSC_0678.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.283852",
+      "operation": "rename",
+      "old_name": "DSC_0678.NEF",
+      "new_name": " 2024.08.11-13.11.04.128.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.284836",
+      "operation": "progress",
+      "current": 129,
+      "total": 286,
+      "filename": "DSC_0679.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.285872",
+      "operation": "rename",
+      "old_name": "DSC_0679.NEF",
+      "new_name": " 2024.08.11-13.11.16.129.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.286852",
+      "operation": "progress",
+      "current": 130,
+      "total": 286,
+      "filename": "DSC_0680.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.287843",
+      "operation": "rename",
+      "old_name": "DSC_0680.NEF",
+      "new_name": " 2024.08.11-13.11.18.130.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.287843",
+      "operation": "progress",
+      "current": 131,
+      "total": 286,
+      "filename": "DSC_0681.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.288840",
+      "operation": "rename",
+      "old_name": "DSC_0681.NEF",
+      "new_name": " 2024.08.11-13.11.21.131.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.290307",
+      "operation": "progress",
+      "current": 132,
+      "total": 286,
+      "filename": "DSC_0682.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.291314",
+      "operation": "rename",
+      "old_name": "DSC_0682.NEF",
+      "new_name": " 2024.08.11-13.11.22.132.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.292313",
+      "operation": "progress",
+      "current": 133,
+      "total": 286,
+      "filename": "DSC_0683.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.293314",
+      "operation": "rename",
+      "old_name": "DSC_0683.NEF",
+      "new_name": " 2024.08.11-13.11.24.133.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.294574",
+      "operation": "progress",
+      "current": 134,
+      "total": 286,
+      "filename": "DSC_0684.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.296617",
+      "operation": "rename",
+      "old_name": "DSC_0684.NEF",
+      "new_name": " 2024.08.11-13.11.35.134.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.296617",
+      "operation": "progress",
+      "current": 135,
+      "total": 286,
+      "filename": "DSC_0685.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.297590",
+      "operation": "rename",
+      "old_name": "DSC_0685.NEF",
+      "new_name": " 2024.08.11-13.11.40.135.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.298583",
+      "operation": "progress",
+      "current": 136,
+      "total": 286,
+      "filename": "DSC_0686.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.299586",
+      "operation": "rename",
+      "old_name": "DSC_0686.NEF",
+      "new_name": " 2024.08.11-13.12.12.136.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.300583",
+      "operation": "progress",
+      "current": 137,
+      "total": 286,
+      "filename": "DSC_0687.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.300583",
+      "operation": "rename",
+      "old_name": "DSC_0687.NEF",
+      "new_name": " 2024.08.11-13.12.19.137.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.301914",
+      "operation": "progress",
+      "current": 138,
+      "total": 286,
+      "filename": "DSC_0688.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.303405",
+      "operation": "rename",
+      "old_name": "DSC_0688.NEF",
+      "new_name": " 2024.08.11-13.12.21.138.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.304688",
+      "operation": "progress",
+      "current": 139,
+      "total": 286,
+      "filename": "DSC_0689.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.305709",
+      "operation": "rename",
+      "old_name": "DSC_0689.NEF",
+      "new_name": " 2024.08.11-13.39.10.139.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.305709",
+      "operation": "progress",
+      "current": 140,
+      "total": 286,
+      "filename": "DSC_0690.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.306737",
+      "operation": "rename",
+      "old_name": "DSC_0690.NEF",
+      "new_name": " 2024.08.11-13.39.14.140.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.307711",
+      "operation": "progress",
+      "current": 141,
+      "total": 286,
+      "filename": "DSC_0691.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.309701",
+      "operation": "rename",
+      "old_name": "DSC_0691.NEF",
+      "new_name": " 2024.08.11-13.39.18.141.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.311745",
+      "operation": "progress",
+      "current": 142,
+      "total": 286,
+      "filename": "DSC_0692.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.312700",
+      "operation": "rename",
+      "old_name": "DSC_0692.NEF",
+      "new_name": " 2024.08.11-13.39.53.142.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.313707",
+      "operation": "progress",
+      "current": 143,
+      "total": 286,
+      "filename": "DSC_0693.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.314709",
+      "operation": "rename",
+      "old_name": "DSC_0693.NEF",
+      "new_name": " 2024.08.11-13.40.03.143.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.314709",
+      "operation": "progress",
+      "current": 144,
+      "total": 286,
+      "filename": "DSC_0694.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.315714",
+      "operation": "rename",
+      "old_name": "DSC_0694.NEF",
+      "new_name": " 2024.08.11-13.40.04.144.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.316714",
+      "operation": "progress",
+      "current": 145,
+      "total": 286,
+      "filename": "DSC_0695.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.317743",
+      "operation": "rename",
+      "old_name": "DSC_0695.NEF",
+      "new_name": " 2024.08.11-13.40.05.145.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.317743",
+      "operation": "progress",
+      "current": 146,
+      "total": 286,
+      "filename": "DSC_0696.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.319080",
+      "operation": "rename",
+      "old_name": "DSC_0696.NEF",
+      "new_name": " 2024.08.11-13.40.08.146.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.320159",
+      "operation": "progress",
+      "current": 147,
+      "total": 286,
+      "filename": "DSC_0697.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.321179",
+      "operation": "rename",
+      "old_name": "DSC_0697.NEF",
+      "new_name": " 2024.08.11-13.40.08.147.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.322184",
+      "operation": "progress",
+      "current": 148,
+      "total": 286,
+      "filename": "DSC_0698.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.323179",
+      "operation": "rename",
+      "old_name": "DSC_0698.NEF",
+      "new_name": " 2024.08.11-13.40.14.148.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.323179",
+      "operation": "progress",
+      "current": 149,
+      "total": 286,
+      "filename": "DSC_0699.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.324213",
+      "operation": "rename",
+      "old_name": "DSC_0699.NEF",
+      "new_name": " 2024.08.11-13.40.15.149.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.325181",
+      "operation": "progress",
+      "current": 150,
+      "total": 286,
+      "filename": "DSC_0700.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.326173",
+      "operation": "rename",
+      "old_name": "DSC_0700.NEF",
+      "new_name": " 2024.08.11-13.40.17.150.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.327279",
+      "operation": "progress",
+      "current": 151,
+      "total": 286,
+      "filename": "DSC_0701.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.328316",
+      "operation": "rename",
+      "old_name": "DSC_0701.NEF",
+      "new_name": " 2024.08.11-13.40.43.151.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.329297",
+      "operation": "progress",
+      "current": 152,
+      "total": 286,
+      "filename": "DSC_0702.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.330299",
+      "operation": "rename",
+      "old_name": "DSC_0702.NEF",
+      "new_name": " 2024.08.11-13.40.59.152.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.331305",
+      "operation": "progress",
+      "current": 153,
+      "total": 286,
+      "filename": "DSC_0703.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.332304",
+      "operation": "rename",
+      "old_name": "DSC_0703.NEF",
+      "new_name": " 2024.08.11-13.40.59.153.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.332304",
+      "operation": "progress",
+      "current": 154,
+      "total": 286,
+      "filename": "DSC_0704.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.333326",
+      "operation": "rename",
+      "old_name": "DSC_0704.NEF",
+      "new_name": " 2024.08.11-13.41.12.154.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.334342",
+      "operation": "progress",
+      "current": 155,
+      "total": 286,
+      "filename": "DSC_0705.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.335333",
+      "operation": "rename",
+      "old_name": "DSC_0705.NEF",
+      "new_name": " 2024.08.11-13.41.13.155.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.336342",
+      "operation": "progress",
+      "current": 156,
+      "total": 286,
+      "filename": "DSC_0706.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.337338",
+      "operation": "rename",
+      "old_name": "DSC_0706.NEF",
+      "new_name": " 2024.08.11-13.41.14.156.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.337338",
+      "operation": "progress",
+      "current": 157,
+      "total": 286,
+      "filename": "DSC_0707.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.338360",
+      "operation": "rename",
+      "old_name": "DSC_0707.NEF",
+      "new_name": " 2024.08.11-13.41.14.157.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.339342",
+      "operation": "progress",
+      "current": 158,
+      "total": 286,
+      "filename": "DSC_0708.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.340340",
+      "operation": "rename",
+      "old_name": "DSC_0708.NEF",
+      "new_name": " 2024.08.11-13.41.14.158.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.341348",
+      "operation": "progress",
+      "current": 159,
+      "total": 286,
+      "filename": "DSC_0709.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.342332",
+      "operation": "rename",
+      "old_name": "DSC_0709.NEF",
+      "new_name": " 2024.08.11-13.41.15.159.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.343088",
+      "operation": "progress",
+      "current": 160,
+      "total": 286,
+      "filename": "DSC_0710.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.344139",
+      "operation": "rename",
+      "old_name": "DSC_0710.NEF",
+      "new_name": " 2024.08.11-13.41.16.160.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.344139",
+      "operation": "progress",
+      "current": 161,
+      "total": 286,
+      "filename": "DSC_0714.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.346136",
+      "operation": "rename",
+      "old_name": "DSC_0714.NEF",
+      "new_name": " 2024.08.11-13.41.20.161.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.346136",
+      "operation": "progress",
+      "current": 162,
+      "total": 286,
+      "filename": "DSC_0715.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.348179",
+      "operation": "rename",
+      "old_name": "DSC_0715.NEF",
+      "new_name": " 2024.08.11-13.42.52.162.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.348179",
+      "operation": "progress",
+      "current": 163,
+      "total": 286,
+      "filename": "DSC_0716.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.349179",
+      "operation": "rename",
+      "old_name": "DSC_0716.NEF",
+      "new_name": " 2024.08.11-13.42.57.163.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.350183",
+      "operation": "progress",
+      "current": 164,
+      "total": 286,
+      "filename": "DSC_0717.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.351182",
+      "operation": "rename",
+      "old_name": "DSC_0717.NEF",
+      "new_name": " 2024.08.11-13.43.02.164.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.351182",
+      "operation": "progress",
+      "current": 165,
+      "total": 286,
+      "filename": "DSC_0718.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.353178",
+      "operation": "rename",
+      "old_name": "DSC_0718.NEF",
+      "new_name": " 2024.08.11-13.43.13.165.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.353178",
+      "operation": "progress",
+      "current": 166,
+      "total": 286,
+      "filename": "DSC_0719.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.355180",
+      "operation": "rename",
+      "old_name": "DSC_0719.NEF",
+      "new_name": " 2024.08.11-15.59.35.166.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.355180",
+      "operation": "progress",
+      "current": 167,
+      "total": 286,
+      "filename": "DSC_0721.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.356194",
+      "operation": "rename",
+      "old_name": "DSC_0721.NEF",
+      "new_name": " 2024.08.11-17.07.53.167.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.357172",
+      "operation": "progress",
+      "current": 168,
+      "total": 286,
+      "filename": "DSC_0722.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.358207",
+      "operation": "rename",
+      "old_name": "DSC_0722.NEF",
+      "new_name": " 2024.08.11-17.07.57.168.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.358207",
+      "operation": "progress",
+      "current": 169,
+      "total": 286,
+      "filename": "DSC_0723.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.360438",
+      "operation": "rename",
+      "old_name": "DSC_0723.NEF",
+      "new_name": " 2024.08.11-17.08.00.169.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.360438",
+      "operation": "progress",
+      "current": 170,
+      "total": 286,
+      "filename": "DSC_0725.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.361479",
+      "operation": "rename",
+      "old_name": "DSC_0725.NEF",
+      "new_name": " 2024.08.11-17.08.17.170.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.362975",
+      "operation": "progress",
+      "current": 171,
+      "total": 286,
+      "filename": "DSC_0727.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.363997",
+      "operation": "rename",
+      "old_name": "DSC_0727.NEF",
+      "new_name": " 2024.08.11-17.09.38.171.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.363997",
+      "operation": "progress",
+      "current": 172,
+      "total": 286,
+      "filename": "DSC_0728.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.365008",
+      "operation": "rename",
+      "old_name": "DSC_0728.NEF",
+      "new_name": " 2024.08.11-17.09.42.172.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.366002",
+      "operation": "progress",
+      "current": 173,
+      "total": 286,
+      "filename": "DSC_0729.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.367032",
+      "operation": "rename",
+      "old_name": "DSC_0729.NEF",
+      "new_name": " 2024.08.11-17.09.44.173.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.368001",
+      "operation": "progress",
+      "current": 174,
+      "total": 286,
+      "filename": "DSC_0730.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.368994",
+      "operation": "rename",
+      "old_name": "DSC_0730.NEF",
+      "new_name": " 2024.08.11-17.09.45.174.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.370001",
+      "operation": "progress",
+      "current": 175,
+      "total": 286,
+      "filename": "DSC_0731.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.370999",
+      "operation": "rename",
+      "old_name": "DSC_0731.NEF",
+      "new_name": " 2024.08.11-17.09.49.175.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.371990",
+      "operation": "progress",
+      "current": 176,
+      "total": 286,
+      "filename": "DSC_0732.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.372990",
+      "operation": "rename",
+      "old_name": "DSC_0732.NEF",
+      "new_name": " 2024.08.12-11.19.21.176.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.372990",
+      "operation": "progress",
+      "current": 177,
+      "total": 286,
+      "filename": "DSC_0733.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.375311",
+      "operation": "rename",
+      "old_name": "DSC_0733.NEF",
+      "new_name": " 2024.08.12-11.19.39.177.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.375311",
+      "operation": "progress",
+      "current": 178,
+      "total": 286,
+      "filename": "DSC_0734.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.377390",
+      "operation": "rename",
+      "old_name": "DSC_0734.NEF",
+      "new_name": " 2024.08.12-11.20.00.178.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.377390",
+      "operation": "progress",
+      "current": 179,
+      "total": 286,
+      "filename": "DSC_0735.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.378390",
+      "operation": "rename",
+      "old_name": "DSC_0735.NEF",
+      "new_name": " 2024.08.12-11.21.50.179.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.379390",
+      "operation": "progress",
+      "current": 180,
+      "total": 286,
+      "filename": "DSC_0737.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.380404",
+      "operation": "rename",
+      "old_name": "DSC_0737.NEF",
+      "new_name": " 2024.08.12-11.22.18.180.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.381392",
+      "operation": "progress",
+      "current": 181,
+      "total": 286,
+      "filename": "DSC_0744.JPG"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.382389",
+      "operation": "rename",
+      "old_name": "DSC_0744.JPG",
+      "new_name": " 2024.08.12-11.24.37.181.Samos.JPG",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.382389",
+      "operation": "progress",
+      "current": 182,
+      "total": 286,
+      "filename": "DSC_0746.JPG"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.383770",
+      "operation": "rename",
+      "old_name": "DSC_0746.JPG",
+      "new_name": " 2024.08.12-11.25.05.182.Samos.JPG",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.384795",
+      "operation": "progress",
+      "current": 183,
+      "total": 286,
+      "filename": "DSC_0747.JPG"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.385810",
+      "operation": "rename",
+      "old_name": "DSC_0747.JPG",
+      "new_name": " 2024.08.12-11.25.06.183.Samos.JPG",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.385810",
+      "operation": "progress",
+      "current": 184,
+      "total": 286,
+      "filename": "DSC_0748.JPG"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.387789",
+      "operation": "rename",
+      "old_name": "DSC_0748.JPG",
+      "new_name": " 2024.08.12-11.25.13.184.Samos.JPG",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.387789",
+      "operation": "progress",
+      "current": 185,
+      "total": 286,
+      "filename": "DSC_0749.JPG"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.388788",
+      "operation": "rename",
+      "old_name": "DSC_0749.JPG",
+      "new_name": " 2024.08.12-11.25.34.185.Samos.JPG",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.389799",
+      "operation": "progress",
+      "current": 186,
+      "total": 286,
+      "filename": "DSC_0761.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.389799",
+      "operation": "rename",
+      "old_name": "DSC_0761.NEF",
+      "new_name": " 2024.08.12-11.31.36.186.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.391157",
+      "operation": "progress",
+      "current": 187,
+      "total": 286,
+      "filename": "DSC_0763.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.392183",
+      "operation": "rename",
+      "old_name": "DSC_0763.NEF",
+      "new_name": " 2024.08.12-11.31.53.187.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.393363",
+      "operation": "progress",
+      "current": 188,
+      "total": 286,
+      "filename": "DSC_0764.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.394385",
+      "operation": "rename",
+      "old_name": "DSC_0764.NEF",
+      "new_name": " 2024.08.12-11.31.59.188.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.396401",
+      "operation": "progress",
+      "current": 189,
+      "total": 286,
+      "filename": "DSC_0772.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.397373",
+      "operation": "rename",
+      "old_name": "DSC_0772.NEF",
+      "new_name": " 2024.08.12-11.40.34.189.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.398380",
+      "operation": "progress",
+      "current": 190,
+      "total": 286,
+      "filename": "DSC_0775.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.399379",
+      "operation": "rename",
+      "old_name": "DSC_0775.NEF",
+      "new_name": " 2024.08.12-12.28.14.190.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.399379",
+      "operation": "progress",
+      "current": 191,
+      "total": 286,
+      "filename": "DSC_0776.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.401949",
+      "operation": "rename",
+      "old_name": "DSC_0776.NEF",
+      "new_name": " 2024.08.12-12.28.57.191.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.401949",
+      "operation": "progress",
+      "current": 192,
+      "total": 286,
+      "filename": "DSC_0777.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.402962",
+      "operation": "rename",
+      "old_name": "DSC_0777.NEF",
+      "new_name": " 2024.08.12-12.29.00.192.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.403959",
+      "operation": "progress",
+      "current": 193,
+      "total": 286,
+      "filename": "DSC_0778.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.404958",
+      "operation": "rename",
+      "old_name": "DSC_0778.NEF",
+      "new_name": " 2024.08.12-15.07.23.193.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.404958",
+      "operation": "progress",
+      "current": 194,
+      "total": 286,
+      "filename": "DSC_0779.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.405978",
+      "operation": "rename",
+      "old_name": "DSC_0779.NEF",
+      "new_name": " 2024.08.12-15.07.33.194.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.406959",
+      "operation": "progress",
+      "current": 195,
+      "total": 286,
+      "filename": "DSC_0780.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.407958",
+      "operation": "rename",
+      "old_name": "DSC_0780.NEF",
+      "new_name": " 2024.08.12-15.07.38.195.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.408960",
+      "operation": "progress",
+      "current": 196,
+      "total": 286,
+      "filename": "DSC_0781.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.409960",
+      "operation": "rename",
+      "old_name": "DSC_0781.NEF",
+      "new_name": " 2024.08.12-15.08.13.196.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.410960",
+      "operation": "progress",
+      "current": 197,
+      "total": 286,
+      "filename": "DSC_0782.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.411958",
+      "operation": "rename",
+      "old_name": "DSC_0782.NEF",
+      "new_name": " 2024.08.12-15.08.31.197.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.412960",
+      "operation": "progress",
+      "current": 198,
+      "total": 286,
+      "filename": "DSC_0783.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.413959",
+      "operation": "rename",
+      "old_name": "DSC_0783.NEF",
+      "new_name": " 2024.08.12-15.08.50.198.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.414960",
+      "operation": "progress",
+      "current": 199,
+      "total": 286,
+      "filename": "DSC_0784.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.415977",
+      "operation": "rename",
+      "old_name": "DSC_0784.NEF",
+      "new_name": " 2024.08.12-15.09.20.199.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.416959",
+      "operation": "progress",
+      "current": 200,
+      "total": 286,
+      "filename": "DSC_0786.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.417958",
+      "operation": "rename",
+      "old_name": "DSC_0786.NEF",
+      "new_name": " 2024.08.12-15.10.22.200.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.417958",
+      "operation": "progress",
+      "current": 201,
+      "total": 286,
+      "filename": "DSC_0787.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.419960",
+      "operation": "rename",
+      "old_name": "DSC_0787.NEF",
+      "new_name": " 2024.08.12-16.04.58.201.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.419960",
+      "operation": "progress",
+      "current": 202,
+      "total": 286,
+      "filename": "DSC_0788.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.420958",
+      "operation": "rename",
+      "old_name": "DSC_0788.NEF",
+      "new_name": " 2024.08.12-19.25.33.202.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.421959",
+      "operation": "progress",
+      "current": 203,
+      "total": 286,
+      "filename": "DSC_0789.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.422977",
+      "operation": "rename",
+      "old_name": "DSC_0789.NEF",
+      "new_name": " 2024.08.12-19.25.38.203.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.422977",
+      "operation": "progress",
+      "current": 204,
+      "total": 286,
+      "filename": "DSC_0790.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.423960",
+      "operation": "rename",
+      "old_name": "DSC_0790.NEF",
+      "new_name": " 2024.08.12-19.25.41.204.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.424959",
+      "operation": "progress",
+      "current": 205,
+      "total": 286,
+      "filename": "DSC_0791.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.426962",
+      "operation": "rename",
+      "old_name": "DSC_0791.NEF",
+      "new_name": " 2024.08.12-19.25.58.205.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.426962",
+      "operation": "progress",
+      "current": 206,
+      "total": 286,
+      "filename": "DSC_0792.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.428960",
+      "operation": "rename",
+      "old_name": "DSC_0792.NEF",
+      "new_name": " 2024.08.12-19.49.41.206.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.428960",
+      "operation": "progress",
+      "current": 207,
+      "total": 286,
+      "filename": "DSC_0793.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.430959",
+      "operation": "rename",
+      "old_name": "DSC_0793.NEF",
+      "new_name": " 2024.08.12-19.49.43.207.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.430959",
+      "operation": "progress",
+      "current": 208,
+      "total": 286,
+      "filename": "DSC_0794.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.431983",
+      "operation": "rename",
+      "old_name": "DSC_0794.NEF",
+      "new_name": " 2024.08.12-19.49.46.208.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.433958",
+      "operation": "progress",
+      "current": 209,
+      "total": 286,
+      "filename": "DSC_0795.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.434959",
+      "operation": "rename",
+      "old_name": "DSC_0795.NEF",
+      "new_name": " 2024.08.12-19.49.48.209.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.434959",
+      "operation": "progress",
+      "current": 210,
+      "total": 286,
+      "filename": "DSC_0796.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.436958",
+      "operation": "rename",
+      "old_name": "DSC_0796.NEF",
+      "new_name": " 2024.08.12-19.49.53.210.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.437149",
+      "operation": "progress",
+      "current": 211,
+      "total": 286,
+      "filename": "DSC_0797.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.438166",
+      "operation": "rename",
+      "old_name": "DSC_0797.NEF",
+      "new_name": " 2024.08.12-19.49.55.211.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.438166",
+      "operation": "progress",
+      "current": 212,
+      "total": 286,
+      "filename": "DSC_0798.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.440164",
+      "operation": "rename",
+      "old_name": "DSC_0798.NEF",
+      "new_name": " 2024.08.12-19.50.08.212.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.440164",
+      "operation": "progress",
+      "current": 213,
+      "total": 286,
+      "filename": "DSC_0799.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.441166",
+      "operation": "rename",
+      "old_name": "DSC_0799.NEF",
+      "new_name": " 2024.08.12-19.50.12.213.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.442163",
+      "operation": "progress",
+      "current": 214,
+      "total": 286,
+      "filename": "DSC_0800.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.443241",
+      "operation": "rename",
+      "old_name": "DSC_0800.NEF",
+      "new_name": " 2024.08.12-19.50.39.214.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.444241",
+      "operation": "progress",
+      "current": 215,
+      "total": 286,
+      "filename": "DSC_0801.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.445240",
+      "operation": "rename",
+      "old_name": "DSC_0801.NEF",
+      "new_name": " 2024.08.12-19.50.43.215.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.446241",
+      "operation": "progress",
+      "current": 216,
+      "total": 286,
+      "filename": "DSC_0802.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.446820",
+      "operation": "rename",
+      "old_name": "DSC_0802.NEF",
+      "new_name": " 2024.08.12-19.50.46.216.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.447832",
+      "operation": "progress",
+      "current": 217,
+      "total": 286,
+      "filename": "DSC_0803.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.448830",
+      "operation": "rename",
+      "old_name": "DSC_0803.NEF",
+      "new_name": " 2024.08.12-19.50.51.217.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.449830",
+      "operation": "progress",
+      "current": 218,
+      "total": 286,
+      "filename": "DSC_0804.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.450830",
+      "operation": "rename",
+      "old_name": "DSC_0804.NEF",
+      "new_name": " 2024.08.12-19.50.54.218.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.450830",
+      "operation": "progress",
+      "current": 219,
+      "total": 286,
+      "filename": "DSC_0805.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.452012",
+      "operation": "rename",
+      "old_name": "DSC_0805.NEF",
+      "new_name": " 2024.08.13-20.14.39.219.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.453028",
+      "operation": "progress",
+      "current": 220,
+      "total": 286,
+      "filename": "DSC_0806.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.453691",
+      "operation": "rename",
+      "old_name": "DSC_0806.NEF",
+      "new_name": " 2024.08.13-20.14.44.220.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.454700",
+      "operation": "progress",
+      "current": 221,
+      "total": 286,
+      "filename": "DSC_0807.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.455700",
+      "operation": "rename",
+      "old_name": "DSC_0807.NEF",
+      "new_name": " 2024.08.13-20.15.09.221.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.456700",
+      "operation": "progress",
+      "current": 222,
+      "total": 286,
+      "filename": "DSC_0808.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.457700",
+      "operation": "rename",
+      "old_name": "DSC_0808.NEF",
+      "new_name": " 2024.08.13-20.15.17.222.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.457700",
+      "operation": "progress",
+      "current": 223,
+      "total": 286,
+      "filename": "DSC_0809.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.459703",
+      "operation": "rename",
+      "old_name": "DSC_0809.NEF",
+      "new_name": " 2024.08.13-20.15.54.223.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.459703",
+      "operation": "progress",
+      "current": 224,
+      "total": 286,
+      "filename": "DSC_0810.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.461702",
+      "operation": "rename",
+      "old_name": "DSC_0810.NEF",
+      "new_name": " 2024.08.13-20.16.03.224.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.461702",
+      "operation": "progress",
+      "current": 225,
+      "total": 286,
+      "filename": "DSC_0811.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.463230",
+      "operation": "rename",
+      "old_name": "DSC_0811.NEF",
+      "new_name": " 2024.08.13-20.16.07.225.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.463230",
+      "operation": "progress",
+      "current": 226,
+      "total": 286,
+      "filename": "DSC_0812.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.465262",
+      "operation": "rename",
+      "old_name": "DSC_0812.NEF",
+      "new_name": " 2024.08.13-20.16.10.226.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.465262",
+      "operation": "progress",
+      "current": 227,
+      "total": 286,
+      "filename": "DSC_0813.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.466265",
+      "operation": "rename",
+      "old_name": "DSC_0813.NEF",
+      "new_name": " 2024.08.13-20.16.12.227.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.467246",
+      "operation": "progress",
+      "current": 228,
+      "total": 286,
+      "filename": "DSC_0814.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.468263",
+      "operation": "rename",
+      "old_name": "DSC_0814.NEF",
+      "new_name": " 2024.08.13-20.16.51.228.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.468263",
+      "operation": "progress",
+      "current": 229,
+      "total": 286,
+      "filename": "DSC_0815.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.470263",
+      "operation": "rename",
+      "old_name": "DSC_0815.NEF",
+      "new_name": " 2024.08.13-20.17.05.229.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.470263",
+      "operation": "progress",
+      "current": 230,
+      "total": 286,
+      "filename": "DSC_0816.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.471264",
+      "operation": "rename",
+      "old_name": "DSC_0816.NEF",
+      "new_name": " 2024.08.14-11.35.43.230.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.472258",
+      "operation": "progress",
+      "current": 231,
+      "total": 286,
+      "filename": "DSC_0817.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.473263",
+      "operation": "rename",
+      "old_name": "DSC_0817.NEF",
+      "new_name": " 2024.08.14-11.36.04.231.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.473263",
+      "operation": "progress",
+      "current": 232,
+      "total": 286,
+      "filename": "DSC_0818.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.474265",
+      "operation": "rename",
+      "old_name": "DSC_0818.NEF",
+      "new_name": " 2024.08.14-12.22.49.232.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.475263",
+      "operation": "progress",
+      "current": 233,
+      "total": 286,
+      "filename": "DSC_0819.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.476248",
+      "operation": "rename",
+      "old_name": "DSC_0819.NEF",
+      "new_name": " 2024.08.14-12.23.50.233.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.477252",
+      "operation": "progress",
+      "current": 234,
+      "total": 286,
+      "filename": "DSC_0820.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.479248",
+      "operation": "rename",
+      "old_name": "DSC_0820.NEF",
+      "new_name": " 2024.08.14-12.30.39.234.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.479248",
+      "operation": "progress",
+      "current": 235,
+      "total": 286,
+      "filename": "DSC_0821.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.481264",
+      "operation": "rename",
+      "old_name": "DSC_0821.NEF",
+      "new_name": " 2024.08.14-12.30.44.235.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.481264",
+      "operation": "progress",
+      "current": 236,
+      "total": 286,
+      "filename": "DSC_0822.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.482246",
+      "operation": "rename",
+      "old_name": "DSC_0822.NEF",
+      "new_name": " 2024.08.14-16.21.11.236.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.483246",
+      "operation": "progress",
+      "current": 237,
+      "total": 286,
+      "filename": "DSC_0823.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.484263",
+      "operation": "rename",
+      "old_name": "DSC_0823.NEF",
+      "new_name": " 2024.08.14-16.21.14.237.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.485251",
+      "operation": "progress",
+      "current": 238,
+      "total": 286,
+      "filename": "DSC_0824.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.486246",
+      "operation": "rename",
+      "old_name": "DSC_0824.NEF",
+      "new_name": " 2024.08.14-16.21.29.238.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.486246",
+      "operation": "progress",
+      "current": 239,
+      "total": 286,
+      "filename": "DSC_0825.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.487279",
+      "operation": "rename",
+      "old_name": "DSC_0825.NEF",
+      "new_name": " 2024.08.14-16.21.33.239.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.488256",
+      "operation": "progress",
+      "current": 240,
+      "total": 286,
+      "filename": "DSC_0826.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.489250",
+      "operation": "rename",
+      "old_name": "DSC_0826.NEF",
+      "new_name": " 2024.08.14-17.54.57.240.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.490248",
+      "operation": "progress",
+      "current": 241,
+      "total": 286,
+      "filename": "DSC_0827.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.491246",
+      "operation": "rename",
+      "old_name": "DSC_0827.NEF",
+      "new_name": " 2024.08.14-17.54.59.241.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.492247",
+      "operation": "progress",
+      "current": 242,
+      "total": 286,
+      "filename": "DSC_0828.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.493247",
+      "operation": "rename",
+      "old_name": "DSC_0828.NEF",
+      "new_name": " 2024.08.14-17.57.00.242.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.494248",
+      "operation": "progress",
+      "current": 243,
+      "total": 286,
+      "filename": "DSC_0829.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.495246",
+      "operation": "rename",
+      "old_name": "DSC_0829.NEF",
+      "new_name": " 2024.08.14-17.57.02.243.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.496247",
+      "operation": "progress",
+      "current": 244,
+      "total": 286,
+      "filename": "DSC_0830.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.497246",
+      "operation": "rename",
+      "old_name": "DSC_0830.NEF",
+      "new_name": " 2024.08.14-17.57.10.244.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.498247",
+      "operation": "progress",
+      "current": 245,
+      "total": 286,
+      "filename": "DSC_0831.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.499246",
+      "operation": "rename",
+      "old_name": "DSC_0831.NEF",
+      "new_name": " 2024.08.14-17.57.13.245.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.500252",
+      "operation": "progress",
+      "current": 246,
+      "total": 286,
+      "filename": "DSC_0832.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.501250",
+      "operation": "rename",
+      "old_name": "DSC_0832.NEF",
+      "new_name": " 2024.08.14-17.57.53.246.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.501250",
+      "operation": "progress",
+      "current": 247,
+      "total": 286,
+      "filename": "DSC_0833.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.503247",
+      "operation": "rename",
+      "old_name": "DSC_0833.NEF",
+      "new_name": " 2024.08.14-17.57.56.247.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.503247",
+      "operation": "progress",
+      "current": 248,
+      "total": 286,
+      "filename": "DSC_0834.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.504250",
+      "operation": "rename",
+      "old_name": "DSC_0834.NEF",
+      "new_name": " 2024.08.14-17.58.58.248.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.505252",
+      "operation": "progress",
+      "current": 249,
+      "total": 286,
+      "filename": "DSC_0835.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.506247",
+      "operation": "rename",
+      "old_name": "DSC_0835.NEF",
+      "new_name": " 2024.08.14-17.59.01.249.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.507246",
+      "operation": "progress",
+      "current": 250,
+      "total": 286,
+      "filename": "DSC_0836.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.508246",
+      "operation": "rename",
+      "old_name": "DSC_0836.NEF",
+      "new_name": " 2024.08.14-17.59.04.250.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.509247",
+      "operation": "progress",
+      "current": 251,
+      "total": 286,
+      "filename": "DSC_0837.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.511263",
+      "operation": "rename",
+      "old_name": "DSC_0837.NEF",
+      "new_name": " 2024.08.16-11.14.49.251.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.511263",
+      "operation": "progress",
+      "current": 252,
+      "total": 286,
+      "filename": "DSC_0838.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.512246",
+      "operation": "rename",
+      "old_name": "DSC_0838.NEF",
+      "new_name": " 2024.08.16-11.15.03.252.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.513269",
+      "operation": "progress",
+      "current": 253,
+      "total": 286,
+      "filename": "DSC_0839.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.514246",
+      "operation": "rename",
+      "old_name": "DSC_0839.NEF",
+      "new_name": " 2024.08.16-11.15.26.253.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.515266",
+      "operation": "progress",
+      "current": 254,
+      "total": 286,
+      "filename": "DSC_0840.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.516246",
+      "operation": "rename",
+      "old_name": "DSC_0840.NEF",
+      "new_name": " 2024.08.16-11.15.39.254.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.516246",
+      "operation": "progress",
+      "current": 255,
+      "total": 286,
+      "filename": "DSC_0841.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.517371",
+      "operation": "rename",
+      "old_name": "DSC_0841.NEF",
+      "new_name": " 2024.08.16-11.15.45.255.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.518413",
+      "operation": "progress",
+      "current": 256,
+      "total": 286,
+      "filename": "DSC_0842.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.519382",
+      "operation": "rename",
+      "old_name": "DSC_0842.NEF",
+      "new_name": " 2024.08.16-11.15.50.256.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.520380",
+      "operation": "progress",
+      "current": 257,
+      "total": 286,
+      "filename": "DSC_0843.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.521381",
+      "operation": "rename",
+      "old_name": "DSC_0843.NEF",
+      "new_name": " 2024.08.16-11.30.15.257.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.522380",
+      "operation": "progress",
+      "current": 258,
+      "total": 286,
+      "filename": "DSC_0845.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.523380",
+      "operation": "rename",
+      "old_name": "DSC_0845.NEF",
+      "new_name": " 2024.08.16-11.32.06.258.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.524381",
+      "operation": "progress",
+      "current": 259,
+      "total": 286,
+      "filename": "DSC_0846.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.525380",
+      "operation": "rename",
+      "old_name": "DSC_0846.NEF",
+      "new_name": " 2024.08.16-11.32.21.259.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.526399",
+      "operation": "progress",
+      "current": 260,
+      "total": 286,
+      "filename": "DSC_0847.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.527381",
+      "operation": "rename",
+      "old_name": "DSC_0847.NEF",
+      "new_name": " 2024.08.16-11.33.00.260.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.527381",
+      "operation": "progress",
+      "current": 261,
+      "total": 286,
+      "filename": "DSC_0848.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.529383",
+      "operation": "rename",
+      "old_name": "DSC_0848.NEF",
+      "new_name": " 2024.08.16-11.33.09.261.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.529383",
+      "operation": "progress",
+      "current": 262,
+      "total": 286,
+      "filename": "DSC_0849.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.530381",
+      "operation": "rename",
+      "old_name": "DSC_0849.NEF",
+      "new_name": " 2024.08.16-11.33.16.262.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.531393",
+      "operation": "progress",
+      "current": 263,
+      "total": 286,
+      "filename": "DSC_0851.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.532380",
+      "operation": "rename",
+      "old_name": "DSC_0851.NEF",
+      "new_name": " 2024.08.16-11.37.25.263.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.532380",
+      "operation": "progress",
+      "current": 264,
+      "total": 286,
+      "filename": "DSC_0852.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.534402",
+      "operation": "rename",
+      "old_name": "DSC_0852.NEF",
+      "new_name": " 2024.08.16-11.37.26.264.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.535380",
+      "operation": "progress",
+      "current": 265,
+      "total": 286,
+      "filename": "DSC_0853.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.536380",
+      "operation": "rename",
+      "old_name": "DSC_0853.NEF",
+      "new_name": " 2024.08.16-11.37.35.265.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.536380",
+      "operation": "progress",
+      "current": 266,
+      "total": 286,
+      "filename": "DSC_0854.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.537381",
+      "operation": "rename",
+      "old_name": "DSC_0854.NEF",
+      "new_name": " 2024.08.16-11.37.37.266.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.538380",
+      "operation": "progress",
+      "current": 267,
+      "total": 286,
+      "filename": "DSC_0857.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.539381",
+      "operation": "rename",
+      "old_name": "DSC_0857.NEF",
+      "new_name": " 2024.08.16-11.59.40.267.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.540380",
+      "operation": "progress",
+      "current": 268,
+      "total": 286,
+      "filename": "DSC_0859.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.541380",
+      "operation": "rename",
+      "old_name": "DSC_0859.NEF",
+      "new_name": " 2024.08.16-11.59.45.268.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.542380",
+      "operation": "progress",
+      "current": 269,
+      "total": 286,
+      "filename": "DSC_0864.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.543381",
+      "operation": "rename",
+      "old_name": "DSC_0864.NEF",
+      "new_name": " 2024.08.16-12.00.37.269.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.544381",
+      "operation": "progress",
+      "current": 270,
+      "total": 286,
+      "filename": "DSC_0865.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.545380",
+      "operation": "rename",
+      "old_name": "DSC_0865.NEF",
+      "new_name": " 2024.08.16-12.00.39.270.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.546380",
+      "operation": "progress",
+      "current": 271,
+      "total": 286,
+      "filename": "DSC_0869.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.547398",
+      "operation": "rename",
+      "old_name": "DSC_0869.NEF",
+      "new_name": " 2024.08.16-12.01.50.271.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.547398",
+      "operation": "progress",
+      "current": 272,
+      "total": 286,
+      "filename": "DSC_0871.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.548434",
+      "operation": "rename",
+      "old_name": "DSC_0871.NEF",
+      "new_name": " 2024.08.16-12.01.54.272.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.549408",
+      "operation": "progress",
+      "current": 273,
+      "total": 286,
+      "filename": "DSC_0872.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.550407",
+      "operation": "rename",
+      "old_name": "DSC_0872.NEF",
+      "new_name": " 2024.08.16-12.01.55.273.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.551407",
+      "operation": "progress",
+      "current": 274,
+      "total": 286,
+      "filename": "DSC_0873.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.552425",
+      "operation": "rename",
+      "old_name": "DSC_0873.NEF",
+      "new_name": " 2024.08.16-12.02.08.274.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.552425",
+      "operation": "progress",
+      "current": 275,
+      "total": 286,
+      "filename": "DSC_0874.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.553408",
+      "operation": "rename",
+      "old_name": "DSC_0874.NEF",
+      "new_name": " 2024.08.16-12.02.08.275.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.554408",
+      "operation": "progress",
+      "current": 276,
+      "total": 286,
+      "filename": "DSC_0879.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.555425",
+      "operation": "rename",
+      "old_name": "DSC_0879.NEF",
+      "new_name": " 2024.08.16-12.02.39.276.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.556407",
+      "operation": "progress",
+      "current": 277,
+      "total": 286,
+      "filename": "DSC_0880.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.557406",
+      "operation": "rename",
+      "old_name": "DSC_0880.NEF",
+      "new_name": " 2024.08.16-12.05.58.277.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.557406",
+      "operation": "progress",
+      "current": 278,
+      "total": 286,
+      "filename": "DSC_0881.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.559410",
+      "operation": "rename",
+      "old_name": "DSC_0881.NEF",
+      "new_name": " 2024.08.16-12.05.59.278.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.560407",
+      "operation": "progress",
+      "current": 279,
+      "total": 286,
+      "filename": "DSC_0882.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.561408",
+      "operation": "rename",
+      "old_name": "DSC_0882.NEF",
+      "new_name": " 2024.08.16-12.06.22.279.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.561408",
+      "operation": "progress",
+      "current": 280,
+      "total": 286,
+      "filename": "DSC_0883.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.562911",
+      "operation": "rename",
+      "old_name": "DSC_0883.NEF",
+      "new_name": " 2024.08.16-12.06.25.280.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.563915",
+      "operation": "progress",
+      "current": 281,
+      "total": 286,
+      "filename": "DSC_0884.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.564915",
+      "operation": "rename",
+      "old_name": "DSC_0884.NEF",
+      "new_name": " 2024.08.16-12.06.43.281.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.564915",
+      "operation": "progress",
+      "current": 282,
+      "total": 286,
+      "filename": "DSC_0885.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.566915",
+      "operation": "rename",
+      "old_name": "DSC_0885.NEF",
+      "new_name": " 2024.08.16-12.06.48.282.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.566915",
+      "operation": "progress",
+      "current": 283,
+      "total": 286,
+      "filename": "DSC_0886.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.567915",
+      "operation": "rename",
+      "old_name": "DSC_0886.NEF",
+      "new_name": " 2024.08.16-12.06.52.283.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.568918",
+      "operation": "progress",
+      "current": 284,
+      "total": 286,
+      "filename": "DSC_0887.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.569915",
+      "operation": "rename",
+      "old_name": "DSC_0887.NEF",
+      "new_name": " 2024.08.16-12.07.22.284.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.570915",
+      "operation": "progress",
+      "current": 285,
+      "total": 286,
+      "filename": "DSC_0888.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.571915",
+      "operation": "rename",
+      "old_name": "DSC_0888.NEF",
+      "new_name": " 2024.08.16-12.07.24.285.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.572915",
+      "operation": "progress",
+      "current": 286,
+      "total": 286,
+      "filename": "DSC_0889.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.573917",
+      "operation": "rename",
+      "old_name": "DSC_0889.NEF",
+      "new_name": " 2024.08.16-12.07.27.286.Samos.NEF",
+      "folder_path": "D:\\Photos\\Nef\\Samos"
+    },
+    {
+      "timestamp": "2026-01-10T14:04:01.573917",
+      "operation": "session_complete",
+      "processed_count": 286,
+      "error_count": 0,
+      "skipped_count": 0,
+      "total_files": 286
+    }
+  ]
+}

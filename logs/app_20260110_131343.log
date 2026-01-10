@@ -1,0 +1,55 @@
+2026-01-10 13:13:43 - media_renamer_app - INFO - Application logging initialized - Log file: C:\Kiro\MediaUtils\logs\app_20260110_131343.log
+2026-01-10 13:13:43 - media_renamer_app - INFO - Session logging initialized - Session file: C:\Kiro\MediaUtils\logs\session_20260110_131343.log
+2026-01-10 13:13:43 - media_renamer_app - INFO - Application starting - Media File Renamer v2.0.0
+2026-01-10 13:13:43 - media_renamer_app - INFO - City cache loaded with 88 entries
+2026-01-10 13:13:43 - media_renamer_app - INFO - All application systems initialized successfully
+2026-01-10 13:13:43 - media_renamer_app - INFO - GUI application starting up with integrated systems
+2026-01-10 13:13:43 - media_renamer_app - INFO - MediaProcessor initialized with caching and error recovery
+2026-01-10 13:13:43 - media_renamer_app - INFO - FileOperations initialized with 25 supported extensions
+2026-01-10 13:13:44 - media_renamer_app - INFO - GUI window initialized with geometry: 1x1+153+180
+2026-01-10 13:13:44 - media_renamer_app - INFO - GUI application initialization completed
+2026-01-10 13:13:44 - media_renamer_app - INFO - Starting GUI application...
+2026-01-10 13:13:50 - media_renamer_app - INFO - User initiated file discovery for folder: D:\Photos\Nef\Istanbul2
+2026-01-10 13:13:50 - media_renamer_app - INFO - Starting file discovery and metadata extraction
+2026-01-10 13:13:50 - media_renamer_app - INFO - Starting file discovery in folder: D:\Photos\Nef\Istanbul2
+2026-01-10 13:13:50 - media_renamer_app - INFO - Found 1 total files in D:\Photos\Nef\Istanbul2
+2026-01-10 13:13:50 - media_renamer_app - INFO - Discovered 1 supported media files
+2026-01-10 13:13:50 - media_renamer_app - INFO - Discovered 1 files in D:\Photos\Nef\Istanbul2
+2026-01-10 13:13:50 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul2\DSC_0349.NEF: 2024-03-17 11:18:45
+2026-01-10 13:13:51 - media_renamer_app - INFO - File discovery completed: 1 files processed, 0 without metadata
+2026-01-10 13:13:54 - media_renamer_app - INFO - User initiated file processing
+2026-01-10 13:13:54 - media_renamer_app - WARNING - File processing cancelled: no files selected
+2026-01-10 13:13:58 - media_renamer_app - INFO - User selected all files (1 files)
+2026-01-10 13:13:59 - media_renamer_app - INFO - User initiated file processing
+2026-01-10 13:13:59 - media_renamer_app - INFO - Processing 1 selected files
+2026-01-10 13:14:00 - media_renamer_app - INFO - User confirmed file processing, starting operation
+2026-01-10 13:14:00 - media_renamer_app - INFO - Starting file processing: 1 files selected
+2026-01-10 13:14:00 - media_renamer_app - INFO - Starting file processing: 1 files selected for renaming
+2026-01-10 13:14:00 - media_renamer_app - INFO - Operation completed: session_start - {'total_files': 1, 'folder_path': 'D:\\Photos\\Nef\\Istanbul2'}
+2026-01-10 13:14:00 - media_renamer_app - INFO - Operation completed: progress - {'current': 1, 'total': 1, 'filename': 'DSC_0349.NEF'}
+2026-01-10 13:14:00 - media_renamer_app - INFO - File renamed successfully: DSC_0349.NEF ->  2024.03.17-11.18.45.001..NEF
+2026-01-10 13:14:00 - media_renamer_app - INFO - Successfully renamed: DSC_0349.NEF ->  2024.03.17-11.18.45.001..NEF
+2026-01-10 13:14:00 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0349.NEF', 'new_name': ' 2024.03.17-11.18.45.001..NEF', 'folder_path': 'D:\\Photos\\Nef\\Istanbul2'}
+2026-01-10 13:14:00 - media_renamer_app - INFO - Operation completed: session_complete - {'processed_count': 1, 'error_count': 0, 'skipped_count': 0, 'total_files': 1}
+2026-01-10 13:14:00 - media_renamer_app - INFO - File processing completed: 1 processed, 0 errors, 0 skipped
+2026-01-10 13:14:00 - media_renamer_app - INFO - Session log saved: C:\Kiro\MediaUtils\logs\session_20260110_131343.json
+2026-01-10 13:14:00 - media_renamer_app - INFO - File processing completed: 1 processed, 0 skipped, 0 errors
+2026-01-10 13:14:00 - media_renamer_app - INFO - User initiated file discovery for folder: D:\Photos\Nef\Istanbul2
+2026-01-10 13:14:00 - media_renamer_app - INFO - Starting file discovery and metadata extraction
+2026-01-10 13:14:00 - media_renamer_app - INFO - Starting file discovery in folder: D:\Photos\Nef\Istanbul2
+2026-01-10 13:14:00 - media_renamer_app - INFO - Found 1 total files in D:\Photos\Nef\Istanbul2
+2026-01-10 13:14:00 - media_renamer_app - INFO - Discovered 1 supported media files
+2026-01-10 13:14:00 - media_renamer_app - INFO - Discovered 1 files in D:\Photos\Nef\Istanbul2
+2026-01-10 13:14:00 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\Istanbul2\ 2024.03.17-11.18.45.001..NEF: 2024-03-17 11:18:45
+2026-01-10 13:14:00 - media_renamer_app - INFO - File discovery completed: 1 files processed, 0 without metadata
+2026-01-10 13:14:02 - media_renamer_app - INFO - User initiated application shutdown
+2026-01-10 13:14:02 - media_renamer_app - INFO - Settings saved on application close
+2026-01-10 13:14:02 - media_renamer_app - INFO - City cache saved successfully: 88 entries
+2026-01-10 13:14:02 - media_renamer_app - INFO - Session log saved: C:\Kiro\MediaUtils\logs\session_20260110_131343.json
+2026-01-10 13:14:02 - media_renamer_app - INFO - Final session log saved: C:\Kiro\MediaUtils\logs\session_20260110_131343.json
+2026-01-10 13:14:02 - media_renamer_app - INFO - Application shutdown completed
+2026-01-10 13:14:02 - media_renamer_app - INFO - Application completed successfully
+2026-01-10 13:14:02 - media_renamer_app - INFO - Application shutting down...
+2026-01-10 13:14:02 - media_renamer_app - INFO - City cache saved successfully
+2026-01-10 13:14:02 - media_renamer_app - INFO - Session log saved: C:\Kiro\MediaUtils\logs\session_20260110_131343.json
+2026-01-10 13:14:02 - media_renamer_app - INFO - Application shutdown complete
