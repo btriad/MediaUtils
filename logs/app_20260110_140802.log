@@ -1,0 +1,222 @@
+2026-01-10 14:08:02 - media_renamer_app - INFO - Application logging initialized - Log file: C:\Kiro\MediaUtils\logs\app_20260110_140802.log
+2026-01-10 14:08:02 - media_renamer_app - INFO - Session logging initialized - Session file: C:\Kiro\MediaUtils\logs\session_20260110_140802.log
+2026-01-10 14:08:02 - media_renamer_app - INFO - Application starting - Media File Renamer v2.0.0
+2026-01-10 14:08:02 - media_renamer_app - INFO - City cache loaded with 88 entries
+2026-01-10 14:08:02 - media_renamer_app - INFO - All application systems initialized successfully
+2026-01-10 14:08:02 - media_renamer_app - INFO - GUI application starting up with integrated systems
+2026-01-10 14:08:02 - media_renamer_app - INFO - MediaProcessor initialized with caching and error recovery
+2026-01-10 14:08:02 - media_renamer_app - INFO - FileOperations initialized with 25 supported extensions
+2026-01-10 14:08:02 - media_renamer_app - INFO - GUI window initialized with geometry: 1x1+153+180
+2026-01-10 14:08:02 - media_renamer_app - INFO - GUI application initialization completed
+2026-01-10 14:08:02 - media_renamer_app - INFO - Starting GUI application...
+2026-01-10 14:08:09 - media_renamer_app - INFO - User initiated file discovery for folder: D:\Photos\Nef
+2026-01-10 14:08:09 - media_renamer_app - INFO - Starting file discovery and metadata extraction
+2026-01-10 14:08:09 - media_renamer_app - INFO - Starting file discovery in folder: D:\Photos\Nef
+2026-01-10 14:08:09 - media_renamer_app - INFO - Found 24 total files in D:\Photos\Nef
+2026-01-10 14:08:09 - media_renamer_app - INFO - Discovered 24 supported media files
+2026-01-10 14:08:09 - media_renamer_app - INFO - Discovered 24 files in D:\Photos\Nef
+2026-01-10 14:08:09 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0350.NEF: 2024-05-14 20:20:35
+2026-01-10 14:08:09 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0351.NEF: 2024-05-14 20:20:38
+2026-01-10 14:08:09 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0352.NEF: 2024-05-14 20:20:42
+2026-01-10 14:08:09 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0427.NEF: 2024-06-29 22:15:08
+2026-01-10 14:08:09 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0428.NEF: 2024-06-29 22:15:19
+2026-01-10 14:08:09 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0429.NEF: 2024-06-29 22:15:27
+2026-01-10 14:08:09 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0430.NEF: 2024-06-29 22:15:35
+2026-01-10 14:08:09 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0431.NEF: 2024-06-30 17:37:53
+2026-01-10 14:08:09 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0432.NEF: 2024-06-30 17:38:14
+2026-01-10 14:08:09 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0433.NEF: 2024-06-30 17:39:21
+2026-01-10 14:08:10 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0434.NEF: 2024-06-30 18:02:43
+2026-01-10 14:08:10 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0436.JPG: 2024-06-30 18:04:43
+2026-01-10 14:08:10 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0438.JPG: 2024-06-30 18:08:14
+2026-01-10 14:08:10 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0440.JPG: 2024-06-30 18:18:46
+2026-01-10 14:08:10 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0441.NEF: 2024-06-30 18:24:09
+2026-01-10 14:08:10 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0442.NEF: 2024-06-30 18:27:07
+2026-01-10 14:08:10 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0445.JPG: 2024-06-30 18:31:50
+2026-01-10 14:08:10 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0446.JPG: 2024-06-30 18:32:58
+2026-01-10 14:08:10 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0447.NEF: 2024-06-30 18:37:26
+2026-01-10 14:08:10 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0448.NEF: 2024-06-30 18:38:38
+2026-01-10 14:08:10 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0450.NEF: 2024-06-30 18:45:42
+2026-01-10 14:08:10 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0453.NEF: 2024-06-30 18:52:10
+2026-01-10 14:08:10 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0454.NEF: 2024-06-30 18:52:56
+2026-01-10 14:08:10 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0455.NEF: 2024-06-30 19:10:20
+2026-01-10 14:08:10 - media_renamer_app - INFO - File discovery completed: 24 files processed, 0 without metadata
+2026-01-10 14:08:25 - media_renamer_app - INFO - User initiated file discovery for folder: D:\Photos\Nef
+2026-01-10 14:08:25 - media_renamer_app - INFO - Starting file discovery and metadata extraction
+2026-01-10 14:08:25 - media_renamer_app - INFO - Starting file discovery in folder: D:\Photos\Nef
+2026-01-10 14:08:25 - media_renamer_app - INFO - Found 24 total files in D:\Photos\Nef
+2026-01-10 14:08:25 - media_renamer_app - INFO - Discovered 24 supported media files
+2026-01-10 14:08:25 - media_renamer_app - INFO - Discovered 24 files in D:\Photos\Nef
+2026-01-10 14:08:25 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0350.NEF: 2024-05-14 20:20:35
+2026-01-10 14:08:25 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0351.NEF: 2024-05-14 20:20:38
+2026-01-10 14:08:25 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0352.NEF: 2024-05-14 20:20:42
+2026-01-10 14:08:25 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0427.NEF: 2024-06-29 22:15:08
+2026-01-10 14:08:25 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0428.NEF: 2024-06-29 22:15:19
+2026-01-10 14:08:25 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0429.NEF: 2024-06-29 22:15:27
+2026-01-10 14:08:26 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0430.NEF: 2024-06-29 22:15:35
+2026-01-10 14:08:26 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0431.NEF: 2024-06-30 17:37:53
+2026-01-10 14:08:26 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0432.NEF: 2024-06-30 17:38:14
+2026-01-10 14:08:26 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0433.NEF: 2024-06-30 17:39:21
+2026-01-10 14:08:26 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0434.NEF: 2024-06-30 18:02:43
+2026-01-10 14:08:26 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0436.JPG: 2024-06-30 18:04:43
+2026-01-10 14:08:26 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0438.JPG: 2024-06-30 18:08:14
+2026-01-10 14:08:26 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0440.JPG: 2024-06-30 18:18:46
+2026-01-10 14:08:26 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0441.NEF: 2024-06-30 18:24:09
+2026-01-10 14:08:26 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0442.NEF: 2024-06-30 18:27:07
+2026-01-10 14:08:26 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0445.JPG: 2024-06-30 18:31:50
+2026-01-10 14:08:26 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0446.JPG: 2024-06-30 18:32:58
+2026-01-10 14:08:26 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0447.NEF: 2024-06-30 18:37:26
+2026-01-10 14:08:26 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0448.NEF: 2024-06-30 18:38:38
+2026-01-10 14:08:26 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0450.NEF: 2024-06-30 18:45:42
+2026-01-10 14:08:26 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0453.NEF: 2024-06-30 18:52:10
+2026-01-10 14:08:26 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0454.NEF: 2024-06-30 18:52:56
+2026-01-10 14:08:26 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\DSC_0455.NEF: 2024-06-30 19:10:20
+2026-01-10 14:08:26 - media_renamer_app - INFO - File discovery completed: 24 files processed, 0 without metadata
+2026-01-10 14:08:29 - media_renamer_app - INFO - User selected all files (24 files)
+2026-01-10 14:08:30 - media_renamer_app - INFO - User initiated file processing
+2026-01-10 14:08:30 - media_renamer_app - INFO - Processing 24 selected files
+2026-01-10 14:08:31 - media_renamer_app - INFO - User confirmed file processing, starting operation
+2026-01-10 14:08:31 - media_renamer_app - INFO - Starting file processing: 24 files selected
+2026-01-10 14:08:31 - media_renamer_app - INFO - Starting file processing: 24 files selected for renaming
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: session_start - {'total_files': 24, 'folder_path': 'D:\\Photos\\Nef'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: progress - {'current': 1, 'total': 24, 'filename': 'DSC_0350.NEF'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - File renamed successfully: DSC_0350.NEF ->  2024.05.14-20.20.35.001.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully renamed: DSC_0350.NEF ->  2024.05.14-20.20.35.001.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0350.NEF', 'new_name': ' 2024.05.14-20.20.35.001.NEF', 'folder_path': 'D:\\Photos\\Nef'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: progress - {'current': 2, 'total': 24, 'filename': 'DSC_0351.NEF'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - File renamed successfully: DSC_0351.NEF ->  2024.05.14-20.20.38.002.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully renamed: DSC_0351.NEF ->  2024.05.14-20.20.38.002.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0351.NEF', 'new_name': ' 2024.05.14-20.20.38.002.NEF', 'folder_path': 'D:\\Photos\\Nef'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: progress - {'current': 3, 'total': 24, 'filename': 'DSC_0352.NEF'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - File renamed successfully: DSC_0352.NEF ->  2024.05.14-20.20.42.003.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully renamed: DSC_0352.NEF ->  2024.05.14-20.20.42.003.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0352.NEF', 'new_name': ' 2024.05.14-20.20.42.003.NEF', 'folder_path': 'D:\\Photos\\Nef'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: progress - {'current': 4, 'total': 24, 'filename': 'DSC_0427.NEF'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - File renamed successfully: DSC_0427.NEF ->  2024.06.29-22.15.08.004.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully renamed: DSC_0427.NEF ->  2024.06.29-22.15.08.004.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0427.NEF', 'new_name': ' 2024.06.29-22.15.08.004.NEF', 'folder_path': 'D:\\Photos\\Nef'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: progress - {'current': 5, 'total': 24, 'filename': 'DSC_0428.NEF'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - File renamed successfully: DSC_0428.NEF ->  2024.06.29-22.15.19.005.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully renamed: DSC_0428.NEF ->  2024.06.29-22.15.19.005.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0428.NEF', 'new_name': ' 2024.06.29-22.15.19.005.NEF', 'folder_path': 'D:\\Photos\\Nef'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: progress - {'current': 6, 'total': 24, 'filename': 'DSC_0429.NEF'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - File renamed successfully: DSC_0429.NEF ->  2024.06.29-22.15.27.006.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully renamed: DSC_0429.NEF ->  2024.06.29-22.15.27.006.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0429.NEF', 'new_name': ' 2024.06.29-22.15.27.006.NEF', 'folder_path': 'D:\\Photos\\Nef'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: progress - {'current': 7, 'total': 24, 'filename': 'DSC_0430.NEF'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - File renamed successfully: DSC_0430.NEF ->  2024.06.29-22.15.35.007.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully renamed: DSC_0430.NEF ->  2024.06.29-22.15.35.007.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0430.NEF', 'new_name': ' 2024.06.29-22.15.35.007.NEF', 'folder_path': 'D:\\Photos\\Nef'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: progress - {'current': 8, 'total': 24, 'filename': 'DSC_0431.NEF'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - File renamed successfully: DSC_0431.NEF ->  2024.06.30-17.37.53.008.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully renamed: DSC_0431.NEF ->  2024.06.30-17.37.53.008.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0431.NEF', 'new_name': ' 2024.06.30-17.37.53.008.NEF', 'folder_path': 'D:\\Photos\\Nef'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: progress - {'current': 9, 'total': 24, 'filename': 'DSC_0432.NEF'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - File renamed successfully: DSC_0432.NEF ->  2024.06.30-17.38.14.009.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully renamed: DSC_0432.NEF ->  2024.06.30-17.38.14.009.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0432.NEF', 'new_name': ' 2024.06.30-17.38.14.009.NEF', 'folder_path': 'D:\\Photos\\Nef'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: progress - {'current': 10, 'total': 24, 'filename': 'DSC_0433.NEF'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - File renamed successfully: DSC_0433.NEF ->  2024.06.30-17.39.21.010.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully renamed: DSC_0433.NEF ->  2024.06.30-17.39.21.010.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0433.NEF', 'new_name': ' 2024.06.30-17.39.21.010.NEF', 'folder_path': 'D:\\Photos\\Nef'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: progress - {'current': 11, 'total': 24, 'filename': 'DSC_0434.NEF'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - File renamed successfully: DSC_0434.NEF ->  2024.06.30-18.02.43.011.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully renamed: DSC_0434.NEF ->  2024.06.30-18.02.43.011.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0434.NEF', 'new_name': ' 2024.06.30-18.02.43.011.NEF', 'folder_path': 'D:\\Photos\\Nef'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: progress - {'current': 12, 'total': 24, 'filename': 'DSC_0436.JPG'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - File renamed successfully: DSC_0436.JPG ->  2024.06.30-18.04.43.012.JPG
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully renamed: DSC_0436.JPG ->  2024.06.30-18.04.43.012.JPG
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0436.JPG', 'new_name': ' 2024.06.30-18.04.43.012.JPG', 'folder_path': 'D:\\Photos\\Nef'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: progress - {'current': 13, 'total': 24, 'filename': 'DSC_0438.JPG'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - File renamed successfully: DSC_0438.JPG ->  2024.06.30-18.08.14.013.JPG
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully renamed: DSC_0438.JPG ->  2024.06.30-18.08.14.013.JPG
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0438.JPG', 'new_name': ' 2024.06.30-18.08.14.013.JPG', 'folder_path': 'D:\\Photos\\Nef'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: progress - {'current': 14, 'total': 24, 'filename': 'DSC_0440.JPG'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - File renamed successfully: DSC_0440.JPG ->  2024.06.30-18.18.46.014.JPG
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully renamed: DSC_0440.JPG ->  2024.06.30-18.18.46.014.JPG
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0440.JPG', 'new_name': ' 2024.06.30-18.18.46.014.JPG', 'folder_path': 'D:\\Photos\\Nef'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: progress - {'current': 15, 'total': 24, 'filename': 'DSC_0441.NEF'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - File renamed successfully: DSC_0441.NEF ->  2024.06.30-18.24.09.015.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully renamed: DSC_0441.NEF ->  2024.06.30-18.24.09.015.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0441.NEF', 'new_name': ' 2024.06.30-18.24.09.015.NEF', 'folder_path': 'D:\\Photos\\Nef'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: progress - {'current': 16, 'total': 24, 'filename': 'DSC_0442.NEF'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - File renamed successfully: DSC_0442.NEF ->  2024.06.30-18.27.07.016.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully renamed: DSC_0442.NEF ->  2024.06.30-18.27.07.016.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0442.NEF', 'new_name': ' 2024.06.30-18.27.07.016.NEF', 'folder_path': 'D:\\Photos\\Nef'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: progress - {'current': 17, 'total': 24, 'filename': 'DSC_0445.JPG'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - File renamed successfully: DSC_0445.JPG ->  2024.06.30-18.31.50.017.JPG
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully renamed: DSC_0445.JPG ->  2024.06.30-18.31.50.017.JPG
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0445.JPG', 'new_name': ' 2024.06.30-18.31.50.017.JPG', 'folder_path': 'D:\\Photos\\Nef'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: progress - {'current': 18, 'total': 24, 'filename': 'DSC_0446.JPG'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - File renamed successfully: DSC_0446.JPG ->  2024.06.30-18.32.58.018.JPG
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully renamed: DSC_0446.JPG ->  2024.06.30-18.32.58.018.JPG
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0446.JPG', 'new_name': ' 2024.06.30-18.32.58.018.JPG', 'folder_path': 'D:\\Photos\\Nef'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: progress - {'current': 19, 'total': 24, 'filename': 'DSC_0447.NEF'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - File renamed successfully: DSC_0447.NEF ->  2024.06.30-18.37.26.019.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully renamed: DSC_0447.NEF ->  2024.06.30-18.37.26.019.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0447.NEF', 'new_name': ' 2024.06.30-18.37.26.019.NEF', 'folder_path': 'D:\\Photos\\Nef'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: progress - {'current': 20, 'total': 24, 'filename': 'DSC_0448.NEF'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - File renamed successfully: DSC_0448.NEF ->  2024.06.30-18.38.38.020.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully renamed: DSC_0448.NEF ->  2024.06.30-18.38.38.020.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0448.NEF', 'new_name': ' 2024.06.30-18.38.38.020.NEF', 'folder_path': 'D:\\Photos\\Nef'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: progress - {'current': 21, 'total': 24, 'filename': 'DSC_0450.NEF'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - File renamed successfully: DSC_0450.NEF ->  2024.06.30-18.45.42.021.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully renamed: DSC_0450.NEF ->  2024.06.30-18.45.42.021.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0450.NEF', 'new_name': ' 2024.06.30-18.45.42.021.NEF', 'folder_path': 'D:\\Photos\\Nef'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: progress - {'current': 22, 'total': 24, 'filename': 'DSC_0453.NEF'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - File renamed successfully: DSC_0453.NEF ->  2024.06.30-18.52.10.022.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully renamed: DSC_0453.NEF ->  2024.06.30-18.52.10.022.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0453.NEF', 'new_name': ' 2024.06.30-18.52.10.022.NEF', 'folder_path': 'D:\\Photos\\Nef'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: progress - {'current': 23, 'total': 24, 'filename': 'DSC_0454.NEF'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - File renamed successfully: DSC_0454.NEF ->  2024.06.30-18.52.56.023.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully renamed: DSC_0454.NEF ->  2024.06.30-18.52.56.023.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0454.NEF', 'new_name': ' 2024.06.30-18.52.56.023.NEF', 'folder_path': 'D:\\Photos\\Nef'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: progress - {'current': 24, 'total': 24, 'filename': 'DSC_0455.NEF'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - File renamed successfully: DSC_0455.NEF ->  2024.06.30-19.10.20.024.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully renamed: DSC_0455.NEF ->  2024.06.30-19.10.20.024.NEF
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: rename - {'old_name': 'DSC_0455.NEF', 'new_name': ' 2024.06.30-19.10.20.024.NEF', 'folder_path': 'D:\\Photos\\Nef'}
+2026-01-10 14:08:31 - media_renamer_app - INFO - Operation completed: session_complete - {'processed_count': 24, 'error_count': 0, 'skipped_count': 0, 'total_files': 24}
+2026-01-10 14:08:31 - media_renamer_app - INFO - File processing completed: 24 processed, 0 errors, 0 skipped
+2026-01-10 14:08:31 - media_renamer_app - INFO - Session log saved: C:\Kiro\MediaUtils\logs\session_20260110_140802.json
+2026-01-10 14:08:31 - media_renamer_app - INFO - File processing completed: 24 processed, 0 skipped, 0 errors
+2026-01-10 14:08:31 - media_renamer_app - INFO - User initiated file discovery for folder: D:\Photos\Nef
+2026-01-10 14:08:31 - media_renamer_app - INFO - Starting file discovery and metadata extraction
+2026-01-10 14:08:31 - media_renamer_app - INFO - Starting file discovery in folder: D:\Photos\Nef
+2026-01-10 14:08:31 - media_renamer_app - INFO - Found 24 total files in D:\Photos\Nef
+2026-01-10 14:08:31 - media_renamer_app - INFO - Discovered 24 supported media files
+2026-01-10 14:08:31 - media_renamer_app - INFO - Discovered 24 files in D:\Photos\Nef
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\ 2024.05.14-20.20.35.001.NEF: 2024-05-14 20:20:35
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\ 2024.05.14-20.20.38.002.NEF: 2024-05-14 20:20:38
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\ 2024.05.14-20.20.42.003.NEF: 2024-05-14 20:20:42
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\ 2024.06.29-22.15.08.004.NEF: 2024-06-29 22:15:08
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\ 2024.06.29-22.15.19.005.NEF: 2024-06-29 22:15:19
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\ 2024.06.29-22.15.27.006.NEF: 2024-06-29 22:15:27
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\ 2024.06.29-22.15.35.007.NEF: 2024-06-29 22:15:35
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\ 2024.06.30-17.37.53.008.NEF: 2024-06-30 17:37:53
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\ 2024.06.30-17.38.14.009.NEF: 2024-06-30 17:38:14
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\ 2024.06.30-17.39.21.010.NEF: 2024-06-30 17:39:21
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\ 2024.06.30-18.02.43.011.NEF: 2024-06-30 18:02:43
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\ 2024.06.30-18.04.43.012.JPG: 2024-06-30 18:04:43
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\ 2024.06.30-18.08.14.013.JPG: 2024-06-30 18:08:14
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\ 2024.06.30-18.18.46.014.JPG: 2024-06-30 18:18:46
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\ 2024.06.30-18.24.09.015.NEF: 2024-06-30 18:24:09
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\ 2024.06.30-18.27.07.016.NEF: 2024-06-30 18:27:07
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\ 2024.06.30-18.31.50.017.JPG: 2024-06-30 18:31:50
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\ 2024.06.30-18.32.58.018.JPG: 2024-06-30 18:32:58
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\ 2024.06.30-18.37.26.019.NEF: 2024-06-30 18:37:26
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\ 2024.06.30-18.38.38.020.NEF: 2024-06-30 18:38:38
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\ 2024.06.30-18.45.42.021.NEF: 2024-06-30 18:45:42
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\ 2024.06.30-18.52.10.022.NEF: 2024-06-30 18:52:10
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\ 2024.06.30-18.52.56.023.NEF: 2024-06-30 18:52:56
+2026-01-10 14:08:31 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\Nef\ 2024.06.30-19.10.20.024.NEF: 2024-06-30 19:10:20
+2026-01-10 14:08:31 - media_renamer_app - INFO - File discovery completed: 24 files processed, 0 without metadata
+2026-01-10 14:08:34 - media_renamer_app - INFO - User initiated application shutdown
+2026-01-10 14:08:34 - media_renamer_app - INFO - Settings saved on application close
+2026-01-10 14:08:34 - media_renamer_app - INFO - City cache saved successfully: 88 entries
+2026-01-10 14:08:34 - media_renamer_app - INFO - Session log saved: C:\Kiro\MediaUtils\logs\session_20260110_140802.json
+2026-01-10 14:08:34 - media_renamer_app - INFO - Final session log saved: C:\Kiro\MediaUtils\logs\session_20260110_140802.json
+2026-01-10 14:08:34 - media_renamer_app - INFO - Application shutdown completed
+2026-01-10 14:08:34 - media_renamer_app - INFO - Application completed successfully
+2026-01-10 14:08:34 - media_renamer_app - INFO - Application shutting down...
+2026-01-10 14:08:34 - media_renamer_app - INFO - City cache saved successfully
+2026-01-10 14:08:34 - media_renamer_app - INFO - Session log saved: C:\Kiro\MediaUtils\logs\session_20260110_140802.json
+2026-01-10 14:08:34 - media_renamer_app - INFO - Application shutdown complete

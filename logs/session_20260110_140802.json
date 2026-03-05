@@ -1,0 +1,357 @@
+{
+  "session_start": "2026-01-10T14:08:02.344076",
+  "session_end": "2026-01-10T14:08:34.292663",
+  "total_operations": 50,
+  "operations": [
+    {
+      "timestamp": "2026-01-10T14:08:31.456009",
+      "operation": "session_start",
+      "total_files": 24,
+      "folder_path": "D:\\Photos\\Nef"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.471741",
+      "operation": "progress",
+      "current": 1,
+      "total": 24,
+      "filename": "DSC_0350.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.471741",
+      "operation": "rename",
+      "old_name": "DSC_0350.NEF",
+      "new_name": " 2024.05.14-20.20.35.001.NEF",
+      "folder_path": "D:\\Photos\\Nef"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.471741",
+      "operation": "progress",
+      "current": 2,
+      "total": 24,
+      "filename": "DSC_0351.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.479883",
+      "operation": "rename",
+      "old_name": "DSC_0351.NEF",
+      "new_name": " 2024.05.14-20.20.38.002.NEF",
+      "folder_path": "D:\\Photos\\Nef"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.479883",
+      "operation": "progress",
+      "current": 3,
+      "total": 24,
+      "filename": "DSC_0352.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.479883",
+      "operation": "rename",
+      "old_name": "DSC_0352.NEF",
+      "new_name": " 2024.05.14-20.20.42.003.NEF",
+      "folder_path": "D:\\Photos\\Nef"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.479883",
+      "operation": "progress",
+      "current": 4,
+      "total": 24,
+      "filename": "DSC_0427.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.479883",
+      "operation": "rename",
+      "old_name": "DSC_0427.NEF",
+      "new_name": " 2024.06.29-22.15.08.004.NEF",
+      "folder_path": "D:\\Photos\\Nef"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.479883",
+      "operation": "progress",
+      "current": 5,
+      "total": 24,
+      "filename": "DSC_0428.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.479883",
+      "operation": "rename",
+      "old_name": "DSC_0428.NEF",
+      "new_name": " 2024.06.29-22.15.19.005.NEF",
+      "folder_path": "D:\\Photos\\Nef"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.479883",
+      "operation": "progress",
+      "current": 6,
+      "total": 24,
+      "filename": "DSC_0429.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.487581",
+      "operation": "rename",
+      "old_name": "DSC_0429.NEF",
+      "new_name": " 2024.06.29-22.15.27.006.NEF",
+      "folder_path": "D:\\Photos\\Nef"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.487581",
+      "operation": "progress",
+      "current": 7,
+      "total": 24,
+      "filename": "DSC_0430.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.487581",
+      "operation": "rename",
+      "old_name": "DSC_0430.NEF",
+      "new_name": " 2024.06.29-22.15.35.007.NEF",
+      "folder_path": "D:\\Photos\\Nef"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.487581",
+      "operation": "progress",
+      "current": 8,
+      "total": 24,
+      "filename": "DSC_0431.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.487581",
+      "operation": "rename",
+      "old_name": "DSC_0431.NEF",
+      "new_name": " 2024.06.30-17.37.53.008.NEF",
+      "folder_path": "D:\\Photos\\Nef"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.487581",
+      "operation": "progress",
+      "current": 9,
+      "total": 24,
+      "filename": "DSC_0432.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.487581",
+      "operation": "rename",
+      "old_name": "DSC_0432.NEF",
+      "new_name": " 2024.06.30-17.38.14.009.NEF",
+      "folder_path": "D:\\Photos\\Nef"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.487581",
+      "operation": "progress",
+      "current": 10,
+      "total": 24,
+      "filename": "DSC_0433.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.487581",
+      "operation": "rename",
+      "old_name": "DSC_0433.NEF",
+      "new_name": " 2024.06.30-17.39.21.010.NEF",
+      "folder_path": "D:\\Photos\\Nef"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.487581",
+      "operation": "progress",
+      "current": 11,
+      "total": 24,
+      "filename": "DSC_0434.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.487581",
+      "operation": "rename",
+      "old_name": "DSC_0434.NEF",
+      "new_name": " 2024.06.30-18.02.43.011.NEF",
+      "folder_path": "D:\\Photos\\Nef"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.503383",
+      "operation": "progress",
+      "current": 12,
+      "total": 24,
+      "filename": "DSC_0436.JPG"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.505471",
+      "operation": "rename",
+      "old_name": "DSC_0436.JPG",
+      "new_name": " 2024.06.30-18.04.43.012.JPG",
+      "folder_path": "D:\\Photos\\Nef"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.505471",
+      "operation": "progress",
+      "current": 13,
+      "total": 24,
+      "filename": "DSC_0438.JPG"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.505471",
+      "operation": "rename",
+      "old_name": "DSC_0438.JPG",
+      "new_name": " 2024.06.30-18.08.14.013.JPG",
+      "folder_path": "D:\\Photos\\Nef"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.505471",
+      "operation": "progress",
+      "current": 14,
+      "total": 24,
+      "filename": "DSC_0440.JPG"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.505471",
+      "operation": "rename",
+      "old_name": "DSC_0440.JPG",
+      "new_name": " 2024.06.30-18.18.46.014.JPG",
+      "folder_path": "D:\\Photos\\Nef"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.505471",
+      "operation": "progress",
+      "current": 15,
+      "total": 24,
+      "filename": "DSC_0441.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.505471",
+      "operation": "rename",
+      "old_name": "DSC_0441.NEF",
+      "new_name": " 2024.06.30-18.24.09.015.NEF",
+      "folder_path": "D:\\Photos\\Nef"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.505471",
+      "operation": "progress",
+      "current": 16,
+      "total": 24,
+      "filename": "DSC_0442.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.505471",
+      "operation": "rename",
+      "old_name": "DSC_0442.NEF",
+      "new_name": " 2024.06.30-18.27.07.016.NEF",
+      "folder_path": "D:\\Photos\\Nef"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.505471",
+      "operation": "progress",
+      "current": 17,
+      "total": 24,
+      "filename": "DSC_0445.JPG"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.505471",
+      "operation": "rename",
+      "old_name": "DSC_0445.JPG",
+      "new_name": " 2024.06.30-18.31.50.017.JPG",
+      "folder_path": "D:\\Photos\\Nef"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.514305",
+      "operation": "progress",
+      "current": 18,
+      "total": 24,
+      "filename": "DSC_0446.JPG"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.514305",
+      "operation": "rename",
+      "old_name": "DSC_0446.JPG",
+      "new_name": " 2024.06.30-18.32.58.018.JPG",
+      "folder_path": "D:\\Photos\\Nef"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.514305",
+      "operation": "progress",
+      "current": 19,
+      "total": 24,
+      "filename": "DSC_0447.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.514305",
+      "operation": "rename",
+      "old_name": "DSC_0447.NEF",
+      "new_name": " 2024.06.30-18.37.26.019.NEF",
+      "folder_path": "D:\\Photos\\Nef"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.514305",
+      "operation": "progress",
+      "current": 20,
+      "total": 24,
+      "filename": "DSC_0448.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.519139",
+      "operation": "rename",
+      "old_name": "DSC_0448.NEF",
+      "new_name": " 2024.06.30-18.38.38.020.NEF",
+      "folder_path": "D:\\Photos\\Nef"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.519139",
+      "operation": "progress",
+      "current": 21,
+      "total": 24,
+      "filename": "DSC_0450.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.519139",
+      "operation": "rename",
+      "old_name": "DSC_0450.NEF",
+      "new_name": " 2024.06.30-18.45.42.021.NEF",
+      "folder_path": "D:\\Photos\\Nef"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.519139",
+      "operation": "progress",
+      "current": 22,
+      "total": 24,
+      "filename": "DSC_0453.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.519139",
+      "operation": "rename",
+      "old_name": "DSC_0453.NEF",
+      "new_name": " 2024.06.30-18.52.10.022.NEF",
+      "folder_path": "D:\\Photos\\Nef"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.519139",
+      "operation": "progress",
+      "current": 23,
+      "total": 24,
+      "filename": "DSC_0454.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.519139",
+      "operation": "rename",
+      "old_name": "DSC_0454.NEF",
+      "new_name": " 2024.06.30-18.52.56.023.NEF",
+      "folder_path": "D:\\Photos\\Nef"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.519139",
+      "operation": "progress",
+      "current": 24,
+      "total": 24,
+      "filename": "DSC_0455.NEF"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.519139",
+      "operation": "rename",
+      "old_name": "DSC_0455.NEF",
+      "new_name": " 2024.06.30-19.10.20.024.NEF",
+      "folder_path": "D:\\Photos\\Nef"
+    },
+    {
+      "timestamp": "2026-01-10T14:08:31.519139",
+      "operation": "session_complete",
+      "processed_count": 24,
+      "error_count": 0,
+      "skipped_count": 0,
+      "total_files": 24
+    }
+  ]
+}

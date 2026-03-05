@@ -1,0 +1,57 @@
+2026-01-10 14:08:02 - === File Processing Session Started ===
+2026-01-10 14:08:31 - SESSION_START: {'total_files': 24, 'folder_path': 'D:\\Photos\\Nef'}
+2026-01-10 14:08:31 - PROGRESS: {'current': 1, 'total': 24, 'filename': 'DSC_0350.NEF'}
+2026-01-10 14:08:31 - RENAMED: 'DSC_0350.NEF' -> ' 2024.05.14-20.20.35.001.NEF'
+2026-01-10 14:08:31 - PROGRESS: {'current': 2, 'total': 24, 'filename': 'DSC_0351.NEF'}
+2026-01-10 14:08:31 - RENAMED: 'DSC_0351.NEF' -> ' 2024.05.14-20.20.38.002.NEF'
+2026-01-10 14:08:31 - PROGRESS: {'current': 3, 'total': 24, 'filename': 'DSC_0352.NEF'}
+2026-01-10 14:08:31 - RENAMED: 'DSC_0352.NEF' -> ' 2024.05.14-20.20.42.003.NEF'
+2026-01-10 14:08:31 - PROGRESS: {'current': 4, 'total': 24, 'filename': 'DSC_0427.NEF'}
+2026-01-10 14:08:31 - RENAMED: 'DSC_0427.NEF' -> ' 2024.06.29-22.15.08.004.NEF'
+2026-01-10 14:08:31 - PROGRESS: {'current': 5, 'total': 24, 'filename': 'DSC_0428.NEF'}
+2026-01-10 14:08:31 - RENAMED: 'DSC_0428.NEF' -> ' 2024.06.29-22.15.19.005.NEF'
+2026-01-10 14:08:31 - PROGRESS: {'current': 6, 'total': 24, 'filename': 'DSC_0429.NEF'}
+2026-01-10 14:08:31 - RENAMED: 'DSC_0429.NEF' -> ' 2024.06.29-22.15.27.006.NEF'
+2026-01-10 14:08:31 - PROGRESS: {'current': 7, 'total': 24, 'filename': 'DSC_0430.NEF'}
+2026-01-10 14:08:31 - RENAMED: 'DSC_0430.NEF' -> ' 2024.06.29-22.15.35.007.NEF'
+2026-01-10 14:08:31 - PROGRESS: {'current': 8, 'total': 24, 'filename': 'DSC_0431.NEF'}
+2026-01-10 14:08:31 - RENAMED: 'DSC_0431.NEF' -> ' 2024.06.30-17.37.53.008.NEF'
+2026-01-10 14:08:31 - PROGRESS: {'current': 9, 'total': 24, 'filename': 'DSC_0432.NEF'}
+2026-01-10 14:08:31 - RENAMED: 'DSC_0432.NEF' -> ' 2024.06.30-17.38.14.009.NEF'
+2026-01-10 14:08:31 - PROGRESS: {'current': 10, 'total': 24, 'filename': 'DSC_0433.NEF'}
+2026-01-10 14:08:31 - RENAMED: 'DSC_0433.NEF' -> ' 2024.06.30-17.39.21.010.NEF'
+2026-01-10 14:08:31 - PROGRESS: {'current': 11, 'total': 24, 'filename': 'DSC_0434.NEF'}
+2026-01-10 14:08:31 - RENAMED: 'DSC_0434.NEF' -> ' 2024.06.30-18.02.43.011.NEF'
+2026-01-10 14:08:31 - PROGRESS: {'current': 12, 'total': 24, 'filename': 'DSC_0436.JPG'}
+2026-01-10 14:08:31 - RENAMED: 'DSC_0436.JPG' -> ' 2024.06.30-18.04.43.012.JPG'
+2026-01-10 14:08:31 - PROGRESS: {'current': 13, 'total': 24, 'filename': 'DSC_0438.JPG'}
+2026-01-10 14:08:31 - RENAMED: 'DSC_0438.JPG' -> ' 2024.06.30-18.08.14.013.JPG'
+2026-01-10 14:08:31 - PROGRESS: {'current': 14, 'total': 24, 'filename': 'DSC_0440.JPG'}
+2026-01-10 14:08:31 - RENAMED: 'DSC_0440.JPG' -> ' 2024.06.30-18.18.46.014.JPG'
+2026-01-10 14:08:31 - PROGRESS: {'current': 15, 'total': 24, 'filename': 'DSC_0441.NEF'}
+2026-01-10 14:08:31 - RENAMED: 'DSC_0441.NEF' -> ' 2024.06.30-18.24.09.015.NEF'
+2026-01-10 14:08:31 - PROGRESS: {'current': 16, 'total': 24, 'filename': 'DSC_0442.NEF'}
+2026-01-10 14:08:31 - RENAMED: 'DSC_0442.NEF' -> ' 2024.06.30-18.27.07.016.NEF'
+2026-01-10 14:08:31 - PROGRESS: {'current': 17, 'total': 24, 'filename': 'DSC_0445.JPG'}
+2026-01-10 14:08:31 - RENAMED: 'DSC_0445.JPG' -> ' 2024.06.30-18.31.50.017.JPG'
+2026-01-10 14:08:31 - PROGRESS: {'current': 18, 'total': 24, 'filename': 'DSC_0446.JPG'}
+2026-01-10 14:08:31 - RENAMED: 'DSC_0446.JPG' -> ' 2024.06.30-18.32.58.018.JPG'
+2026-01-10 14:08:31 - PROGRESS: {'current': 19, 'total': 24, 'filename': 'DSC_0447.NEF'}
+2026-01-10 14:08:31 - RENAMED: 'DSC_0447.NEF' -> ' 2024.06.30-18.37.26.019.NEF'
+2026-01-10 14:08:31 - PROGRESS: {'current': 20, 'total': 24, 'filename': 'DSC_0448.NEF'}
+2026-01-10 14:08:31 - RENAMED: 'DSC_0448.NEF' -> ' 2024.06.30-18.38.38.020.NEF'
+2026-01-10 14:08:31 - PROGRESS: {'current': 21, 'total': 24, 'filename': 'DSC_0450.NEF'}
+2026-01-10 14:08:31 - RENAMED: 'DSC_0450.NEF' -> ' 2024.06.30-18.45.42.021.NEF'
+2026-01-10 14:08:31 - PROGRESS: {'current': 22, 'total': 24, 'filename': 'DSC_0453.NEF'}
+2026-01-10 14:08:31 - RENAMED: 'DSC_0453.NEF' -> ' 2024.06.30-18.52.10.022.NEF'
+2026-01-10 14:08:31 - PROGRESS: {'current': 23, 'total': 24, 'filename': 'DSC_0454.NEF'}
+2026-01-10 14:08:31 - RENAMED: 'DSC_0454.NEF' -> ' 2024.06.30-18.52.56.023.NEF'
+2026-01-10 14:08:31 - PROGRESS: {'current': 24, 'total': 24, 'filename': 'DSC_0455.NEF'}
+2026-01-10 14:08:31 - RENAMED: 'DSC_0455.NEF' -> ' 2024.06.30-19.10.20.024.NEF'
+2026-01-10 14:08:31 - SESSION_COMPLETE: {'processed_count': 24, 'error_count': 0, 'skipped_count': 0, 'total_files': 24}
+2026-01-10 14:08:31 - === File Processing Session Completed ===
+2026-01-10 14:08:31 - Total operations: 50
+2026-01-10 14:08:34 - === File Processing Session Completed ===
+2026-01-10 14:08:34 - Total operations: 50
+2026-01-10 14:08:34 - === File Processing Session Completed ===
+2026-01-10 14:08:34 - Total operations: 50
