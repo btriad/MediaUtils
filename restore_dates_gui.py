@@ -25,15 +25,6 @@ from exif_date_restorer import (
     ScanResult,
 )
 
-# Row colours per status.
-_STATUS_COLOR = {
-    FileStatus.READY: "#1a7f37",     # green
-    FileStatus.HAS_EXIF: "#6e7781",  # gray
-    FileStatus.NO_DATE: "#bf8700",   # amber
-    FileStatus.ERROR: "#cf222e",     # red
-}
-
-
 def _setup_logger() -> logging.Logger:
     """Create a logger that writes to logs/restore_dates_<timestamp>.log."""
     logger = logging.getLogger("exif_date_restorer.gui")
@@ -77,6 +68,11 @@ class RestoreDatesGUI:
     def _build_ui(self):
         pad = {"padx": 8, "pady": 6}
 
+        # Force black text in the results table (and its headings).
+        style = ttk.Style()
+        style.configure("Treeview", foreground="black")
+        style.configure("Treeview.Heading", foreground="black")
+
         # --- Folder selection row ---
         top = ttk.Frame(self.root)
         top.pack(fill="x", **pad)
@@ -119,9 +115,6 @@ class RestoreDatesGUI:
         vsb.pack(side="right", fill="y")
         hsb.pack(side="bottom", fill="x")
         self.tree.pack(side="left", fill="both", expand=True)
-
-        for status, color in _STATUS_COLOR.items():
-            self.tree.tag_configure(status.value, foreground=color)
 
         # --- Summary counters ---
         self.summary_var = tk.StringVar(value="")
@@ -191,10 +184,7 @@ class RestoreDatesGUI:
             new_date = (r.parsed_datetime.strftime("%Y:%m:%d %H:%M:%S")
                         if r.status == FileStatus.READY and r.parsed_datetime
                         else "—")  # em dash when nothing will be written
-            self.tree.insert(
-                "", "end",
-                values=(r.path, new_date, r.message),
-                tags=(r.status.value,))
+            self.tree.insert("", "end", values=(r.path, new_date, r.message))
 
         self.summary_var.set(
             f"Without EXIF (shown): {len(shown)}   |   "
