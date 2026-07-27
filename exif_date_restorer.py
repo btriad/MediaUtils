@@ -6,18 +6,23 @@ metadata, this reads the capture date/time embedded in a filename and writes it
 into the JPEG EXIF metadata - but STRICTLY ONLY for files that do not already
 contain EXIF date information (existing dates are never overwritten).
 
-Date format in the filename (always): YYYY.MM.DD
-    1999.12.05  ->  5 December 1999
+Recognised filename date formats (a leading prefix like "_" or "IMG_" is fine,
+and anything after the date/time is ignored):
 
-Optional time, right after the date:
-    1999.12.05-21.00   (dash separator, HH.MM)
-    1999.12.05.21.00   (dot separator, HH.MM)
-    1999.12.05         (no time -> 00.00 assumed)
-Optional seconds are also accepted (HH.MM.SS), matching the original renamer
-output (e.g. 2024.03.14-11.56.10.001.Athens.jpg).
+    Dotted:   YYYY.MM.DD  with optional time after a dash or dot
+        1999.12.05                  -> 5 Dec 1999, 00:00:00
+        1999.12.05-21.00            -> 5 Dec 1999, 21:00
+        1999.12.05.21.00            -> 5 Dec 1999, 21:00 (dot separator)
+        1999.7.22                   -> single-digit month/day allowed
+        _2022.10.28-12.02.27.018    -> leading "_" and trailing junk ignored
+        2024.03.14-11.56.10.001...  -> original renamer output (HH.MM.SS)
 
-Anything after the date/time part of the name is ignored, so names produced by
-the original renamer are parsed correctly.
+    Compact:  YYYYMMDD  with optional HHMMSS
+        20150629_004718             -> 29 Jun 2015, 00:47:18
+        20151110                    -> 10 Nov 2015, 00:00:00
+        IMG_20211224_120000         -> 24 Dec 2021, 12:00:00
+
+A month or day of "00" is treated as "01".
 
 Three EXIF tags are written (JPEG only):
     DateTimeOriginal   ExifIFD 0x9003
@@ -36,13 +41,24 @@ from typing import Optional, List, Callable
 import piexif
 
 
-# Date at the START of the filename, with an optional time component.
-# Month/day/time fields accept 1 or 2 digits (e.g. 1999.7.22 == 1999.07.22).
-# Separator between date and time can be a dash or a dot.
-_DATE_RE = re.compile(
-    r'^(?P<year>\d{4})\.(?P<month>\d{1,2})\.(?P<day>\d{1,2})'
+# Supported filename date formats. Each is searched anywhere in the base name
+# (not only at the start), so a leading prefix such as "_" or "IMG_" is fine.
+# A leading (?<!\d) prevents matching inside a longer run of digits.
+#
+# Dotted:  YYYY.MM.DD  optionally followed by  -HH.MM(.SS)  or  .HH.MM(.SS)
+#          Month/day/time accept 1 or 2 digits (1999.7.22 == 1999.07.22).
+#          e.g. 1999.12.05 / 1999.12.05-21.00 / _2022.10.28-12.02.27.018.JPG
+_DOTTED_RE = re.compile(
+    r'(?<!\d)(?P<year>\d{4})\.(?P<month>\d{1,2})\.(?P<day>\d{1,2})'
     r'(?:[-.](?P<hour>\d{1,2})\.(?P<minute>\d{1,2})(?:\.(?P<second>\d{1,2}))?)?'
 )
+# Compact: YYYYMMDD optionally followed by a separator and HHMMSS.
+#          e.g. 20150629_004718 / 20151110_164552 / IMG_20211224120000
+_COMPACT_RE = re.compile(
+    r'(?<!\d)(?P<year>\d{4})(?P<month>\d{2})(?P<day>\d{2})'
+    r'(?:[_\-. ]?(?P<hour>\d{2})(?P<minute>\d{2})(?P<second>\d{2}))?(?!\d)'
+)
+_DATE_PATTERNS = (_DOTTED_RE, _COMPACT_RE)
 
 # Only JPEG for now (piexif writes JPEG/TIFF reliably; scope is JPEG).
 JPEG_EXTENSIONS = {'.jpg', '.jpeg'}
@@ -69,23 +85,8 @@ class ScanResult:
     message: str = ""
 
 
-def parse_datetime_from_filename(filename: str) -> Optional[datetime]:
-    """
-    Parse a capture datetime from the beginning of a filename.
-
-    Args:
-        filename: File name or full path. Only the base name is inspected.
-
-    Returns:
-        A datetime (missing time defaults to 00:00:00) or None if the name does
-        not start with a valid YYYY.MM.DD date.
-    """
-    name = os.path.basename(filename)
-    match = _DATE_RE.match(name)
-    if not match:
-        return None
-
-    parts = match.groupdict()
+def _build_datetime(parts: dict) -> Optional[datetime]:
+    """Build a datetime from regex groups, or None if the values are invalid."""
     # A month or day of "00" is treated as "01"
     # (e.g. 1999.00.00 -> 1999.01.01, 1999.01.00 -> 1999.01.01).
     month = int(parts['month']) or 1
@@ -95,13 +96,41 @@ def parse_datetime_from_filename(filename: str) -> Optional[datetime]:
             year=int(parts['year']),
             month=month,
             day=day,
-            hour=int(parts['hour']) if parts['hour'] else 0,
-            minute=int(parts['minute']) if parts['minute'] else 0,
-            second=int(parts['second']) if parts['second'] else 0,
+            hour=int(parts['hour']) if parts.get('hour') else 0,
+            minute=int(parts['minute']) if parts.get('minute') else 0,
+            second=int(parts['second']) if parts.get('second') else 0,
         )
     except ValueError:
         # Out-of-range values (month 13, day 32, hour 25, Feb 30, ...)
         return None
+
+
+def parse_datetime_from_filename(filename: str) -> Optional[datetime]:
+    """
+    Parse a capture datetime embedded in a filename.
+
+    Recognised formats (a leading prefix such as "_" or "IMG_" is allowed):
+        1999.12.05                dotted date, no time -> 00:00:00
+        1999.12.05-21.00          dotted date + time (dash or dot separator)
+        1999.7.22                 single-digit month/day
+        _2022.10.28-12.02.27.018  dotted with leading underscore / trailing junk
+        20150629_004718           compact YYYYMMDD_HHMMSS
+        20151110                  compact date only
+
+    Args:
+        filename: File name or full path. Only the base name is inspected.
+
+    Returns:
+        A datetime (missing time defaults to 00:00:00) or None if no valid date
+        is found in the name.
+    """
+    name = os.path.basename(filename)
+    for pattern in _DATE_PATTERNS:
+        for match in pattern.finditer(name):
+            dt = _build_datetime(match.groupdict())
+            if dt is not None:
+                return dt
+    return None
 
 
 def has_exif_date(filepath: str) -> bool:
@@ -170,7 +199,7 @@ def _scan_file(filepath: str, logger: Optional[logging.Logger] = None) -> ScanRe
 
     if dt is None:
         return ScanResult(filepath, fname, FileStatus.NO_DATE,
-                          message="No YYYY.MM.DD date in filename")
+                          message="No date found in filename")
 
     try:
         if has_exif_date(filepath):
