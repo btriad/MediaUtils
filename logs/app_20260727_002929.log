@@ -1,0 +1,19 @@
+2026-07-27 00:29:29 - media_renamer_app - INFO - Application logging initialized - Log file: C:\Kiro\MediaUtils\logs\app_20260727_002929.log
+2026-07-27 00:29:29 - media_renamer_app - INFO - Session logging initialized - Session file: C:\Kiro\MediaUtils\logs\session_20260727_002929.log
+2026-07-27 00:29:29 - media_renamer_app - INFO - Application starting - Media File Renamer v2.0.0
+2026-07-27 00:29:29 - media_renamer_app - INFO - City cache loaded with 112 entries
+2026-07-27 00:29:29 - media_renamer_app - INFO - All application systems initialized successfully
+2026-07-27 00:29:29 - media_renamer_app - INFO - GUI application starting up with integrated systems
+2026-07-27 00:29:29 - media_renamer_app - INFO - MediaProcessor initialized with caching and error recovery
+2026-07-27 00:29:29 - media_renamer_app - INFO - FileOperations initialized with 25 supported extensions
+2026-07-27 00:29:30 - media_renamer_app - INFO - GUI window initialized with geometry: 1x1+173+88
+2026-07-27 00:29:30 - media_renamer_app - INFO - GUI application initialization completed
+2026-07-27 00:29:30 - media_renamer_app - INFO - Starting GUI application...
+2026-07-27 00:29:37 - media_renamer_app - INFO - User initiated application shutdown
+2026-07-27 00:29:37 - media_renamer_app - INFO - Settings saved on application close
+2026-07-27 00:29:37 - media_renamer_app - INFO - City cache saved successfully: 112 entries
+2026-07-27 00:29:37 - media_renamer_app - INFO - Application shutdown completed
+2026-07-27 00:29:37 - media_renamer_app - INFO - Application completed successfully
+2026-07-27 00:29:37 - media_renamer_app - INFO - Application shutting down...
+2026-07-27 00:29:37 - media_renamer_app - INFO - City cache saved successfully
+2026-07-27 00:29:37 - media_renamer_app - INFO - Application shutdown complete

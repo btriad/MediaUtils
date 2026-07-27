@@ -1,0 +1,42 @@
+2026-06-07 12:11:59 - media_renamer_app - INFO - Application logging initialized - Log file: C:\Kiro\MediaUtils\logs\app_20260607_121159.log
+2026-06-07 12:11:59 - media_renamer_app - INFO - Session logging initialized - Session file: C:\Kiro\MediaUtils\logs\session_20260607_121159.log
+2026-06-07 12:11:59 - media_renamer_app - INFO - Application starting - Media File Renamer v2.0.0
+2026-06-07 12:11:59 - media_renamer_app - INFO - City cache loaded with 112 entries
+2026-06-07 12:11:59 - media_renamer_app - INFO - All application systems initialized successfully
+2026-06-07 12:11:59 - media_renamer_app - INFO - GUI application starting up with integrated systems
+2026-06-07 12:11:59 - media_renamer_app - INFO - MediaProcessor initialized with caching and error recovery
+2026-06-07 12:11:59 - media_renamer_app - INFO - FileOperations initialized with 25 supported extensions
+2026-06-07 12:12:00 - media_renamer_app - INFO - GUI window initialized with geometry: 1x1+173+88
+2026-06-07 12:12:00 - media_renamer_app - INFO - GUI application initialization completed
+2026-06-07 12:12:00 - media_renamer_app - INFO - Starting GUI application...
+2026-06-07 12:12:09 - media_renamer_app - INFO - User initiated file discovery for folder: D:\Photos\iphone
+2026-06-07 12:12:09 - media_renamer_app - INFO - Starting file discovery and metadata extraction
+2026-06-07 12:12:09 - media_renamer_app - INFO - Starting file discovery in folder: D:\Photos\iphone
+2026-06-07 12:12:09 - media_renamer_app - INFO - Found 953 total files in D:\Photos\iphone
+2026-06-07 12:12:09 - media_renamer_app - INFO - Discovered 953 supported media files
+2026-06-07 12:12:09 - media_renamer_app - INFO - Discovered 953 files in D:\Photos\iphone
+2026-06-07 12:12:10 - media_renamer_app - INFO - ffprobe is available
+2026-06-07 12:13:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\iphone\2025.03.03-14.01.22.114.AgiaParaskevi.jpg: 2025-03-03 14:01:22
+2026-06-07 12:13:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\iphone\2025.04.03-18.55.14.138.Prague.jpg: 2025-04-03 18:55:14
+2026-06-07 12:13:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\iphone\2025.04.04-10.01.13.206.Prague.jpeg: 2025-04-04 10:01:13
+2026-06-07 12:13:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\iphone\2025.04.04-12.46.20.227.Prague.jpeg: 2025-04-04 12:46:20
+2026-06-07 12:13:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\iphone\2025.04.04-17.58.04.238.Prague.jpeg: 2025-04-04 17:58:04
+2026-06-07 12:13:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\iphone\2025.04.04-17.58.26.239.Prague.jpeg: 2025-04-04 17:58:26
+2026-06-07 12:13:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\iphone\2025.04.05-10.05.00.290.Prague.jpeg: 2025-04-05 10:05:00
+2026-06-07 12:13:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\iphone\2025.04.05-10.05.42.291.Prague.jpeg: 2025-04-05 10:05:42
+2026-06-07 12:13:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\iphone\2025.04.05-10.06.31.292.Prague.jpeg: 2025-04-05 10:06:31
+2026-06-07 12:13:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\iphone\2025.04.07-20.12.21.385.Prague.jpg: 2025-04-07 20:12:21
+2026-06-07 12:13:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\iphone\2025.04.13-01.25.19.386.Agia Paraskevi.jpg: 2025-04-13 01:25:19
+2026-06-07 12:13:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\iphone\2025.09.01-19.06.04.443.NeoPsychiko.jpg: 2025-09-01 19:06:04
+2026-06-07 12:13:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\iphone\2025.09.06-16.02.36.446.LavreotikiMunicipalUnit.jpg: 2025-09-06 16:02:36
+2026-06-07 12:13:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\iphone\2025.09.06-16.02.57.447.LavreotikiMunicipalUnit.jpg: 2025-09-06 16:02:57
+2026-06-07 12:13:13 - media_renamer_app - INFO - Successfully extracted date from image D:\Photos\iphone\2025.09.08-20.23.29.448.LavreotikiMunicipalUnit.jpg: 2025-09-08 20:23:29
+2026-06-07 12:13:14 - media_renamer_app - INFO - File discovery completed: 953 files processed, 938 without metadata
+2026-06-07 12:17:29 - media_renamer_app - INFO - User initiated application shutdown
+2026-06-07 12:17:29 - media_renamer_app - INFO - Settings saved on application close
+2026-06-07 12:17:29 - media_renamer_app - INFO - City cache saved successfully: 112 entries
+2026-06-07 12:17:29 - media_renamer_app - INFO - Application shutdown completed
+2026-06-07 12:17:30 - media_renamer_app - INFO - Application completed successfully
+2026-06-07 12:17:30 - media_renamer_app - INFO - Application shutting down...
+2026-06-07 12:17:30 - media_renamer_app - INFO - City cache saved successfully
+2026-06-07 12:17:30 - media_renamer_app - INFO - Application shutdown complete

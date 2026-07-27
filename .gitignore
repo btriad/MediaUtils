@@ -1,6 +1,11 @@
 # Ignore large binary files
 ffprobe.exe
 
+# Large test media (exceeds GitHub 100MB limit)
+test.MOV
+*.MOV
+*.mov
+
 # Ignore settings and temporary files
 settings.json
 

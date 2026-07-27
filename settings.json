@@ -1,7 +1,7 @@
 {
   "folder_path": "C:/Users/btria/Pictures/1111",
   "filename_format": " %Y.%m.%d-%H.%M.%S.{increment:03d}.{city}.{ext}",
-  "window_geometry": "1200x600+371+210",
+  "window_geometry": "1200x600+173+88",
   "last_used_formats": [
     " %Y.%m.%d-%H.%M.%S.{increment:03d}.{city}.{ext}",
     "%Y.%m.%d-%H.%M.%S.{increment:03d}.{city}.{ext}",

@@ -614,5 +614,173 @@
     "city": "Karpenisi",
     "timestamp": "2026-01-10T13:02:36.031748",
     "source": "nominatim_api"
+  },
+  "38.287022,23.678500": {
+    "latitude": 38.28702222222222,
+    "longitude": 23.6785,
+    "city": "Oropos",
+    "timestamp": "2026-03-15T19:42:01.098030",
+    "source": "nominatim_api"
+  },
+  "37.566456,22.798817": {
+    "latitude": 37.56645555555555,
+    "longitude": 22.798816666666667,
+    "city": "Nafplio",
+    "timestamp": "2026-03-15T19:42:01.622500",
+    "source": "nominatim_api"
+  },
+  "38.005389,23.787433": {
+    "latitude": 38.00538888888889,
+    "longitude": 23.787433333333336,
+    "city": "Neo Psychiko",
+    "timestamp": "2026-03-15T19:42:01.897849",
+    "source": "nominatim_api"
+  },
+  "37.666247,23.994933": {
+    "latitude": 37.66624722222222,
+    "longitude": 23.994933333333336,
+    "city": "Lavreotiki Municipal Unit",
+    "timestamp": "2026-03-15T19:42:02.224167",
+    "source": "nominatim_api"
+  },
+  "37.969214,23.740928": {
+    "latitude": 37.96921388888889,
+    "longitude": 23.740927777777777,
+    "city": "Athens",
+    "timestamp": "2026-03-15T19:42:03.071928",
+    "source": "nominatim_api"
+  },
+  "38.006053,23.797606": {
+    "latitude": 38.006052777777775,
+    "longitude": 23.797605555555556,
+    "city": "Cholargos",
+    "timestamp": "2026-03-15T19:42:03.542368",
+    "source": "nominatim_api"
+  },
+  "38.002044,23.785319": {
+    "latitude": 38.002044444444444,
+    "longitude": 23.785319444444447,
+    "city": "Neo Psychiko",
+    "timestamp": "2026-03-15T19:42:03.870797",
+    "source": "nominatim_api"
+  },
+  "37.981814,23.716703": {
+    "latitude": 37.981813888888894,
+    "longitude": 23.716702777777776,
+    "city": "Athens",
+    "timestamp": "2026-03-15T19:42:04.124281",
+    "source": "nominatim_api"
+  },
+  "38.027058,23.847031": {
+    "latitude": 38.02705833333333,
+    "longitude": 23.847030555555556,
+    "city": "Gerakas Municipal Unit",
+    "timestamp": "2026-03-15T19:42:04.923230",
+    "source": "nominatim_api"
+  },
+  "37.969528,23.730481": {
+    "latitude": 37.96952777777778,
+    "longitude": 23.730480555555555,
+    "city": "Athens",
+    "timestamp": "2026-03-15T19:42:05.692667",
+    "source": "nominatim_api"
+  },
+  "38.233372,23.894731": {
+    "latitude": 38.23337222222222,
+    "longitude": 23.894730555555554,
+    "city": "Oropos",
+    "timestamp": "2026-03-15T19:42:06.198101",
+    "source": "nominatim_api"
+  },
+  "38.232769,23.896322": {
+    "latitude": 38.23276944444444,
+    "longitude": 23.89632222222222,
+    "city": "Oropos",
+    "timestamp": "2026-03-15T19:42:06.630787",
+    "source": "nominatim_api"
+  },
+  "38.233658,23.893397": {
+    "latitude": 38.23365833333333,
+    "longitude": 23.893397222222223,
+    "city": "Oropos",
+    "timestamp": "2026-03-15T19:42:07.568255",
+    "source": "nominatim_api"
+  },
+  "38.012611,23.819822": {
+    "latitude": 38.01261111111111,
+    "longitude": 23.81982222222222,
+    "city": "Agia Paraskevi",
+    "timestamp": "2026-03-15T19:42:08.064693",
+    "source": "nominatim_api"
+  },
+  "38.037789,23.784781": {
+    "latitude": 38.03778888888889,
+    "longitude": 23.784780555555557,
+    "city": "Marousi",
+    "timestamp": "2026-03-15T19:42:08.523108",
+    "source": "nominatim_api"
+  },
+  "38.011089,23.793944": {
+    "latitude": 38.01108888888889,
+    "longitude": 23.793944444444445,
+    "city": "Chalandri",
+    "timestamp": "2026-03-15T19:42:08.957756",
+    "source": "nominatim_api"
+  },
+  "37.573997,22.237628": {
+    "latitude": 37.573997222222225,
+    "longitude": 22.237627777777778,
+    "city": "Municipa Unit of Falanthos",
+    "timestamp": "2026-03-15T19:42:09.257977",
+    "source": "nominatim_api"
+  },
+  "37.554150,22.080689": {
+    "latitude": 37.55415,
+    "longitude": 22.08068888888889,
+    "city": "Trikolonoi",
+    "timestamp": "2026-03-15T19:42:09.576323",
+    "source": "nominatim_api"
+  },
+  "37.553964,22.259064": {
+    "latitude": 37.55396388888889,
+    "longitude": 22.25906388888889,
+    "city": "Municipa Unit of Falanthos",
+    "timestamp": "2026-03-15T19:42:09.897690",
+    "source": "nominatim_api"
+  },
+  "37.574506,22.240186": {
+    "latitude": 37.57450555555556,
+    "longitude": 22.24018611111111,
+    "city": "Municipa Unit of Falanthos",
+    "timestamp": "2026-03-15T19:42:10.153982",
+    "source": "nominatim_api"
+  },
+  "37.979400,23.884100": {
+    "latitude": 37.9794,
+    "longitude": 23.8841,
+    "city": "Paiania Municipal Unit",
+    "timestamp": "2026-03-16T21:21:01.837741",
+    "source": "nominatim_api"
+  },
+  "37.976800,23.735800": {
+    "latitude": 37.9768,
+    "longitude": 23.7358,
+    "city": "Athens",
+    "timestamp": "2026-03-16T21:21:07.934135",
+    "source": "nominatim_api"
+  },
+  "37.972300,23.734000": {
+    "latitude": 37.9723,
+    "longitude": 23.734,
+    "city": "Athens",
+    "timestamp": "2026-03-16T21:21:14.615475",
+    "source": "nominatim_api"
+  },
+  "38.011600,23.820700": {
+    "latitude": 38.0116,
+    "longitude": 23.8207,
+    "city": "Agia Paraskevi",
+    "timestamp": "2026-03-16T21:21:17.252017",
+    "source": "nominatim_api"
   }
 }
