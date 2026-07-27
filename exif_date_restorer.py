@@ -37,10 +37,11 @@ import piexif
 
 
 # Date at the START of the filename, with an optional time component.
+# Month/day/time fields accept 1 or 2 digits (e.g. 1999.7.22 == 1999.07.22).
 # Separator between date and time can be a dash or a dot.
 _DATE_RE = re.compile(
-    r'^(?P<year>\d{4})\.(?P<month>\d{2})\.(?P<day>\d{2})'
-    r'(?:[-.](?P<hour>\d{2})\.(?P<minute>\d{2})(?:\.(?P<second>\d{2}))?)?'
+    r'^(?P<year>\d{4})\.(?P<month>\d{1,2})\.(?P<day>\d{1,2})'
+    r'(?:[-.](?P<hour>\d{1,2})\.(?P<minute>\d{1,2})(?:\.(?P<second>\d{1,2}))?)?'
 )
 
 # Only JPEG for now (piexif writes JPEG/TIFF reliably; scope is JPEG).
