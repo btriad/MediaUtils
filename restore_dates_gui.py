@@ -104,18 +104,21 @@ class RestoreDatesGUI:
 
         columns = ("filename", "newdate", "note")
         self.tree = ttk.Treeview(table_frame, columns=columns, show="headings")
-        self.tree.heading("filename", text="File")
+        self.tree.heading("filename", text="File path")
         self.tree.heading("newdate", text="New EXIF date")
         self.tree.heading("note", text="Note")
-        self.tree.column("filename", width=430, anchor="w")
-        self.tree.column("newdate", width=180, anchor="w")
-        self.tree.column("note", width=230, anchor="w")
+        self.tree.column("filename", width=460, anchor="w")
+        self.tree.column("newdate", width=170, anchor="w")
+        self.tree.column("note", width=220, anchor="w")
 
         vsb = ttk.Scrollbar(table_frame, orient="vertical",
                             command=self.tree.yview)
-        self.tree.configure(yscrollcommand=vsb.set)
-        self.tree.pack(side="left", fill="both", expand=True)
+        hsb = ttk.Scrollbar(table_frame, orient="horizontal",
+                            command=self.tree.xview)
+        self.tree.configure(yscrollcommand=vsb.set, xscrollcommand=hsb.set)
         vsb.pack(side="right", fill="y")
+        hsb.pack(side="bottom", fill="x")
+        self.tree.pack(side="left", fill="both", expand=True)
 
         for status, color in _STATUS_COLOR.items():
             self.tree.tag_configure(status.value, foreground=color)
@@ -190,7 +193,7 @@ class RestoreDatesGUI:
                         else "—")  # em dash when nothing will be written
             self.tree.insert(
                 "", "end",
-                values=(r.filename, new_date, r.message),
+                values=(r.path, new_date, r.message),
                 tags=(r.status.value,))
 
         self.summary_var.set(
