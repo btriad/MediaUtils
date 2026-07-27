@@ -85,11 +85,15 @@ def parse_datetime_from_filename(filename: str) -> Optional[datetime]:
         return None
 
     parts = match.groupdict()
+    # A month or day of "00" is treated as "01"
+    # (e.g. 1999.00.00 -> 1999.01.01, 1999.01.00 -> 1999.01.01).
+    month = int(parts['month']) or 1
+    day = int(parts['day']) or 1
     try:
         return datetime(
             year=int(parts['year']),
-            month=int(parts['month']),
-            day=int(parts['day']),
+            month=month,
+            day=day,
             hour=int(parts['hour']) if parts['hour'] else 0,
             minute=int(parts['minute']) if parts['minute'] else 0,
             second=int(parts['second']) if parts['second'] else 0,
