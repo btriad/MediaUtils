@@ -40,6 +40,8 @@ from typing import Optional, List, Callable
 
 import piexif
 
+import video_date_restorer as vid
+
 
 # Supported filename date formats. Each is searched anywhere in the base name
 # (not only at the start), so a leading prefix such as "_" or "IMG_" is fine.
@@ -192,6 +194,28 @@ def write_exif_date(filepath: str, dt: datetime) -> None:
     piexif.insert(exif_bytes, filepath)
 
 
+def _has_date_metadata(filepath: str, logger: Optional[logging.Logger] = None) -> bool:
+    """Dispatch the "already has a date" check by file type (image vs video)."""
+    ext = os.path.splitext(filepath.lower())[1]
+    if ext in JPEG_EXTENSIONS:
+        return has_exif_date(filepath)
+    if ext in vid.BMFF_VIDEO_EXTENSIONS:
+        return vid.has_video_date(filepath, logger)
+    return False
+
+
+def _write_date_metadata(filepath: str, dt: datetime,
+                         logger: Optional[logging.Logger] = None) -> None:
+    """Dispatch the metadata write by file type (image vs video)."""
+    ext = os.path.splitext(filepath.lower())[1]
+    if ext in JPEG_EXTENSIONS:
+        write_exif_date(filepath, dt)
+    elif ext in vid.BMFF_VIDEO_EXTENSIONS:
+        vid.write_video_date(filepath, dt, logger)
+    else:
+        raise ValueError(f"Unsupported file type: {ext}")
+
+
 def _scan_file(filepath: str, logger: Optional[logging.Logger] = None) -> ScanResult:
     """Examine a single file and classify what should happen to it."""
     fname = os.path.basename(filepath)
@@ -202,12 +226,12 @@ def _scan_file(filepath: str, logger: Optional[logging.Logger] = None) -> ScanRe
                           message="No date found in filename")
 
     try:
-        if has_exif_date(filepath):
+        if _has_date_metadata(filepath, logger):
             return ScanResult(filepath, fname, FileStatus.HAS_EXIF, dt,
-                              "Already has EXIF date - skipped")
+                              "Already has date metadata - skipped")
     except Exception as e:  # pragma: no cover - defensive
         if logger:
-            logger.error(f"Error reading EXIF from {filepath}: {e}")
+            logger.error(f"Error reading metadata from {filepath}: {e}")
         return ScanResult(filepath, fname, FileStatus.ERROR, dt, f"Read error: {e}")
 
     return ScanResult(filepath, fname, FileStatus.READY, dt,
@@ -215,31 +239,39 @@ def _scan_file(filepath: str, logger: Optional[logging.Logger] = None) -> ScanRe
 
 
 def scan_folder(folder: str, recursive: bool = True,
+                include_videos: bool = False,
                 logger: Optional[logging.Logger] = None) -> List[ScanResult]:
     """
-    Scan a folder for JPEG files and classify each one.
+    Scan a folder for supported files and classify each one.
 
     Args:
         folder: Root folder to scan.
         recursive: If True, descend into all sub-folders (and their sub-folders).
+        include_videos: If True, also scan in-place-editable videos
+            (MP4/MOV/M4V/3GP).
         logger: Optional logger.
 
     Returns:
-        List of ScanResult, one per JPEG found.
+        List of ScanResult, one per matching file found.
     """
+    extensions = set(JPEG_EXTENSIONS)
+    if include_videos:
+        extensions |= vid.BMFF_VIDEO_EXTENSIONS
+
     results: List[ScanResult] = []
 
     for root, _dirs, files in os.walk(folder):
         for fname in files:
             ext = os.path.splitext(fname)[1].lower()
-            if ext not in JPEG_EXTENSIONS:
+            if ext not in extensions:
                 continue
             results.append(_scan_file(os.path.join(root, fname), logger))
         if not recursive:
             break
 
     if logger:
-        logger.info(f"Scanned {folder} (recursive={recursive}): {len(results)} JPEG files")
+        logger.info(f"Scanned {folder} (recursive={recursive}, "
+                    f"videos={include_videos}): {len(results)} files")
     return results
 
 
@@ -264,16 +296,16 @@ def apply_dates(results: List[ScanResult],
 
     for i, r in enumerate(ready, start=1):
         try:
-            write_exif_date(r.path, r.parsed_datetime)
+            _write_date_metadata(r.path, r.parsed_datetime, logger)
             written += 1
             if logger:
-                logger.info(f"Wrote EXIF date {r.parsed_datetime} -> {r.filename}")
+                logger.info(f"Wrote date {r.parsed_datetime} -> {r.filename}")
         except Exception as e:
             errors += 1
             r.status = FileStatus.ERROR
             r.message = f"Write error: {e}"
             if logger:
-                logger.error(f"Failed to write EXIF to {r.path}: {e}")
+                logger.error(f"Failed to write date to {r.path}: {e}")
         if progress:
             progress(i, total, r)
 

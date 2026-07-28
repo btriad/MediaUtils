@@ -60,6 +60,7 @@ class RestoreDatesGUI:
 
         self.folder_var = tk.StringVar()
         self.recursive_var = tk.BooleanVar(value=True)
+        self.videos_var = tk.BooleanVar(value=False)
         self.status_var = tk.StringVar(value="Select a folder and press Scan.")
 
         self._build_ui()
@@ -88,9 +89,11 @@ class RestoreDatesGUI:
 
         ttk.Checkbutton(opts, text="Include sub-folders (recursive)",
                         variable=self.recursive_var).pack(side="left")
+        ttk.Checkbutton(opts, text="Include videos (MP4/MOV)",
+                        variable=self.videos_var).pack(side="left", padx=(12, 0))
         self.scan_btn = ttk.Button(opts, text="Scan", command=self._scan)
         self.scan_btn.pack(side="left", padx=6)
-        self.apply_btn = ttk.Button(opts, text="Write EXIF dates",
+        self.apply_btn = ttk.Button(opts, text="Write dates",
                                     command=self._apply, state="disabled")
         self.apply_btn.pack(side="left")
 
@@ -153,10 +156,12 @@ class RestoreDatesGUI:
         self.tree.delete(*self.tree.get_children())
         self.summary_var.set("")
         recursive = self.recursive_var.get()
+        include_videos = self.videos_var.get()
 
         def worker():
             try:
                 results = scan_folder(folder, recursive=recursive,
+                                      include_videos=include_videos,
                                       logger=self.logger)
             except Exception as e:
                 self.logger.error(f"Scan failed: {e}")
@@ -187,11 +192,11 @@ class RestoreDatesGUI:
             self.tree.insert("", "end", values=(r.path, new_date, r.message))
 
         self.summary_var.set(
-            f"Without EXIF (shown): {len(shown)}   |   "
+            f"Without date (shown): {len(shown)}   |   "
             f"Ready to convert: {counts[FileStatus.READY]}   |   "
             f"No date in name: {counts[FileStatus.NO_DATE]}   |   "
             f"Errors: {counts[FileStatus.ERROR]}   |   "
-            f"Already have EXIF (hidden): {counts[FileStatus.HAS_EXIF]}")
+            f"Already have date (hidden): {counts[FileStatus.HAS_EXIF]}")
 
         ready = counts[FileStatus.READY]
         self._set_busy(False)
@@ -206,14 +211,15 @@ class RestoreDatesGUI:
             return
         if not messagebox.askyesno(
                 "Confirm",
-                f"Write EXIF dates into {len(ready)} JPEG file(s)?\n\n"
-                "Only files without an existing EXIF date are affected. "
-                "This modifies the files in place."):
+                f"Write dates into {len(ready)} file(s)?\n\n"
+                "Only files without an existing date are affected. Images edit "
+                "the EXIF tags and videos edit the mvhd creation_time - both in "
+                "place, without re-encoding."):
             return
 
         self._set_busy(True)
         self.progress.configure(maximum=len(ready), value=0)
-        self.status_var.set("Writing EXIF dates...")
+        self.status_var.set("Writing dates...")
 
         def on_progress(i, total, r):
             self.root.after(0, lambda: self._on_progress(i, total))
@@ -227,7 +233,7 @@ class RestoreDatesGUI:
 
     def _on_progress(self, i, total):
         self.progress.configure(value=i)
-        self.status_var.set(f"Writing EXIF dates... {i}/{total}")
+        self.status_var.set(f"Writing dates... {i}/{total}")
 
     def _apply_done(self, written: int, errors: int):
         self._set_busy(False)
