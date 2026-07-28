@@ -178,13 +178,24 @@ class RestoreDatesGUI:
 
     def _scan_done(self, results: list[ScanResult]):
         self.results = results
+        self._render_results()
+        ready = sum(1 for r in results if r.status == FileStatus.READY)
+        self._set_busy(False)
+        self.apply_btn.configure(state="normal" if ready else "disabled")
+        self.status_var.set(
+            f"Scan complete. {ready} file(s) ready to convert."
+            if ready else "Scan complete. Nothing to convert.")
+
+    def _render_results(self):
+        """(Re)populate the table and summary from self.results."""
+        self.tree.delete(*self.tree.get_children())
         counts = {s: 0 for s in FileStatus}
-        for r in results:
+        for r in self.results:
             counts[r.status] += 1
 
-        # Show ONLY files that do not already have an EXIF date.
-        # Files with existing EXIF are hidden (and never modified).
-        shown = [r for r in results if r.status != FileStatus.HAS_EXIF]
+        # Show every file except those that already have a date (hidden).
+        # Errors stay visible so failures are not silently lost.
+        shown = [r for r in self.results if r.status != FileStatus.HAS_EXIF]
         for r in shown:
             new_date = (r.parsed_datetime.strftime("%Y:%m:%d %H:%M:%S")
                         if r.status == FileStatus.READY and r.parsed_datetime
@@ -197,13 +208,6 @@ class RestoreDatesGUI:
             f"No date in name: {counts[FileStatus.NO_DATE]}   |   "
             f"Errors: {counts[FileStatus.ERROR]}   |   "
             f"Already have date (hidden): {counts[FileStatus.HAS_EXIF]}")
-
-        ready = counts[FileStatus.READY]
-        self._set_busy(False)
-        self.apply_btn.configure(state="normal" if ready else "disabled")
-        self.status_var.set(
-            f"Scan complete. {ready} file(s) ready to convert."
-            if ready else "Scan complete. Nothing to convert.")
 
     def _apply(self):
         ready = [r for r in self.results if r.status == FileStatus.READY]
@@ -238,11 +242,17 @@ class RestoreDatesGUI:
     def _apply_done(self, written: int, errors: int):
         self._set_busy(False)
         self.status_var.set(f"Done. {written} written, {errors} error(s).")
+        # Re-render from the same results so any write errors stay visible
+        # in the Note column (successful files drop out as "already have date").
+        self._render_results()
+        self.apply_btn.configure(
+            state="normal" if any(r.status == FileStatus.READY
+                                  for r in self.results) else "disabled")
         messagebox.showinfo(
             "Finished",
-            f"EXIF dates written: {written}\nErrors: {errors}")
-        # Re-scan so the table reflects the new EXIF state.
-        self._scan()
+            f"Dates written: {written}\nErrors: {errors}"
+            + ("\n\nSee the Note column for error details."
+               if errors else ""))
 
     def run(self):
         self.root.mainloop()

@@ -300,6 +300,10 @@ def apply_dates(results: List[ScanResult],
         try:
             _write_date_metadata(r.path, r.parsed_datetime, logger)
             written += 1
+            # Mark as done so it drops out of the "to write" list and is not
+            # re-processed; HAS_EXIF ("already has date") is now accurate.
+            r.status = FileStatus.HAS_EXIF
+            r.message = "Date written"
             if logger:
                 logger.info(f"Wrote date {r.parsed_datetime} -> {r.filename}")
         except Exception as e:
