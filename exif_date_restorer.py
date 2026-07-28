@@ -47,11 +47,13 @@ import video_date_restorer as vid
 # (not only at the start), so a leading prefix such as "_" or "IMG_" is fine.
 # A leading (?<!\d) prevents matching inside a longer run of digits.
 #
-# Dotted:  YYYY.MM.DD  optionally followed by  -HH.MM(.SS)  or  .HH.MM(.SS)
+# Dotted:  YYYY.MM[.DD]  optionally followed by  -HH.MM(.SS)  or  .HH.MM(.SS)
 #          Month/day/time accept 1 or 2 digits (1999.7.22 == 1999.07.22).
-#          e.g. 1999.12.05 / 1999.12.05-21.00 / _2022.10.28-12.02.27.018.JPG
+#          The day is optional; when missing it defaults to the 1st of the month
+#          (2008.05 -> 2008-05-01, 2009.03and04 -> 2009-03-01).
+#          e.g. 1999.12.05 / 1999.12.05-21.00 / 2008.05 / _2022.10.28-12.02.27...
 _DOTTED_RE = re.compile(
-    r'(?<!\d)(?P<year>\d{4})\.(?P<month>\d{1,2})\.(?P<day>\d{1,2})'
+    r'(?<!\d)(?P<year>\d{4})\.(?P<month>\d{1,2})(?:\.(?P<day>\d{1,2}))?'
     r'(?:[-.](?P<hour>\d{1,2})\.(?P<minute>\d{1,2})(?:\.(?P<second>\d{1,2}))?)?'
 )
 # Compact: YYYYMMDD optionally followed by a separator and HHMMSS.
@@ -89,10 +91,10 @@ class ScanResult:
 
 def _build_datetime(parts: dict) -> Optional[datetime]:
     """Build a datetime from regex groups, or None if the values are invalid."""
-    # A month or day of "00" is treated as "01"
-    # (e.g. 1999.00.00 -> 1999.01.01, 1999.01.00 -> 1999.01.01).
+    # A missing day, or a month/day of "00", defaults to the 1st
+    # (1999.00.00 -> 1999.01.01, 2008.05 -> 2008.05.01).
     month = int(parts['month']) or 1
-    day = int(parts['day']) or 1
+    day = (int(parts['day']) or 1) if parts.get('day') else 1
     try:
         return datetime(
             year=int(parts['year']),
