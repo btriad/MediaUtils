@@ -24,6 +24,7 @@ from exif_date_restorer import (
     FileStatus,
     ScanResult,
 )
+import livephoto_detector as livephoto
 
 def _setup_logger() -> logging.Logger:
     """Create a logger that writes to logs/restore_dates_<timestamp>.log."""
@@ -96,6 +97,9 @@ class RestoreDatesGUI:
         self.apply_btn = ttk.Button(opts, text="Write dates",
                                     command=self._apply, state="disabled")
         self.apply_btn.pack(side="left")
+        self.livephoto_btn = ttk.Button(opts, text="Find Live Photos",
+                                        command=self._find_livephotos)
+        self.livephoto_btn.pack(side="left", padx=(12, 0))
 
         # --- Results table ---
         table_frame = ttk.Frame(self.root)
@@ -140,6 +144,7 @@ class RestoreDatesGUI:
         self._busy = busy
         state = "disabled" if busy else "normal"
         self.scan_btn.configure(state=state)
+        self.livephoto_btn.configure(state=state)
         # Apply is only enabled when there are files ready to write.
         if busy:
             self.apply_btn.configure(state="disabled")
@@ -253,6 +258,86 @@ class RestoreDatesGUI:
             f"Dates written: {written}\nErrors: {errors}"
             + ("\n\nSee the Note column for error details."
                if errors else ""))
+
+    # -------------------------------------------------- Live Photo organiser
+    def _find_livephotos(self):
+        folder = self.folder_var.get().strip()
+        if not folder or not os.path.isdir(folder):
+            messagebox.showerror("Invalid folder",
+                                 "Please select an existing folder.")
+            return
+
+        self._set_busy(True)
+        self.status_var.set("Scanning for Live Photo videos...")
+        self.tree.delete(*self.tree.get_children())
+        self.summary_var.set("")
+        recursive = self.recursive_var.get()
+
+        def worker():
+            try:
+                paths = livephoto.scan_live_photos(
+                    folder, recursive=recursive, logger=self.logger)
+            except Exception as e:
+                self.logger.error(f"Live Photo scan failed: {e}")
+                self.root.after(0, lambda: self._scan_failed(e))
+                return
+            self.root.after(0, lambda: self._livephotos_found(paths))
+
+        threading.Thread(target=worker, daemon=True).start()
+
+    def _livephotos_found(self, paths: list):
+        self._set_busy(False)
+        for p in paths:
+            target = os.path.join(os.path.dirname(p), livephoto.LIVEPHOTO_DIR)
+            self.tree.insert("", "end",
+                             values=(p, "Live Photo", f"→ {target}"))
+        self.summary_var.set(f"Live Photo videos found: {len(paths)}")
+        self.status_var.set(f"Found {len(paths)} Live Photo video(s).")
+
+        if not paths:
+            messagebox.showinfo("Live Photos",
+                                "No Live Photo videos found.")
+            return
+
+        if not messagebox.askyesno(
+                "Confirm move",
+                f"Move {len(paths)} Live Photo video(s) into a 'livephoto' "
+                "sub-folder inside each file's own folder?"):
+            self.status_var.set("Move cancelled.")
+            return
+
+        self._move_livephotos(paths)
+
+    def _move_livephotos(self, paths: list):
+        self._set_busy(True)
+        self.progress.configure(maximum=len(paths), value=0)
+        self.status_var.set("Moving Live Photo videos...")
+
+        def on_progress(i, total, src):
+            self.root.after(0, lambda: self._on_progress(i, total))
+
+        def worker():
+            moved, errors, results = livephoto.move_live_photos(
+                paths, logger=self.logger, progress=on_progress)
+            self.root.after(
+                0, lambda: self._livephotos_moved(moved, errors, results))
+
+        threading.Thread(target=worker, daemon=True).start()
+
+    def _livephotos_moved(self, moved: int, errors: int, results: list):
+        self._set_busy(False)
+        self.tree.delete(*self.tree.get_children())
+        for src, dst, err in results:
+            note = f"Moved → {dst}" if dst else f"Error: {err}"
+            self.tree.insert("", "end",
+                             values=(src, "Moved" if dst else "Error", note))
+        self.summary_var.set(
+            f"Live Photos moved: {moved}   |   Errors: {errors}")
+        self.status_var.set(f"Done. {moved} moved, {errors} error(s).")
+        messagebox.showinfo(
+            "Finished",
+            f"Live Photos moved: {moved}\nErrors: {errors}"
+            + ("\n\nSee the Note column for error details." if errors else ""))
 
     def run(self):
         self.root.mainloop()
