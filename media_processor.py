@@ -13,6 +13,7 @@ import os
 import json
 import subprocess
 import time
+import threading
 import logging
 from datetime import datetime
 from typing import Tuple, Optional, Dict, Any
@@ -35,6 +36,72 @@ except ImportError:
     EXIFREAD_AVAILABLE = False
     print("Note: exifread not available. RAW file metadata extraction may be limited.")
     print("Install with: pip install exifread")
+
+
+class _NominatimRateLimiter:
+    """
+    Process-wide throttle for the OpenStreetMap Nominatim API.
+
+    Nominatim's usage policy allows at most one request per second, so requests
+    are spaced MIN_INTERVAL apart. After an HTTP 429 the next request is held
+    back 30s (60s if it happens again, or the server's Retry-After). If the
+    server keeps refusing, lookups pause for BLOCK_SECONDS so a scan is not
+    stalled indefinitely - affected files get no city (it is not cached) and
+    are retried on the next run.
+    """
+    MIN_INTERVAL = 1.1      # seconds between requests (policy: max 1/s)
+    FIRST_429_WAIT = 30     # back-off after the first 429
+    REPEAT_429_WAIT = 60    # back-off after further consecutive 429s
+    MAX_RETRY_AFTER = 120   # cap for a server-supplied Retry-After
+    TRIP_AFTER = 3          # consecutive 429s before pausing lookups
+    BLOCK_SECONDS = 300     # how long lookups stay paused once tripped
+
+    def __init__(self):
+        self._lock = threading.Lock()
+        self._next_allowed = 0.0
+        self._consecutive_429 = 0
+        self._blocked_until = 0.0
+
+    def is_blocked(self) -> bool:
+        return time.monotonic() < self._blocked_until
+
+    def wait_turn(self, wait_callback=None) -> None:
+        """Block until the caller may send its request (reserves the slot)."""
+        with self._lock:
+            start = max(time.monotonic(), self._next_allowed)
+            self._next_allowed = start + self.MIN_INTERVAL
+        while True:
+            remaining = start - time.monotonic()
+            if remaining <= 0:
+                return
+            if wait_callback:
+                wait_callback(remaining)
+            time.sleep(min(0.1, remaining))
+
+    def note_success(self) -> None:
+        with self._lock:
+            self._consecutive_429 = 0
+
+    def note_rate_limited(self, retry_after: Optional[int] = None) -> int:
+        """Record an HTTP 429; return how many seconds lookups are held back."""
+        with self._lock:
+            self._consecutive_429 += 1
+            if self._consecutive_429 >= self.TRIP_AFTER:
+                self._consecutive_429 = 0
+                self._blocked_until = time.monotonic() + self.BLOCK_SECONDS
+                return self.BLOCK_SECONDS
+            if retry_after is not None and retry_after > 0:
+                wait = min(retry_after, self.MAX_RETRY_AFTER)
+            elif self._consecutive_429 == 1:
+                wait = self.FIRST_429_WAIT
+            else:
+                wait = self.REPEAT_429_WAIT
+            self._next_allowed = max(self._next_allowed, time.monotonic() + wait)
+            return wait
+
+
+# Shared by every MediaProcessor: the limit applies per client, not per object.
+_nominatim_limiter = _NominatimRateLimiter()
 
 
 class MediaProcessor:
@@ -86,6 +153,9 @@ class MediaProcessor:
         self.max_retries = 3
         self.base_delay = 1.0  # Base delay for exponential backoff
         self.network_timeout = 10  # Timeout for network requests
+        # Optional callable(remaining_seconds), invoked while a city lookup waits
+        # on the OpenStreetMap rate limit so a GUI can show a countdown.
+        self.network_wait_callback = None
         
         # Log initialization
         self.logger.info("MediaProcessor initialized with caching and error recovery")
@@ -554,6 +624,13 @@ class MediaProcessor:
             self.logger.debug(f"Cache hit for coordinates {lat}, {lon}: {cached_city}")
             return cached_city
         
+        # Lookups are paused after repeated HTTP 429s: skip instead of stalling.
+        # Nothing is cached, so the city is retried on the next run.
+        if _nominatim_limiter.is_blocked():
+            self.logger.warning(
+                f"City lookup skipped for {lat}, {lon}: OpenStreetMap rate-limit pause")
+            return ""
+
         # Cache miss - try API with retry logic
         self.logger.debug(f"Cache miss for coordinates {lat}, {lon}, trying API")
         city = self._get_city_from_coords_with_retry(lat, lon)
@@ -589,10 +666,25 @@ class MediaProcessor:
             req = urllib.request.Request(url)
             req.add_header('User-Agent', 'MediaRenamer/1.0')
             
-            with urllib.request.urlopen(req, timeout=self.network_timeout) as response:
-                response_data = response.read().decode()
-                self.logger.debug(f"API response received: {len(response_data)} characters")
-                data = json.loads(response_data)
+            # Respect Nominatim's usage policy (max 1 request/second) and any
+            # back-off imposed after an HTTP 429.
+            if _nominatim_limiter.is_blocked():
+                raise RuntimeError("OpenStreetMap lookups paused after repeated rate limiting")
+            _nominatim_limiter.wait_turn(self.network_wait_callback)
+            try:
+                with urllib.request.urlopen(req, timeout=self.network_timeout) as response:
+                    response_data = response.read().decode()
+                    self.logger.debug(f"API response received: {len(response_data)} characters")
+                    data = json.loads(response_data)
+            except urllib.error.HTTPError as e:
+                if e.code == 429:
+                    retry_after = e.headers.get('Retry-After') if e.headers else None
+                    wait = _nominatim_limiter.note_rate_limited(
+                        int(retry_after) if retry_after and retry_after.isdigit() else None)
+                    self.logger.warning(
+                        f"OpenStreetMap rate limit (HTTP 429): holding city lookups for {wait}s")
+                raise
+            _nominatim_limiter.note_success()
             
             # Validate API response
             if not isinstance(data, dict):

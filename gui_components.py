@@ -68,6 +68,9 @@ class MediaRenamerGUI:
             error_recovery=self.error_recovery
         )
         
+        # Show a countdown while city lookups wait on the OpenStreetMap limit
+        self.media_processor.network_wait_callback = self._on_network_wait
+
         # Combine supported extensions from media processor
         supported_extensions = (self.media_processor.image_extensions | 
                               self.media_processor.video_extensions)
@@ -1074,6 +1077,16 @@ class MediaRenamerGUI:
             self.status_label.config(text=message)
         self.root.update_idletasks()
     
+    def _on_network_wait(self, remaining: float):
+        """
+        Keep the status bar informative while city lookups wait on the
+        OpenStreetMap rate limit (called repeatedly by MediaProcessor).
+        """
+        if remaining > 2:  # don't flicker for the normal ~1s spacing
+            self.status_label.config(
+                text=f"OpenStreetMap rate limit - waiting {int(remaining)}s...")
+            self.root.update_idletasks()
+
     def update_logging_status(self, status: str):
         """
         Update the logging status indicator while preserving cache status.
