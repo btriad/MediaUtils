@@ -1,7 +1,16 @@
-# Media File Renamer
+# MediaUtils
 Built with Kiro IDE - Advanced development environment for enhanced productivity
 
-An application for automatically renaming media files (photos and videos) based on their metadata, including date/time, GPS location, and city information.
+Two desktop tools for organising photo and video collections:
+
+| Tool | Run | What it does |
+|------|-----|--------------|
+| **Media File Renamer** | `python main.py` | Renames photos and videos from their metadata: date/time, GPS location and city |
+| **EXIF Date Restorer** | `python restore_dates_gui.py` | The reverse: reads the date from the filename and writes it into files that have no date. Also gathers iPhone Live Photo clips |
+
+Both share the same dependencies and are installed once (see Quick Start). The EXIF Date Restorer has its own section further down.
+
+The **Media File Renamer** automatically renames media files (photos and videos) based on their metadata, including date/time, GPS location, and city information.
 
 ## 🌟 Features
 
@@ -47,16 +56,21 @@ P1000123.RW2
 ### Installation
 
 1. **Clone or download** this repository
-2. **Install Python dependencies:**
+2. **Create a virtual environment and install the dependencies:**
    ```bash
-   pip install pillow pillow-heif exifread
+   python -m venv .venv
+   .venv\Scripts\activate          # Windows
+   source .venv/bin/activate       # Linux / macOS
+   pip install -r requirements.txt exifread
    ```
-3. **Run the application:**
+   On Ubuntu/Debian install venv and Tk first with `sudo apt install python3-venv python3-tk`, and create the environment with `python3 -m venv .venv`. Activate the environment again in every new terminal.
+3. **Run a tool:**
    ```bash
-   python main.py
+   python main.py               # Media File Renamer
+   python restore_dates_gui.py  # EXIF Date Restorer
    ```
 
-### Basic Usage
+### Basic Usage (Media File Renamer)
 
 1. **Select Folder** - Choose folder containing your media files
 2. **Configure Format** - Customize filename pattern (optional)
@@ -102,6 +116,7 @@ P1000123.RW2
 - Intelligent caching for performance
 - Offline cache persistence
 - Fallback to coordinates if city lookup fails
+- Respects OpenStreetMap's usage policy: at most one request per second, automatic back-off after `HTTP 429`, and a 5-minute pause if the server keeps refusing. Files whose city could not be found are retried on the next run
 
 ### Supported GPS Formats
 - Decimal degrees
@@ -199,27 +214,85 @@ python demo_raw_support.py              # RAW format demo
 python test_real_xmp.py                 # XMP testing
 ```
 
+## 🗓️ EXIF Date Restorer
+
+The reverse of the renamer: it reads the date **from the filename** and writes it **into the file's metadata**, but only for files that have no date yet. Useful for scanned photos, old videos and exports that sort wrongly in Google Photos, Windows Photos or iOS because they carry no capture date.
+
+```bash
+python restore_dates_gui.py
+```
+
+### How to use
+1. **Folder**: choose the folder to scan
+2. **Include sub-folders (recursive)**: also scan every sub-folder, at any depth
+3. **Include videos (MP4/MOV)**: handle videos as well as JPEG
+4. **Scan**: the table lists only files **without** a date, with the full path, the date that will be written and a note. Files that already have a date are hidden and counted in the summary line
+5. **Write dates**: asks for confirmation, then writes. Failures stay in the table with the reason in the **Note** column
+
+### Filename formats
+The date can appear anywhere in the name. Prefixes such as `_` or `IMG_`, and anything after the date, are ignored.
+
+| Filename | Date written |
+|----------|--------------|
+| `1999.12.05.jpg` | 1999-12-05 00:00:00 |
+| `1999.12.05-21.00.jpg` or `1999.12.05.21.00.jpg` | 1999-12-05 21:00:00 |
+| `1999.7.22.jpg` | 1999-07-22 00:00:00 |
+| `2008.05.mp4` | 2008-05-01 00:00:00 |
+| `1999.00.00.jpg` | 1999-01-01 00:00:00 |
+| `_2022.10.28-12.02.27.018.JPG` | 2022-10-28 12:02:27 |
+| `20150629_004718.jpg` | 2015-06-29 00:47:18 |
+| `IMG_20211224_120000.jpg` | 2021-12-24 12:00:00 |
+
+Rules:
+- No time means 00:00:00
+- No day means the 1st of the month
+- A month or day of `00` becomes `01`
+- Year and month are required
+- Invalid values (month 13, 30 February) are rejected
+
+### What is written
+| Type | Where | How |
+|------|-------|-----|
+| **JPEG** (`.jpg`, `.jpeg`) | EXIF `DateTimeOriginal`, `CreateDate`, `ModifyDate` | Only the EXIF block is rewritten. The image data is not re-encoded |
+| **Video** (`.mp4`, `.mov`, `.m4v`, `.3gp`) | `creation_time` in the `mvhd`, `tkhd` and `mdhd` headers | Fixed-size fields are patched in place. Streams are untouched, the file size does not change, and ffmpeg is not needed |
+
+- **Existing dates are never overwritten.** A JPEG counts as dated if it has any of the three EXIF date tags. A video counts as dated if its QuickTime headers already carry a creation time.
+- **Not supported, by design:** DNG and other RAW formats (their EXIF is left alone), and MKV/AVI/WMV/FLV/WebM (these cannot be edited without rebuilding the file).
+- QuickTime stores video times as UTC. The filename time is written unchanged, so some players show it shifted by your time-zone offset.
+
+### 📱 Live Photo organiser
+The **Find Live Photos** button finds the `.mov` clips that belong to iPhone Live Photos. After confirmation it moves each clip into a `livephoto` sub-folder **inside the clip's own folder**.
+
+- Detection uses the QuickTime key `com.apple.quicktime.content.identifier`, which is what `exiftool -ContentIdentifier` reports. It is read directly from the file, so exiftool is not required
+- Follows the **Include sub-folders** option
+- Never overwrites: a name clash becomes `IMG_0001 (1).MOV`
+- Safe to re-run: clips already inside a `livephoto` folder are skipped
+- Only the `.mov` clips move; the still photos stay where they are
+
+Logs are written to `logs/restore_dates_<timestamp>.log`.
+
 ## 📋 Requirements
 
 ### System Requirements
-- **Python 3.7+**
-- **Windows 10/11** (primary), Linux/macOS (compatible)
+- **Python 3.9+** (the Media File Renamer on its own runs on 3.7+)
+- **Windows 10/11** or **Linux** (e.g. Ubuntu); macOS compatible
 - **Internet connection** (for GPS city lookups)
 
 ### Python Dependencies
 ```bash
-pip install pillow pillow-heif exifread
+pip install -r requirements.txt exifread
 ```
 
-**Required:**
+**Required** (listed in `requirements.txt`):
 - `pillow` - Image processing
 - `pillow-heif` - HEIC/HEIF support
+- `piexif` - Writing EXIF dates (EXIF Date Restorer)
 
 **Recommended:**
 - `exifread` - Enhanced RAW file support
 
 ### Optional Tools
-- **ffprobe** - Enhanced video metadata (auto-detected)
+- **ffprobe** - Video dates and GPS for the Media File Renamer (auto-detected). On Ubuntu: `sudo apt install ffmpeg`. The EXIF Date Restorer does not need it
 
 ## 🎨 User Interface
 
@@ -255,6 +328,17 @@ pip install exifread
 - Verify format is valid
 - Review application logs in `logs/` folder
 
+**City missing and `HTTP Error 429` in the logs?**
+- OpenStreetMap allows one free lookup per second. The renamer spaces its requests and backs off automatically
+- If lookups were paused, run the scan again later. Cities already found are cached and are not requested again
+
+**`No module named 'pillow_heif'` (or another module)?**
+- The dependencies are not installed in the Python you are running. Activate the virtual environment from Quick Start and run `pip install -r requirements.txt exifread`
+
+**Date Restorer shows "Write error" in the Note column?**
+- `No mvhd/tkhd/mdhd atom found`: the file is not a real MP4/MOV container (for example an old MPEG renamed to `.mp4`), so its date cannot be edited in place
+- `Permission denied` or `Read-only file system`: the drive is mounted read-only or you lack write access
+
 ### Getting Help
 
 1. **Check logs** - `logs/` directory contains detailed information
@@ -289,6 +373,12 @@ pip install exifread
 - **`logging_manager.py`** - Session and application logging
 - **`error_recovery.py`** - Error handling and recovery
 - **`settings_manager.py`** - Configuration management
+
+### EXIF Date Restorer
+- **`restore_dates_gui.py`** - User interface and entry point
+- **`exif_date_restorer.py`** - Filename date parsing, JPEG EXIF read/write, scan and apply
+- **`video_date_restorer.py`** - In-place creation time for MP4/MOV/M4V/3GP
+- **`livephoto_detector.py`** - Live Photo detection and organiser
 
 ## 🤝 Contributing
 
@@ -328,8 +418,8 @@ This project is open source. Feel free to use, modify, and distribute according 
 ## 🚀 Get Started Now!
 
 1. **Download** the application
-2. **Install** dependencies: `pip install pillow pillow-heif exifread`
-3. **Run** the application: `python main.py`
+2. **Install** dependencies: `pip install -r requirements.txt exifread`
+3. **Run** `python main.py` (renamer) or `python restore_dates_gui.py` (date restorer)
 4. **Select** your photo folder
 5. **Preview** the results
 6. **Process** your files!
