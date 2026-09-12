@@ -16,6 +16,7 @@ from media_processor import MediaProcessor
 from file_operations import FileOperations
 from logging_manager import LoggingManager
 from city_cache import CityCache
+import cache_sync
 
 
 class MediaRenamerGUI:
@@ -215,9 +216,13 @@ class MediaRenamerGUI:
                   command=self.save_settings).pack(side=tk.LEFT, padx=5)
         ttk.Button(button_frame, text="Show Files", 
                   command=self.show_files).pack(side=tk.LEFT, padx=5)
-        self.process_button = ttk.Button(button_frame, text="Process Files", 
+        self.process_button = ttk.Button(button_frame, text="Process Files",
                                        command=self.process_files)
         self.process_button.pack(side=tk.LEFT, padx=5)
+        ttk.Button(button_frame, text="Select GPS Only",
+                  command=self.select_gps_only).pack(side=tk.LEFT, padx=5)
+        ttk.Button(button_frame, text="Push City Cache",
+                  command=self.push_city_cache).pack(side=tk.LEFT, padx=5)
     
     def _create_file_list_section(self):
         """Create file list and statistics section."""
@@ -775,6 +780,66 @@ class MediaRenamerGUI:
         # Update statistics
         self.update_stats()
     
+    def select_gps_only(self):
+        """Select only the files that carry GPS coordinates."""
+        if not self.file_infos:
+            messagebox.showinfo("No files", "Press 'Show Files' first.")
+            return
+
+        items = self.tree.get_children()
+        with_gps = 0
+
+        for index, file_info in enumerate(self.file_infos):
+            has_gps = bool(file_info.location) and file_info.location != 'No GPS'
+            file_info.selected = has_gps
+            if has_gps:
+                with_gps += 1
+            if index < len(items):
+                values = list(self.tree.item(items[index], 'values'))
+                values[0] = '☑' if has_gps else '☐'
+                self.tree.item(items[index], values=values)
+
+        self.update_stats()
+        message = f"Selected {with_gps} of {len(self.file_infos)} files with GPS"
+        self.status_label.config(text=message)
+        if self.app_logger:
+            self.app_logger.info(message)
+
+    def push_city_cache(self):
+        """Merge the city cache with the copy on the remote, then push it."""
+        if not messagebox.askyesno(
+                "Sync city cache",
+                "Merge the city cache with the copy on GitHub and push it?\n\n"
+                "Entries from both machines are kept. Only cache/city_cache.json "
+                "is committed; nothing else in the folder is touched."):
+            return
+
+        # Flush what this session looked up, so it takes part in the merge.
+        self.city_cache.save_cache()
+
+        self.status_label.config(text="Syncing city cache with GitHub...")
+        self.root.config(cursor="watch")
+        self.root.update_idletasks()
+        try:
+            result = cache_sync.sync_city_cache(logger=self.app_logger)
+        finally:
+            self.root.config(cursor="")
+
+        # Pick up whatever the merge brought in from the other machine.
+        self.city_cache.load_cache()
+
+        summary = (f"{result.message}\n\n"
+                   f"Taken from the remote: {result.gained}\n"
+                   f"Added from this machine: {result.contributed}")
+        if result.details:
+            summary += f"\n\n{result.details[:500]}"
+
+        if result.success:
+            messagebox.showinfo("City cache", summary)
+        else:
+            messagebox.showerror("City cache", summary)
+        self.status_label.config(text=result.message)
+
     def update_stats(self, missing_metadata_count: int = 0):
         """Update file statistics display."""
         total = len(self.file_infos)
