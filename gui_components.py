@@ -17,6 +17,7 @@ from file_operations import FileOperations
 from logging_manager import LoggingManager
 from city_cache import CityCache
 import cache_sync
+import app_version
 
 
 class MediaRenamerGUI:
@@ -148,6 +149,8 @@ class MediaRenamerGUI:
         folder_frame.columnconfigure(0, weight=1)
         
         ttk.Label(folder_frame, text="Folder Path:").grid(row=0, column=0, sticky=tk.W, pady=5)
+        ttk.Label(folder_frame, text=app_version.version_label()).grid(
+            row=0, column=1, sticky=tk.E, pady=5)
         
         self.folder_var = tk.StringVar(value=self.settings_manager.get("folder_path"))
         folder_entry = ttk.Entry(folder_frame, textvariable=self.folder_var, width=50)

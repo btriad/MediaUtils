@@ -25,6 +25,7 @@ from exif_date_restorer import (
     ScanResult,
 )
 import livephoto_detector as livephoto
+import app_version
 
 def _setup_logger() -> logging.Logger:
     """Create a logger that writes to logs/restore_dates_<timestamp>.log."""
@@ -74,6 +75,11 @@ class RestoreDatesGUI:
         style = ttk.Style()
         style.configure("Treeview", foreground="black")
         style.configure("Treeview.Heading", foreground="black")
+
+        # --- Version, top right ---
+        header = ttk.Frame(self.root)
+        header.pack(fill="x", padx=10, pady=(6, 0))
+        ttk.Label(header, text=app_version.version_label()).pack(side="right")
 
         # --- Folder selection row ---
         top = ttk.Frame(self.root)
