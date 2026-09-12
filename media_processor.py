@@ -24,6 +24,7 @@ import urllib.request
 import urllib.parse
 import urllib.error
 import re
+import unicodedata
 from city_cache import CityCache
 from error_recovery import ErrorRecovery
 from xmp_handler import XMPHandler
@@ -102,6 +103,74 @@ class _NominatimRateLimiter:
 
 # Shared by every MediaProcessor: the limit applies per client, not per object.
 _nominatim_limiter = _NominatimRateLimiter()
+
+
+# --- Latin transliteration ---------------------------------------------------
+# City names end up inside filenames, so they must stay portable. Nominatim is
+# asked for English names, but it falls back to the local name when no English
+# one exists (e.g. "Δημοτική Ενότητα Φραγκίστας", "Beşiktaş", or a Chinese name).
+
+_GREEK_MAP = {
+    'α': 'a', 'β': 'v', 'γ': 'g', 'δ': 'd', 'ε': 'e', 'ζ': 'z', 'η': 'i',
+    'θ': 'th', 'ι': 'i', 'κ': 'k', 'λ': 'l', 'μ': 'm', 'ν': 'n', 'ξ': 'x',
+    'ο': 'o', 'π': 'p', 'ρ': 'r', 'σ': 's', 'ς': 's', 'τ': 't', 'υ': 'y',
+    'φ': 'f', 'χ': 'ch', 'ψ': 'ps', 'ω': 'o',
+}
+
+# Latin letters that survive diacritic stripping and need an explicit mapping.
+_LATIN_EXTRAS = {
+    'ı': 'i', 'İ': 'I', 'ğ': 'g', 'Ğ': 'G', 'ş': 's', 'Ş': 'S',
+    'ø': 'o', 'Ø': 'O', 'æ': 'ae', 'Æ': 'AE', 'œ': 'oe', 'Œ': 'OE',
+    'ß': 'ss', 'đ': 'd', 'Đ': 'D', 'ł': 'l', 'Ł': 'L',
+    'þ': 'th', 'Þ': 'Th', 'ð': 'd', 'Ð': 'D',
+}
+
+try:  # optional: adds Cyrillic, Chinese (pinyin), Japanese, Arabic, ...
+    from unidecode import unidecode as _unidecode
+except ImportError:
+    _unidecode = None
+
+
+def to_latin(text: str) -> str:
+    """
+    Render a place name in Latin letters so it is safe inside a filename.
+
+    Greek uses a dedicated table (Φραγκίστα -> Fragkista); Turkish and accented
+    Latin letters are folded to ASCII (Beşiktaş -> Besiktas). Other scripts are
+    handled by the optional `unidecode` package; without it a name that cannot
+    be converted is returned unchanged rather than lost.
+    """
+    if not text or text.isascii():
+        return text
+
+    # Drop diacritics first: é -> e, ö -> o, ά -> α, ş -> s, ğ -> g
+    stripped = ''.join(c for c in unicodedata.normalize('NFD', text)
+                       if not unicodedata.combining(c))
+
+    out = []
+    i = 0
+    while i < len(stripped):
+        ch = stripped[i]
+        if stripped[i:i + 2].lower() == 'ου':  # Σχηματαρίου -> Schimatariou
+            nxt = stripped[i + 1]
+            out.append('OU' if ch.isupper() and nxt.isupper()
+                       else 'Ou' if ch.isupper() else 'ou')
+            i += 2
+            continue
+        lowered = ch.lower()
+        if lowered in _GREEK_MAP:
+            latin = _GREEK_MAP[lowered]
+            out.append(latin.capitalize() if ch.isupper() else latin)
+        elif ch in _LATIN_EXTRAS:
+            out.append(_LATIN_EXTRAS[ch])
+        else:
+            out.append(ch)
+        i += 1
+
+    result = ''.join(out)
+    if not result.isascii() and _unidecode is not None:
+        result = _unidecode(result)
+    return result.strip() or text
 
 
 class MediaProcessor:
@@ -702,7 +771,9 @@ class MediaProcessor:
             if city:
                 city = self._clean_city_name(city)
             
-            result = city or address.get('county', '')
+            # The county fallback needs the same cleaning as a city name
+            county = address.get('county', '')
+            result = city or (self._clean_city_name(county) if county else '')
             
             if result:
                 self.logger.info(f"Successfully retrieved city for {lat}, {lon}: {result}")
@@ -766,6 +837,7 @@ class MediaProcessor:
             ('City of ', '', False),
             ('Municipality of ', '', False),
             ('Municipal Unit of ', '', False),
+            ('Municipa Unit of ', '', False),  # typo seen in OSM data
             ('Borough of ', '', False),
             ('Town of ', '', False),
             ('Village of ', '', False),
@@ -776,6 +848,7 @@ class MediaProcessor:
             ('Region of ', '', False),
             
             # Common suffixes
+            (' Municipal Unit', '', False),
             (' Municipality', '', False),
             (' City', '', False),
             (' Borough', '', False),
@@ -790,6 +863,9 @@ class MediaProcessor:
             # Greek patterns (keeping existing ones)
             ('Δημοτική Κοινότητα Καρλοβασίου', 'Karlovasi', True),
             ('Δημοτική Κοινότητα ', '', True),
+            ('Δημοτική Ενότητα ', '', True),
+            ('Δημοτικό Διαμέρισμα ', '', True),
+            ('Κοινότητα ', '', True),
             ('Δήμος ', '', True),
             
             # German patterns
@@ -844,6 +920,9 @@ class MediaProcessor:
         
         # Additional cleanup for special cases
         cleaned = self._apply_special_city_cleanups(cleaned)
+
+        # Keep filenames portable: render anything non-Latin in Latin letters.
+        cleaned = to_latin(cleaned)
         
         # Ensure we don't return empty string
         result = cleaned if cleaned else city_name

@@ -72,7 +72,7 @@
   "38.052625,23.855036": {
     "latitude": 38.052625,
     "longitude": 23.85503611111111,
-    "city": "Penteli Municipal Unit",
+    "city": "Penteli",
     "timestamp": "2025-10-18T21:45:31.203144",
     "source": "nominatim_api"
   },
@@ -485,7 +485,7 @@
   "41.038269,28.996969": {
     "latitude": 41.038269444444445,
     "longitude": 28.996969444444446,
-    "city": "Beşiktaş",
+    "city": "Besiktas",
     "timestamp": "2025-12-07T13:18:40.322071",
     "source": "nominatim_api"
   },
@@ -520,14 +520,14 @@
   "41.026711,28.982639": {
     "latitude": 41.02671111111111,
     "longitude": 28.982638888888886,
-    "city": "Beyoğlu",
+    "city": "Beyoglu",
     "timestamp": "2025-12-07T13:18:45.346575",
     "source": "nominatim_api"
   },
   "41.027614,28.986231": {
     "latitude": 41.02761388888889,
     "longitude": 28.986230555555558,
-    "city": "Beyoğlu",
+    "city": "Beyoglu",
     "timestamp": "2025-12-07T13:18:46.321698",
     "source": "nominatim_api"
   },
@@ -555,14 +555,14 @@
   "40.971589,29.073911": {
     "latitude": 40.97158888888889,
     "longitude": 29.073911111111112,
-    "city": "Kadıköy",
+    "city": "Kadikoy",
     "timestamp": "2025-12-07T13:18:50.322078",
     "source": "nominatim_api"
   },
   "41.036822,28.985169": {
     "latitude": 41.0368222,
     "longitude": 28.985169366666668,
-    "city": "Beyoğlu",
+    "city": "Beyoglu",
     "timestamp": "2025-12-07T20:07:14.178119",
     "source": "nominatim_api"
   },
@@ -604,7 +604,7 @@
   "38.956547,21.607381": {
     "latitude": 38.95654722222223,
     "longitude": 21.607380555555558,
-    "city": "Δημοτική Ενότητα Φραγκίστας",
+    "city": "Fragkistas",
     "timestamp": "2026-01-10T13:02:35.082883",
     "source": "nominatim_api"
   },
@@ -639,7 +639,7 @@
   "37.666247,23.994933": {
     "latitude": 37.66624722222222,
     "longitude": 23.994933333333336,
-    "city": "Lavreotiki Municipal Unit",
+    "city": "Lavreotiki",
     "timestamp": "2026-03-15T19:42:02.224167",
     "source": "nominatim_api"
   },
@@ -674,7 +674,7 @@
   "38.027058,23.847031": {
     "latitude": 38.02705833333333,
     "longitude": 23.847030555555556,
-    "city": "Gerakas Municipal Unit",
+    "city": "Gerakas",
     "timestamp": "2026-03-15T19:42:04.923230",
     "source": "nominatim_api"
   },
@@ -730,7 +730,7 @@
   "37.573997,22.237628": {
     "latitude": 37.573997222222225,
     "longitude": 22.237627777777778,
-    "city": "Municipa Unit of Falanthos",
+    "city": "Falanthos",
     "timestamp": "2026-03-15T19:42:09.257977",
     "source": "nominatim_api"
   },
@@ -744,21 +744,21 @@
   "37.553964,22.259064": {
     "latitude": 37.55396388888889,
     "longitude": 22.25906388888889,
-    "city": "Municipa Unit of Falanthos",
+    "city": "Falanthos",
     "timestamp": "2026-03-15T19:42:09.897690",
     "source": "nominatim_api"
   },
   "37.574506,22.240186": {
     "latitude": 37.57450555555556,
     "longitude": 22.24018611111111,
-    "city": "Municipa Unit of Falanthos",
+    "city": "Falanthos",
     "timestamp": "2026-03-15T19:42:10.153982",
     "source": "nominatim_api"
   },
   "37.979400,23.884100": {
     "latitude": 37.9794,
     "longitude": 23.8841,
-    "city": "Paiania Municipal Unit",
+    "city": "Paiania",
     "timestamp": "2026-03-16T21:21:01.837741",
     "source": "nominatim_api"
   },
@@ -781,6 +781,748 @@
     "longitude": 23.8207,
     "city": "Agia Paraskevi",
     "timestamp": "2026-03-16T21:21:17.252017",
+    "source": "nominatim_api"
+  },
+  "39.069294,22.558947": {
+    "latitude": 39.069294444444445,
+    "longitude": 22.558947222222223,
+    "city": "Anavra",
+    "timestamp": "2026-08-15T14:31:36.566280",
+    "source": "nominatim_api"
+  },
+  "39.069553,22.560444": {
+    "latitude": 39.06955277777778,
+    "longitude": 22.560444444444446,
+    "city": "Anavra",
+    "timestamp": "2026-08-15T14:31:37.142482",
+    "source": "nominatim_api"
+  },
+  "39.072553,22.551372": {
+    "latitude": 39.07255277777778,
+    "longitude": 22.551372222222223,
+    "city": "Anavra",
+    "timestamp": "2026-08-15T14:31:37.495884",
+    "source": "nominatim_api"
+  },
+  "39.072181,22.549958": {
+    "latitude": 39.07218055555556,
+    "longitude": 22.549958333333336,
+    "city": "Anavra",
+    "timestamp": "2026-08-15T14:31:38.380581",
+    "source": "nominatim_api"
+  },
+  "39.074764,22.551908": {
+    "latitude": 39.074763888888896,
+    "longitude": 22.551908333333333,
+    "city": "Anavra",
+    "timestamp": "2026-08-15T14:31:38.963531",
+    "source": "nominatim_api"
+  },
+  "38.003369,23.789136": {
+    "latitude": 38.003369444444445,
+    "longitude": 23.789136111111112,
+    "city": "Neo Psychiko",
+    "timestamp": "2026-08-15T14:31:39.407158",
+    "source": "nominatim_api"
+  },
+  "37.952800,23.708000": {
+    "latitude": 37.9528,
+    "longitude": 23.708,
+    "city": "Kallithea",
+    "timestamp": "2026-08-15T14:31:40.851842",
+    "source": "nominatim_api"
+  },
+  "38.362625,23.549964": {
+    "latitude": 38.362625,
+    "longitude": 23.54996388888889,
+    "city": "Schimatariou",
+    "timestamp": "2026-08-15T14:31:42.045571",
+    "source": "nominatim_api"
+  },
+  "38.903836,21.902006": {
+    "latitude": 38.90383611111111,
+    "longitude": 21.902005555555554,
+    "city": "Tymfristos",
+    "timestamp": "2026-08-15T14:31:42.552874",
+    "source": "nominatim_api"
+  },
+  "38.795567,21.852478": {
+    "latitude": 38.795566666666666,
+    "longitude": 21.85247777777778,
+    "city": "Domnista",
+    "timestamp": "2026-08-15T14:31:43.557372",
+    "source": "nominatim_api"
+  },
+  "38.795569,21.850850": {
+    "latitude": 38.79556944444444,
+    "longitude": 21.85085,
+    "city": "Domnista",
+    "timestamp": "2026-08-15T14:31:45.746590",
+    "source": "nominatim_api"
+  },
+  "38.828217,21.725389": {
+    "latitude": 38.82821666666667,
+    "longitude": 21.725388888888887,
+    "city": "Potamia",
+    "timestamp": "2026-08-15T14:31:46.246580",
+    "source": "nominatim_api"
+  },
+  "38.827350,21.743214": {
+    "latitude": 38.82735,
+    "longitude": 21.74321388888889,
+    "city": "Potamia",
+    "timestamp": "2026-08-15T14:31:46.805668",
+    "source": "nominatim_api"
+  },
+  "38.873256,21.664689": {
+    "latitude": 38.87325555555556,
+    "longitude": 21.664688888888886,
+    "city": "Karpenisi",
+    "timestamp": "2026-08-15T14:31:49.132275",
+    "source": "nominatim_api"
+  },
+  "37.893469,24.011658": {
+    "latitude": 37.89346944444444,
+    "longitude": 24.011658333333333,
+    "city": "Markopoulo Mesogaias",
+    "timestamp": "2026-08-15T14:31:50.895239",
+    "source": "nominatim_api"
+  },
+  "38.013725,23.830647": {
+    "latitude": 38.013725,
+    "longitude": 23.830647222222222,
+    "city": "Agia Paraskevi",
+    "timestamp": "2026-08-15T14:31:51.380003",
+    "source": "nominatim_api"
+  },
+  "39.015700,23.337983": {
+    "latitude": 39.0157,
+    "longitude": 23.337983333333334,
+    "city": "Istiaia-Aidipsos",
+    "timestamp": "2026-08-15T14:31:51.767406",
+    "source": "nominatim_api"
+  },
+  "37.517844,22.858589": {
+    "latitude": 37.51784444444444,
+    "longitude": 22.85858888888889,
+    "city": "Asini",
+    "timestamp": "2026-08-15T14:31:57.028259",
+    "source": "nominatim_api"
+  },
+  "38.085564,23.984681": {
+    "latitude": 38.08556388888889,
+    "longitude": 23.984680555555556,
+    "city": "Nea Makri",
+    "timestamp": "2026-08-15T14:31:58.172213",
+    "source": "nominatim_api"
+  },
+  "37.937722,23.949158": {
+    "latitude": 37.93772222222222,
+    "longitude": 23.949158333333333,
+    "city": "Spata-Loutsa",
+    "timestamp": "2026-08-28T17:17:35.619588",
+    "source": "nominatim_api"
+  },
+  "41.796261,12.255211": {
+    "latitude": 41.79626111111111,
+    "longitude": 12.25521111111111,
+    "city": "Fiumicino",
+    "timestamp": "2026-08-28T17:17:35.925739",
+    "source": "nominatim_api"
+  },
+  "41.895894,12.479025": {
+    "latitude": 41.895894444444444,
+    "longitude": 12.479025,
+    "city": "Rome",
+    "timestamp": "2026-08-28T17:17:36.181038",
+    "source": "nominatim_api"
+  },
+  "41.894572,12.474331": {
+    "latitude": 41.89457222222222,
+    "longitude": 12.474330555555555,
+    "city": "Rome",
+    "timestamp": "2026-08-28T17:17:36.427285",
+    "source": "nominatim_api"
+  },
+  "41.898933,12.473289": {
+    "latitude": 41.89893333333333,
+    "longitude": 12.47328888888889,
+    "city": "Rome",
+    "timestamp": "2026-08-28T17:17:36.692486",
+    "source": "nominatim_api"
+  },
+  "41.899692,12.476469": {
+    "latitude": 41.89969166666667,
+    "longitude": 12.476469444444444,
+    "city": "Rome",
+    "timestamp": "2026-08-28T17:17:37.061393",
+    "source": "nominatim_api"
+  },
+  "41.899139,12.479708": {
+    "latitude": 41.899138888888885,
+    "longitude": 12.479708333333333,
+    "city": "Rome",
+    "timestamp": "2026-08-28T17:17:37.845478",
+    "source": "nominatim_api"
+  },
+  "41.896306,12.481939": {
+    "latitude": 41.89630555555556,
+    "longitude": 12.48193888888889,
+    "city": "Rome",
+    "timestamp": "2026-08-28T17:17:38.198232",
+    "source": "nominatim_api"
+  },
+  "41.894931,12.481572": {
+    "latitude": 41.894930555555554,
+    "longitude": 12.481572222222223,
+    "city": "Rome",
+    "timestamp": "2026-08-28T17:17:38.458621",
+    "source": "nominatim_api"
+  },
+  "41.890347,12.470972": {
+    "latitude": 41.890347222222225,
+    "longitude": 12.470972222222223,
+    "city": "Rome",
+    "timestamp": "2026-08-28T17:17:38.699421",
+    "source": "nominatim_api"
+  },
+  "41.891586,12.469900": {
+    "latitude": 41.89158611111111,
+    "longitude": 12.4699,
+    "city": "Rome",
+    "timestamp": "2026-08-28T17:17:39.004019",
+    "source": "nominatim_api"
+  },
+  "41.891139,12.468069": {
+    "latitude": 41.89113888888889,
+    "longitude": 12.468069444444444,
+    "city": "Rome",
+    "timestamp": "2026-08-28T17:17:39.344828",
+    "source": "nominatim_api"
+  },
+  "41.890025,12.469061": {
+    "latitude": 41.890025,
+    "longitude": 12.469061111111111,
+    "city": "Rome",
+    "timestamp": "2026-08-28T17:17:39.634169",
+    "source": "nominatim_api"
+  },
+  "41.902183,12.493950": {
+    "latitude": 41.90218333333333,
+    "longitude": 12.49395,
+    "city": "Rome",
+    "timestamp": "2026-08-28T17:17:40.431875",
+    "source": "nominatim_api"
+  },
+  "41.902442,12.495683": {
+    "latitude": 41.90244166666667,
+    "longitude": 12.495683333333332,
+    "city": "Rome",
+    "timestamp": "2026-08-28T17:17:40.757485",
+    "source": "nominatim_api"
+  },
+  "41.910564,12.472306": {
+    "latitude": 41.91056388888889,
+    "longitude": 12.472305555555556,
+    "city": "Rome",
+    "timestamp": "2026-08-28T17:17:41.016390",
+    "source": "nominatim_api"
+  },
+  "41.909103,12.457936": {
+    "latitude": 41.909102777777775,
+    "longitude": 12.45793611111111,
+    "city": "Rome",
+    "timestamp": "2026-08-28T17:17:41.310354",
+    "source": "nominatim_api"
+  },
+  "41.903933,12.457689": {
+    "latitude": 41.903933333333335,
+    "longitude": 12.457688888888889,
+    "city": "Rome",
+    "timestamp": "2026-08-28T17:17:41.685236",
+    "source": "nominatim_api"
+  },
+  "45.437447,12.341003": {
+    "latitude": 45.43744722222222,
+    "longitude": 12.341002777777778,
+    "city": "Venice",
+    "timestamp": "2026-08-28T17:32:52.653254",
+    "source": "nominatim_api"
+  },
+  "45.434989,12.340631": {
+    "latitude": 45.43498888888889,
+    "longitude": 12.340630555555556,
+    "city": "Venice",
+    "timestamp": "2026-08-28T17:32:53.041323",
+    "source": "nominatim_api"
+  },
+  "45.433925,12.338158": {
+    "latitude": 45.433924999999995,
+    "longitude": 12.338158333333334,
+    "city": "Venice",
+    "timestamp": "2026-08-28T17:32:53.413466",
+    "source": "nominatim_api"
+  },
+  "45.436089,12.337556": {
+    "latitude": 45.43608888888888,
+    "longitude": 12.337555555555555,
+    "city": "Venice",
+    "timestamp": "2026-08-28T17:32:53.900057",
+    "source": "nominatim_api"
+  },
+  "45.438033,12.336194": {
+    "latitude": 45.43803333333333,
+    "longitude": 12.336194444444445,
+    "city": "Venice",
+    "timestamp": "2026-08-28T17:32:54.780915",
+    "source": "nominatim_api"
+  },
+  "45.437111,12.335161": {
+    "latitude": 45.43711111111111,
+    "longitude": 12.335161111111113,
+    "city": "Venice",
+    "timestamp": "2026-08-28T17:32:55.401601",
+    "source": "nominatim_api"
+  },
+  "45.434892,12.335986": {
+    "latitude": 45.434891666666665,
+    "longitude": 12.335986111111112,
+    "city": "Venice",
+    "timestamp": "2026-08-28T17:32:55.699326",
+    "source": "nominatim_api"
+  },
+  "45.434292,12.339303": {
+    "latitude": 45.43429166666667,
+    "longitude": 12.339302777777778,
+    "city": "Venice",
+    "timestamp": "2026-08-28T17:32:55.917602",
+    "source": "nominatim_api"
+  },
+  "45.436222,12.339206": {
+    "latitude": 45.43622222222222,
+    "longitude": 12.339205555555557,
+    "city": "Venice",
+    "timestamp": "2026-08-28T17:32:56.990069",
+    "source": "nominatim_api"
+  },
+  "45.433067,12.335597": {
+    "latitude": 45.43306666666666,
+    "longitude": 12.335597222222223,
+    "city": "Venice",
+    "timestamp": "2026-08-28T17:32:57.231124",
+    "source": "nominatim_api"
+  },
+  "45.432517,12.333478": {
+    "latitude": 45.432516666666665,
+    "longitude": 12.333477777777778,
+    "city": "Venice",
+    "timestamp": "2026-08-28T17:32:57.527799",
+    "source": "nominatim_api"
+  },
+  "45.431747,12.328956": {
+    "latitude": 45.43174722222222,
+    "longitude": 12.328955555555556,
+    "city": "Venice",
+    "timestamp": "2026-08-28T17:32:57.956050",
+    "source": "nominatim_api"
+  },
+  "45.430417,12.329656": {
+    "latitude": 45.430416666666666,
+    "longitude": 12.329655555555556,
+    "city": "Venice",
+    "timestamp": "2026-08-28T17:32:58.233113",
+    "source": "nominatim_api"
+  },
+  "45.430711,12.333411": {
+    "latitude": 45.43071111111111,
+    "longitude": 12.333411111111111,
+    "city": "Venice",
+    "timestamp": "2026-08-28T17:32:58.591555",
+    "source": "nominatim_api"
+  },
+  "45.431044,12.334439": {
+    "latitude": 45.43104444444444,
+    "longitude": 12.33443888888889,
+    "city": "Venice",
+    "timestamp": "2026-08-28T17:32:58.837862",
+    "source": "nominatim_api"
+  },
+  "45.433278,12.330542": {
+    "latitude": 45.433277777777775,
+    "longitude": 12.330541666666667,
+    "city": "Venice",
+    "timestamp": "2026-08-28T17:32:59.439505",
+    "source": "nominatim_api"
+  },
+  "45.435958,12.341789": {
+    "latitude": 45.43595833333333,
+    "longitude": 12.341788888888889,
+    "city": "Venice",
+    "timestamp": "2026-08-28T17:32:59.844517",
+    "source": "nominatim_api"
+  },
+  "45.432469,12.337639": {
+    "latitude": 45.43246944444444,
+    "longitude": 12.33763888888889,
+    "city": "Venice",
+    "timestamp": "2026-08-28T17:48:07.629843",
+    "source": "nominatim_api"
+  },
+  "45.432731,12.339422": {
+    "latitude": 45.43273055555555,
+    "longitude": 12.339422222222224,
+    "city": "Venice",
+    "timestamp": "2026-08-28T17:48:08.071621",
+    "source": "nominatim_api"
+  },
+  "45.434822,12.342958": {
+    "latitude": 45.434822222222216,
+    "longitude": 12.342958333333334,
+    "city": "Venice",
+    "timestamp": "2026-08-28T17:48:08.603534",
+    "source": "nominatim_api"
+  },
+  "45.432617,12.349436": {
+    "latitude": 45.43261666666666,
+    "longitude": 12.349436111111112,
+    "city": "Venice",
+    "timestamp": "2026-08-28T17:48:08.928004",
+    "source": "nominatim_api"
+  },
+  "45.433228,12.351428": {
+    "latitude": 45.43322777777777,
+    "longitude": 12.351427777777777,
+    "city": "Venice",
+    "timestamp": "2026-08-28T17:48:09.767674",
+    "source": "nominatim_api"
+  },
+  "45.434606,12.350081": {
+    "latitude": 45.43460555555555,
+    "longitude": 12.350080555555556,
+    "city": "Venice",
+    "timestamp": "2026-08-28T17:48:10.106062",
+    "source": "nominatim_api"
+  },
+  "41.911472,12.476308": {
+    "latitude": 41.91147222222222,
+    "longitude": 12.476308333333334,
+    "city": "Rome",
+    "timestamp": "2026-08-28T17:49:43.334076",
+    "source": "nominatim_api"
+  },
+  "41.908522,12.478983": {
+    "latitude": 41.908522222222224,
+    "longitude": 12.478983333333334,
+    "city": "Rome",
+    "timestamp": "2026-08-28T17:49:44.182027",
+    "source": "nominatim_api"
+  },
+  "41.905808,12.482081": {
+    "latitude": 41.90580833333333,
+    "longitude": 12.482080555555555,
+    "city": "Rome",
+    "timestamp": "2026-08-28T17:49:45.002300",
+    "source": "nominatim_api"
+  },
+  "41.906392,12.480650": {
+    "latitude": 41.906391666666664,
+    "longitude": 12.48065,
+    "city": "Rome",
+    "timestamp": "2026-08-28T17:49:45.303992",
+    "source": "nominatim_api"
+  },
+  "41.891153,12.491006": {
+    "latitude": 41.891152777777776,
+    "longitude": 12.491005555555555,
+    "city": "Rome",
+    "timestamp": "2026-08-28T17:49:45.567863",
+    "source": "nominatim_api"
+  },
+  "41.890564,12.488419": {
+    "latitude": 41.89056388888889,
+    "longitude": 12.488419444444444,
+    "city": "Rome",
+    "timestamp": "2026-08-28T17:49:46.319759",
+    "source": "nominatim_api"
+  },
+  "41.889575,12.490506": {
+    "latitude": 41.889575,
+    "longitude": 12.490505555555554,
+    "city": "Rome",
+    "timestamp": "2026-08-28T17:49:46.578359",
+    "source": "nominatim_api"
+  },
+  "41.884114,12.488350": {
+    "latitude": 41.88411388888889,
+    "longitude": 12.488349999999999,
+    "city": "Rome",
+    "timestamp": "2026-08-28T17:49:46.823292",
+    "source": "nominatim_api"
+  },
+  "44.841033,11.602067": {
+    "latitude": 44.841033333333336,
+    "longitude": 11.602066666666666,
+    "city": "Ferrara",
+    "timestamp": "2026-08-28T17:49:47.235227",
+    "source": "nominatim_api"
+  },
+  "45.441056,12.321414": {
+    "latitude": 45.44105555555555,
+    "longitude": 12.32141388888889,
+    "city": "Venice",
+    "timestamp": "2026-08-28T17:49:47.523820",
+    "source": "nominatim_api"
+  },
+  "45.438831,12.319236": {
+    "latitude": 45.438830555555555,
+    "longitude": 12.319236111111111,
+    "city": "Venice",
+    "timestamp": "2026-08-28T17:49:47.786902",
+    "source": "nominatim_api"
+  },
+  "45.433483,12.340486": {
+    "latitude": 45.43348333333333,
+    "longitude": 12.340486111111112,
+    "city": "Venice",
+    "timestamp": "2026-08-28T18:04:56.904889",
+    "source": "nominatim_api"
+  },
+  "45.439094,12.335267": {
+    "latitude": 45.43909444444444,
+    "longitude": 12.335266666666667,
+    "city": "Venice",
+    "timestamp": "2026-08-28T18:04:59.167097",
+    "source": "nominatim_api"
+  },
+  "45.439778,12.334125": {
+    "latitude": 45.43977777777778,
+    "longitude": 12.334125,
+    "city": "Venice",
+    "timestamp": "2026-08-28T18:04:59.535130",
+    "source": "nominatim_api"
+  },
+  "45.437686,12.337758": {
+    "latitude": 45.437686111111105,
+    "longitude": 12.337758333333333,
+    "city": "Venice",
+    "timestamp": "2026-08-28T18:05:00.737694",
+    "source": "nominatim_api"
+  },
+  "45.433750,12.334019": {
+    "latitude": 45.433749999999996,
+    "longitude": 12.334019444444445,
+    "city": "Venice",
+    "timestamp": "2026-08-28T18:05:01.449816",
+    "source": "nominatim_api"
+  },
+  "45.437125,12.304139": {
+    "latitude": 45.437124999999995,
+    "longitude": 12.30413888888889,
+    "city": "Venice",
+    "timestamp": "2026-08-28T18:08:14.867700",
+    "source": "nominatim_api"
+  },
+  "45.429347,12.314656": {
+    "latitude": 45.42934722222222,
+    "longitude": 12.314655555555555,
+    "city": "Venice",
+    "timestamp": "2026-08-28T18:08:15.082289",
+    "source": "nominatim_api"
+  },
+  "45.429992,12.318658": {
+    "latitude": 45.429991666666666,
+    "longitude": 12.318658333333333,
+    "city": "Venice",
+    "timestamp": "2026-08-28T18:08:15.337762",
+    "source": "nominatim_api"
+  },
+  "45.429231,12.325425": {
+    "latitude": 45.429230555555556,
+    "longitude": 12.325425,
+    "city": "Venice",
+    "timestamp": "2026-08-28T18:08:15.689920",
+    "source": "nominatim_api"
+  },
+  "45.427006,12.325253": {
+    "latitude": 45.42700555555555,
+    "longitude": 12.325252777777777,
+    "city": "Venice",
+    "timestamp": "2026-08-28T18:08:16.530772",
+    "source": "nominatim_api"
+  },
+  "45.425586,12.332394": {
+    "latitude": 45.42558611111111,
+    "longitude": 12.332394444444445,
+    "city": "Venice",
+    "timestamp": "2026-08-28T18:08:16.950440",
+    "source": "nominatim_api"
+  },
+  "45.427569,12.338481": {
+    "latitude": 45.427569444444444,
+    "longitude": 12.338480555555556,
+    "city": "Venice",
+    "timestamp": "2026-08-28T18:08:17.279791",
+    "source": "nominatim_api"
+  },
+  "45.429772,12.342403": {
+    "latitude": 45.42977222222222,
+    "longitude": 12.342402777777778,
+    "city": "Venice",
+    "timestamp": "2026-08-28T18:08:17.540850",
+    "source": "nominatim_api"
+  },
+  "45.432481,12.344978": {
+    "latitude": 45.43248055555555,
+    "longitude": 12.344977777777778,
+    "city": "Venice",
+    "timestamp": "2026-08-28T18:08:18.350950",
+    "source": "nominatim_api"
+  },
+  "45.433658,12.343981": {
+    "latitude": 45.43365833333333,
+    "longitude": 12.343980555555556,
+    "city": "Venice",
+    "timestamp": "2026-08-28T18:08:19.146784",
+    "source": "nominatim_api"
+  },
+  "45.434025,12.341694": {
+    "latitude": 45.434025,
+    "longitude": 12.341694444444444,
+    "city": "Venice",
+    "timestamp": "2026-08-28T18:08:19.560157",
+    "source": "nominatim_api"
+  },
+  "45.461400,12.285500": {
+    "latitude": 45.4614,
+    "longitude": 12.2855,
+    "city": "Venice",
+    "timestamp": "2026-08-28T18:23:53.136447",
+    "source": "nominatim_api"
+  },
+  "45.428200,12.324900": {
+    "latitude": 45.4282,
+    "longitude": 12.3249,
+    "city": "Venice",
+    "timestamp": "2026-08-28T18:23:58.638810",
+    "source": "nominatim_api"
+  },
+  "45.449300,12.346300": {
+    "latitude": 45.4493,
+    "longitude": 12.3463,
+    "city": "Venice",
+    "timestamp": "2026-08-28T18:25:43.040857",
+    "source": "nominatim_api"
+  },
+  "45.456000,12.352600": {
+    "latitude": 45.456,
+    "longitude": 12.3526,
+    "city": "Venice",
+    "timestamp": "2026-08-28T18:25:43.576738",
+    "source": "nominatim_api"
+  },
+  "45.453500,12.351800": {
+    "latitude": 45.4535,
+    "longitude": 12.3518,
+    "city": "Venice",
+    "timestamp": "2026-08-28T18:25:50.457661",
+    "source": "nominatim_api"
+  },
+  "45.453500,12.353100": {
+    "latitude": 45.4535,
+    "longitude": 12.3531,
+    "city": "Venice",
+    "timestamp": "2026-08-28T18:25:51.883596",
+    "source": "nominatim_api"
+  },
+  "45.454800,12.355300": {
+    "latitude": 45.4548,
+    "longitude": 12.3553,
+    "city": "Venice",
+    "timestamp": "2026-08-28T18:25:52.918890",
+    "source": "nominatim_api"
+  },
+  "45.486200,12.416000": {
+    "latitude": 45.4862,
+    "longitude": 12.416,
+    "city": "Venice",
+    "timestamp": "2026-08-28T18:25:56.609773",
+    "source": "nominatim_api"
+  },
+  "45.485700,12.417600": {
+    "latitude": 45.4857,
+    "longitude": 12.4176,
+    "city": "Venice",
+    "timestamp": "2026-08-28T18:25:59.282816",
+    "source": "nominatim_api"
+  },
+  "45.484600,12.418200": {
+    "latitude": 45.4846,
+    "longitude": 12.4182,
+    "city": "Venice",
+    "timestamp": "2026-08-28T18:26:02.103039",
+    "source": "nominatim_api"
+  },
+  "45.437300,12.342100": {
+    "latitude": 45.4373,
+    "longitude": 12.3421,
+    "city": "Venice",
+    "timestamp": "2026-08-28T18:26:06.256568",
+    "source": "nominatim_api"
+  },
+  "45.437700,12.343500": {
+    "latitude": 45.4377,
+    "longitude": 12.3435,
+    "city": "Venice",
+    "timestamp": "2026-08-28T18:26:10.590402",
+    "source": "nominatim_api"
+  },
+  "45.438500,12.341300": {
+    "latitude": 45.4385,
+    "longitude": 12.3413,
+    "city": "Venice",
+    "timestamp": "2026-08-28T18:26:15.894983",
+    "source": "nominatim_api"
+  },
+  "45.436100,12.340700": {
+    "latitude": 45.4361,
+    "longitude": 12.3407,
+    "city": "Venice",
+    "timestamp": "2026-08-28T18:26:26.262724",
+    "source": "nominatim_api"
+  },
+  "45.432800,12.342000": {
+    "latitude": 45.4328,
+    "longitude": 12.342,
+    "city": "Venice",
+    "timestamp": "2026-08-28T18:26:27.553547",
+    "source": "nominatim_api"
+  },
+  "45.431400,12.331700": {
+    "latitude": 45.4314,
+    "longitude": 12.3317,
+    "city": "Venice",
+    "timestamp": "2026-08-28T18:26:29.241848",
+    "source": "nominatim_api"
+  },
+  "45.432500,12.327600": {
+    "latitude": 45.4325,
+    "longitude": 12.3276,
+    "city": "Venice",
+    "timestamp": "2026-08-28T18:26:31.535386",
+    "source": "nominatim_api"
+  },
+  "45.433900,12.327100": {
+    "latitude": 45.4339,
+    "longitude": 12.3271,
+    "city": "Venice",
+    "timestamp": "2026-08-28T18:26:32.931947",
+    "source": "nominatim_api"
+  },
+  "45.435300,12.328800": {
+    "latitude": 45.4353,
+    "longitude": 12.3288,
+    "city": "Venice",
+    "timestamp": "2026-08-28T18:26:33.632450",
     "source": "nominatim_api"
   }
 }

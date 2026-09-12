@@ -9,6 +9,9 @@ test.MOV
 # Ignore settings and temporary files
 settings.json
 
+# Local backups
+*.bak
+
 # Python cache
 __pycache__/
 *.pyc
