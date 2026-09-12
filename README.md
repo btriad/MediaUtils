@@ -302,6 +302,21 @@ pip install -r requirements.txt exifread
 - **File preview** with metadata display
 - **Progress tracking** with detailed status
 - **Statistics display** with cache info
+- **Version label** in the top-right corner, e.g. `v2.1.0.2026.09.12`: the version plus the date of the last commit, so it is clear which build is running on each machine
+- **Select All** and **GPS only** checkboxes above the file list. `GPS only` ticks just the files that carry GPS coordinates, so a batch can be limited to the ones that will get a city in their name
+- **Push City Cache** button, kept apart from the rename actions
+
+### Sharing the city cache between machines
+
+`cache/city_cache.json` lives in the repository, so two machines can reuse the same GPS lookups instead of asking OpenStreetMap twice. **Push City Cache** merges rather than overwrites:
+
+1. Saves what the current session looked up
+2. Fetches the copy on the remote and merges it key by key; when both sides have the same coordinates, the newer entry wins
+3. Fast-forwards the branch when it is behind, so the push is not rejected
+4. Commits only `cache/city_cache.json` and pushes it
+5. Reloads the merged cache into the running application
+
+It asks for confirmation first, and afterwards reports how many entries came from the remote and how many this machine contributed. If the push fails, the merged cache has still been written locally, so no lookup is lost.
 
 ### Validation Features
 - **Real-time format checking**

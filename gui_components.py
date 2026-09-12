@@ -222,8 +222,9 @@ class MediaRenamerGUI:
         self.process_button = ttk.Button(button_frame, text="Process Files",
                                        command=self.process_files)
         self.process_button.pack(side=tk.LEFT, padx=5)
-        ttk.Button(button_frame, text="Select GPS Only",
-                  command=self.select_gps_only).pack(side=tk.LEFT, padx=5)
+        # Cache sync is not part of the rename workflow: keep it apart.
+        ttk.Separator(button_frame, orient=tk.VERTICAL).pack(
+            side=tk.LEFT, fill=tk.Y, padx=20, pady=2)
         ttk.Button(button_frame, text="Push City Cache",
                   command=self.push_city_cache).pack(side=tk.LEFT, padx=5)
     
@@ -246,6 +247,12 @@ class MediaRenamerGUI:
                                        variable=self.select_all_var, 
                                        command=self.toggle_all)
         select_all_cb.pack(side=tk.LEFT, padx=(20, 0))
+
+        self.gps_only_var = tk.BooleanVar()
+        gps_only_cb = ttk.Checkbutton(stats_frame, text="GPS only",
+                                      variable=self.gps_only_var,
+                                      command=self.toggle_gps_only)
+        gps_only_cb.pack(side=tk.LEFT, padx=(10, 0))
         
         # Treeview for file list
         self._create_file_treeview(files_frame)
@@ -742,6 +749,7 @@ class MediaRenamerGUI:
             # Toggle selection in data
             old_state = self.file_infos[item_index].selected
             self.file_infos[item_index].selected = not old_state
+            self.gps_only_var.set(False)  # manual change, no longer GPS-based
             
             if self.app_logger:
                 filename = self.file_infos[item_index].original_name
@@ -764,6 +772,7 @@ class MediaRenamerGUI:
     def toggle_all(self):
         """Toggle selection state of all files."""
         select_state = self.select_all_var.get()
+        self.gps_only_var.set(False)  # the selection is no longer GPS-based
         
         if self.app_logger:
             action = "selected" if select_state else "deselected"
@@ -783,10 +792,13 @@ class MediaRenamerGUI:
         # Update statistics
         self.update_stats()
     
-    def select_gps_only(self):
-        """Select only the files that carry GPS coordinates."""
-        if not self.file_infos:
+    def toggle_gps_only(self):
+        """Tick: select only files that carry GPS coordinates. Untick: clear."""
+        gps_only = self.gps_only_var.get()
+
+        if gps_only and not self.file_infos:
             messagebox.showinfo("No files", "Press 'Show Files' first.")
+            self.gps_only_var.set(False)
             return
 
         items = self.tree.get_children()
@@ -794,16 +806,17 @@ class MediaRenamerGUI:
 
         for index, file_info in enumerate(self.file_infos):
             has_gps = bool(file_info.location) and file_info.location != 'No GPS'
-            file_info.selected = has_gps
+            file_info.selected = has_gps and gps_only
             if has_gps:
                 with_gps += 1
             if index < len(items):
                 values = list(self.tree.item(items[index], 'values'))
-                values[0] = '☑' if has_gps else '☐'
+                values[0] = '☑' if file_info.selected else '☐'
                 self.tree.item(items[index], values=values)
 
         self.update_stats()
-        message = f"Selected {with_gps} of {len(self.file_infos)} files with GPS"
+        message = (f"Selected {with_gps} of {len(self.file_infos)} files with GPS"
+                   if gps_only else "Cleared the GPS selection")
         self.status_label.config(text=message)
         if self.app_logger:
             self.app_logger.info(message)
